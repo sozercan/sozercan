@@ -9,7 +9,7 @@
 #### 🌱 My latest projects
 
 - [sozercan/buildkit-nvidia](https://github.com/sozercan/buildkit-nvidia) - 🏗️ Build with NVIDIA GPUs using buildkit
-- [sozercan/copa-test](https://github.com/sozercan/copa-test) - 
+- [sozercan/copa-test](https://github.com/sozercan/copa-test) - 🎬 Examples of Copa usage with GitHub Actions
 - [sozercan/gatekeeper-demo](https://github.com/sozercan/gatekeeper-demo) - 🎬 Gatekeeper demo - CEL&#43;Rego&#43;PubSub
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [sozercan/guac-ai-mole](https://github.com/sozercan/guac-ai-mole) - 🥑 Inspect and understand an organization&#39;s software supply chain that enables stakeholders to make actionable decisions about software supply chain security
