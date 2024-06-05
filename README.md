@@ -1,5 +1,3 @@
-### Hi there 👋
-
 #### 👷 Check out what I'm currently working on
 
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (5 days ago)
