@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (1 day ago)
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 days ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (2 days ago)
+- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (3 days ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. (1 week ago)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C&#43;&#43; (2 weeks ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (3 weeks ago)
@@ -16,25 +16,25 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: move codestral to self hosted update models](https://github.com/sozercan/aikit/pull/312) on [sozercan/aikit](https://github.com/sozercan/aikit) (2 days ago)
-- [cherry pick #309](https://github.com/sozercan/aikit/pull/310) on [sozercan/aikit](https://github.com/sozercan/aikit) (2 days ago)
-- [fix: drop gguf from ollama artifacts model name](https://github.com/sozercan/aikit/pull/309) on [sozercan/aikit](https://github.com/sozercan/aikit) (2 days ago)
-- [chore: update unsloth to june2024](https://github.com/sozercan/aikit/pull/302) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 days ago)
-- [docs: webui quick start](https://github.com/sozercan/aikit/pull/300) on [sozercan/aikit](https://github.com/sozercan/aikit) (4 days ago)
+- [chore: move codestral to self hosted update models](https://github.com/sozercan/aikit/pull/312) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 days ago)
+- [cherry pick #309](https://github.com/sozercan/aikit/pull/310) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 days ago)
+- [fix: drop gguf from ollama artifacts model name](https://github.com/sozercan/aikit/pull/309) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 days ago)
+- [chore: update unsloth to june2024](https://github.com/sozercan/aikit/pull/302) on [sozercan/aikit](https://github.com/sozercan/aikit) (4 days ago)
+- [docs: webui quick start](https://github.com/sozercan/aikit/pull/300) on [sozercan/aikit](https://github.com/sozercan/aikit) (5 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3151](https://github.com/ggerganov/llama.cpp/releases/tag/b3151), 1 day ago) - LLM inference in C/C&#43;&#43;
-- [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.11.1](https://github.com/sozercan/aikit/releases/tag/v0.11.1), 2 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3153](https://github.com/ggerganov/llama.cpp/releases/tag/b3153), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.11.1](https://github.com/sozercan/aikit/releases/tag/v0.11.1), 3 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [Azure/azure-workload-identity](https://github.com/Azure/azure-workload-identity) ([v1.3.0](https://github.com/Azure/azure-workload-identity/releases/tag/v1.3.0), 1 week ago) - Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory (AAD) with pods.
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.16.3](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.16.3), 3 weeks ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.16.0](https://github.com/mudler/LocalAI/releases/tag/v2.16.0), 3 weeks ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 
 #### ⭐ Recent Stars
 
-- [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter) - A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step. (1 day ago)
-- [shizhMSFT/docker-ratify](https://github.com/shizhMSFT/docker-ratify) - A docker plugin wrapper for ratify (2 days ago)
-- [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner  (4 days ago)
+- [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter) - A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step. (2 days ago)
+- [shizhMSFT/docker-ratify](https://github.com/shizhMSFT/docker-ratify) - A docker plugin wrapper for ratify (3 days ago)
+- [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner  (5 days ago)
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more. (1 week ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 week ago)
 
