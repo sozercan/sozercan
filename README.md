@@ -24,7 +24,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3467](https://github.com/ggerganov/llama.cpp/releases/tag/b3467), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3479](https://github.com/ggerganov/llama.cpp/releases/tag/b3479), today) - LLM inference in C/C&#43;&#43;
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.19.2](https://github.com/mudler/LocalAI/releases/tag/v2.19.2), 3 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.7.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.7.0), 3 weeks ago) - 🧵 CLI tool for directly patching container images!
 - [Azure/secrets-store-csi-driver-provider-azure](https://github.com/Azure/secrets-store-csi-driver-provider-azure) ([v1.5.3](https://github.com/Azure/secrets-store-csi-driver-provider-azure/releases/tag/v1.5.3), 1 month ago) - Azure Key Vault provider for Secret Store CSI driver allows you to get secret contents stored in Azure Key Vault instance and use the Secret Store CSI driver interface to mount them into Kubernetes pods.
@@ -32,10 +32,10 @@
 
 #### ⭐ Recent Stars
 
+- [project-copacetic/copa-extension](https://github.com/project-copacetic/copa-extension) - 🐳 Docker Desktop extension for Copa (today)
 - [aquasecurity/vexhub](https://github.com/aquasecurity/vexhub) -  (5 days ago)
 - [aquasecurity/vex-repo-spec](https://github.com/aquasecurity/vex-repo-spec) - VEX Repository Specification (5 days ago)
 - [aquasecurity/vexhub-crawler](https://github.com/aquasecurity/vexhub-crawler) - Collect VEX documents and update VEX Hub (5 days ago)
 - [NVIDIA/mig-parted](https://github.com/NVIDIA/mig-parted) - MIG Partition Editor for NVIDIA GPUs (1 week ago)
-- [AkihiroSuda/vexllm](https://github.com/AkihiroSuda/vexllm) - silence negligible CVE alerts using LLM (1 week ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
