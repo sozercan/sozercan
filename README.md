@@ -16,11 +16,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add dalec](https://github.com/Azure/container-upstream/pull/148) on [Azure/container-upstream](https://github.com/Azure/container-upstream) (today)
 - [ci: fix patch models](https://github.com/sozercan/aikit/pull/358) on [sozercan/aikit](https://github.com/sozercan/aikit) (1 day ago)
 - [ci: update goreleaser config](https://github.com/sozercan/kubectl-ai/pull/175) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (1 day ago)
 - [update readme with local instructions](https://github.com/sozercan/kubectl-ai/pull/172) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (1 day ago)
 - [feat(guesser): add gemma2](https://github.com/mudler/LocalAI/pull/3118) on [mudler/LocalAI](https://github.com/mudler/LocalAI) (2 days ago)
-- [chore: cherry-pick #355](https://github.com/sozercan/aikit/pull/356) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
