@@ -20,12 +20,12 @@
 - [fix typo](https://github.com/tailscale-dev/vscode-tailscale/pull/297) on [tailscale-dev/vscode-tailscale](https://github.com/tailscale-dev/vscode-tailscale) (1 week ago)
 - [fix typo](https://github.com/sozercan/vscode-tailscale/pull/1) on [sozercan/vscode-tailscale](https://github.com/sozercan/vscode-tailscale) (1 week ago)
 - [chore: bump cert-controller to 0.11.0](https://github.com/open-policy-agent/gatekeeper/pull/3480) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 week ago)
-- [ci: fix dockerfile lint](https://github.com/open-policy-agent/gatekeeper/pull/3474) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 week ago)
+- [ci: fix dockerfile lint](https://github.com/open-policy-agent/gatekeeper/pull/3474) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3600](https://github.com/ggerganov/llama.cpp/releases/tag/b3600), 2 days ago) - LLM inference in C/C&#43;&#43;
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.17.0-rc.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.17.0-rc.1), 5 days ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3604](https://github.com/ggerganov/llama.cpp/releases/tag/b3604), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.17.0-rc.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.17.0-rc.1), 6 days ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.11.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.11.0), 1 week ago)
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) ([v0.0.13](https://github.com/sozercan/kubectl-ai/releases/tag/v0.0.13), 2 weeks ago) - ✨ Kubectl plugin to create manifests with LLMs
 - [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.12.2](https://github.com/sozercan/aikit/releases/tag/v0.12.2), 2 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
