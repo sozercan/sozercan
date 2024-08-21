@@ -24,8 +24,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3604](https://github.com/ggerganov/llama.cpp/releases/tag/b3604), 1 day ago) - LLM inference in C/C&#43;&#43;
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.17.0-rc.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.17.0-rc.1), 6 days ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3609](https://github.com/ggerganov/llama.cpp/releases/tag/b3609), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.17.0-rc.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.17.0-rc.1), 1 week ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.11.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.11.0), 1 week ago)
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) ([v0.0.13](https://github.com/sozercan/kubectl-ai/releases/tag/v0.0.13), 2 weeks ago) - ✨ Kubectl plugin to create manifests with LLMs
 - [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.12.2](https://github.com/sozercan/aikit/releases/tag/v0.12.2), 2 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
