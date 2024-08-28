@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (1 day ago)
-- [tailscale-dev/vscode-tailscale](https://github.com/tailscale-dev/vscode-tailscale) - VS Code extension for Tailscale (5 days ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 day ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (2 days ago)
+- [tailscale-dev/vscode-tailscale](https://github.com/tailscale-dev/vscode-tailscale) - VS Code extension for Tailscale (6 days ago)
 - [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - 📚 The OPA Gatekeeper policy library (2 weeks ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) -  (2 weeks ago)
-- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,18 +24,18 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3631](https://github.com/ggerganov/llama.cpp/releases/tag/b3631), 1 day ago) - LLM inference in C/C&#43;&#43;
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.0-beta.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.0-beta.0), 1 day ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.20.1](https://github.com/mudler/LocalAI/releases/tag/v2.20.1), 4 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
-- [tailscale-dev/vscode-tailscale](https://github.com/tailscale-dev/vscode-tailscale) ([latest](https://github.com/tailscale-dev/vscode-tailscale/releases/tag/latest), 5 days ago) - VS Code extension for Tailscale
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3639](https://github.com/ggerganov/llama.cpp/releases/tag/b3639), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.0-beta.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.0-beta.0), 2 days ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.20.1](https://github.com/mudler/LocalAI/releases/tag/v2.20.1), 5 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
+- [tailscale-dev/vscode-tailscale](https://github.com/tailscale-dev/vscode-tailscale) ([latest](https://github.com/tailscale-dev/vscode-tailscale/releases/tag/latest), 6 days ago) - VS Code extension for Tailscale
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.11.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.11.0), 2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) - JobSet: a k8s native API for distributed ML training and HPC workloads (1 day ago)
+- [IBM/CBOM](https://github.com/IBM/CBOM) - Cryptography Bill of Materials (1 day ago)
 - [kkacsh321/st-multi-gpu](https://github.com/kkacsh321/st-multi-gpu) - Basic Streamlit Application for testing, and displaying Multi-GPU LLM timings (2 weeks ago)
 - [markuta/authy-backup](https://github.com/markuta/authy-backup) - A way to extract Authy TOTP tokens using a rooted Android device. (2 weeks ago)
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (2 weeks ago)
-- [tmc/spinner](https://github.com/tmc/spinner) - spinner is a go package for showing terminal spinners (2 weeks ago)
-- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices. (3 weeks ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
