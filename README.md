@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (3 days ago)
-- [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - 📚 The OPA Gatekeeper policy library (6 days ago)
+- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (4 days ago)
+- [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - 📚 The OPA Gatekeeper policy library (1 week ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (1 week ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
 - [tailscale-dev/vscode-tailscale](https://github.com/tailscale-dev/vscode-tailscale) - VS Code extension for Tailscale (2 weeks ago)
@@ -16,26 +16,26 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: transformers backend](https://github.com/sozercan/aikit/pull/382) on [sozercan/aikit](https://github.com/sozercan/aikit) (2 days ago)
-- [ci: update allowlist](https://github.com/sozercan/aikit/pull/381) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 days ago)
-- [ci: update allowlist](https://github.com/sozercan/aikit/pull/380) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 days ago)
-- [ci: fix flux release](https://github.com/sozercan/aikit/pull/379) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 days ago)
-- [ci: fix flux release](https://github.com/sozercan/aikit/pull/378) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 days ago)
+- [feat: transformers backend](https://github.com/sozercan/aikit/pull/382) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 days ago)
+- [ci: update allowlist](https://github.com/sozercan/aikit/pull/381) on [sozercan/aikit](https://github.com/sozercan/aikit) (4 days ago)
+- [ci: update allowlist](https://github.com/sozercan/aikit/pull/380) on [sozercan/aikit](https://github.com/sozercan/aikit) (4 days ago)
+- [ci: fix flux release](https://github.com/sozercan/aikit/pull/379) on [sozercan/aikit](https://github.com/sozercan/aikit) (4 days ago)
+- [ci: fix flux release](https://github.com/sozercan/aikit/pull/378) on [sozercan/aikit](https://github.com/sozercan/aikit) (4 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3716](https://github.com/ggerganov/llama.cpp/releases/tag/b3716), 1 day ago) - LLM inference in C/C&#43;&#43;
-- [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.13.0](https://github.com/sozercan/aikit/releases/tag/v0.13.0), 3 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
-- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.4.0](https://github.com/eraser-dev/eraser/releases/tag/v1.4.0), 5 days ago) - 🧹 Cleaning up images from Kubernetes nodes
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3723](https://github.com/ggerganov/llama.cpp/releases/tag/b3723), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.13.0](https://github.com/sozercan/aikit/releases/tag/v0.13.0), 4 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.4.0](https://github.com/eraser-dev/eraser/releases/tag/v1.4.0), 6 days ago) - 🧹 Cleaning up images from Kubernetes nodes
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.0-beta.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.0-beta.0), 2 weeks ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.20.1](https://github.com/mudler/LocalAI/releases/tag/v2.20.1), 2 weeks ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
 
 #### ⭐ Recent Stars
 
-- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference. (3 days ago)
-- [r2d4/dacc](https://github.com/r2d4/dacc) -  (4 days ago)
+- [google-gemini/proxy-to-gemini](https://github.com/google-gemini/proxy-to-gemini) - A proxy sidecar to access Gemini models via OpenAI and Ollama APIs (1 day ago)
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference. (4 days ago)
+- [r2d4/dacc](https://github.com/r2d4/dacc) - docker-as-code compiler (5 days ago)
 - [manifest-cyber/aibom](https://github.com/manifest-cyber/aibom) - A community wiki for all things AI/ML bill of materials (MLBOM, AIBOM) and transparency into AI/ML models.  (1 week ago)
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac. (1 week ago)
-- [zackelia/bclm](https://github.com/zackelia/bclm) - macOS command-line utility to limit max battery charge (1 week ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
