@@ -4,7 +4,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference (2 weeks ago)
 - [sozercan/k8s-distributed-inference](https://github.com/sozercan/k8s-distributed-inference) - 🦄 Distributed Inference on Kubernetes with DRA and MIG (2 weeks ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (3 weeks ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (3 weeks ago)
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -16,7 +16,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add search](https://github.com/Azure/dalec/pull/389) on [Azure/dalec](https://github.com/Azure/dalec) (1 day ago)
+- [docs: add search](https://github.com/Azure/dalec/pull/389) on [Azure/dalec](https://github.com/Azure/dalec) (2 days ago)
 - [chore: bump unsloth to sept-2024](https://github.com/sozercan/aikit/pull/403) on [sozercan/aikit](https://github.com/sozercan/aikit) (1 week ago)
 - [fix: fix llama 3.1 70b](https://github.com/sozercan/aikit/pull/402) on [sozercan/aikit](https://github.com/sozercan/aikit) (1 week ago)
 - [fix: set config file env](https://github.com/sozercan/aikit/pull/401) on [sozercan/aikit](https://github.com/sozercan/aikit) (1 week ago)
@@ -24,18 +24,18 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3896](https://github.com/ggerganov/llama.cpp/releases/tag/b3896), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3899](https://github.com/ggerganov/llama.cpp/releases/tag/b3899), 1 day ago) - LLM inference in C/C&#43;&#43;
 - [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.14.0](https://github.com/sozercan/aikit/releases/tag/v0.14.0), 1 week ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.21.1](https://github.com/mudler/LocalAI/releases/tag/v2.21.1), 1 week ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.21.1](https://github.com/mudler/LocalAI/releases/tag/v2.21.1), 2 weeks ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.17.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.17.1), 3 weeks ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
-- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.5.0-beta.0](https://github.com/eraser-dev/eraser/releases/tag/v1.5.0-beta.0), 3 weeks ago) - 🧹 Cleaning up images from Kubernetes nodes
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.5.0-beta.0](https://github.com/eraser-dev/eraser/releases/tag/v1.5.0-beta.0), 4 weeks ago) - 🧹 Cleaning up images from Kubernetes nodes
 
 #### ⭐ Recent Stars
 
-- [Mellanox/ib-kubernetes](https://github.com/Mellanox/ib-kubernetes) -  (1 day ago)
-- [NVIDIA/go-nvml](https://github.com/NVIDIA/go-nvml) - Go Bindings for the NVIDIA Management Library (NVML) (4 days ago)
-- [schednex-ai/schednex](https://github.com/schednex-ai/schednex) - Smart Kubernetes Scheduling (4 days ago)
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (5 days ago)
-- [in-toto/archivista](https://github.com/in-toto/archivista) - Archivista is a graph and storage service for in-toto attestations. Archivista enables the discovery and retrieval of attestations for software artifacts. (5 days ago)
+- [Mellanox/ib-kubernetes](https://github.com/Mellanox/ib-kubernetes) -  (2 days ago)
+- [NVIDIA/go-nvml](https://github.com/NVIDIA/go-nvml) - Go Bindings for the NVIDIA Management Library (NVML) (5 days ago)
+- [schednex-ai/schednex](https://github.com/schednex-ai/schednex) - Smart Kubernetes Scheduling (5 days ago)
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (6 days ago)
+- [in-toto/archivista](https://github.com/in-toto/archivista) - Archivista is a graph and storage service for in-toto attestations. Archivista enables the discovery and retrieval of attestations for software artifacts. (6 days ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
