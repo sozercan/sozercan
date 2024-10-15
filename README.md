@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (5 days ago)
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (6 days ago)
+- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 weeks ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference (3 weeks ago)
 - [sozercan/k8s-distributed-inference](https://github.com/sozercan/k8s-distributed-inference) - 🦄 Distributed Inference on Kubernetes with DRA and MIG (3 weeks ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (1 month ago)
@@ -24,16 +24,16 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3914](https://github.com/ggerganov/llama.cpp/releases/tag/b3914), 1 day ago) - LLM inference in C/C&#43;&#43;
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.22.0](https://github.com/mudler/LocalAI/releases/tag/v2.22.0), 2 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
-- [Azure/secrets-store-csi-driver-provider-azure](https://github.com/Azure/secrets-store-csi-driver-provider-azure) ([v1.6.0](https://github.com/Azure/secrets-store-csi-driver-provider-azure/releases/tag/v1.6.0), 4 days ago) - Azure Key Vault provider for Secret Store CSI driver allows you to get secret contents stored in Azure Key Vault instance and use the Secret Store CSI driver interface to mount them into Kubernetes pods.
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b3917](https://github.com/ggerganov/llama.cpp/releases/tag/b3917), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.22.0](https://github.com/mudler/LocalAI/releases/tag/v2.22.0), 3 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
+- [Azure/secrets-store-csi-driver-provider-azure](https://github.com/Azure/secrets-store-csi-driver-provider-azure) ([v1.6.0](https://github.com/Azure/secrets-store-csi-driver-provider-azure/releases/tag/v1.6.0), 5 days ago) - Azure Key Vault provider for Secret Store CSI driver allows you to get secret contents stored in Azure Key Vault instance and use the Secret Store CSI driver interface to mount them into Kubernetes pods.
 - [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.14.0](https://github.com/sozercan/aikit/releases/tag/v0.14.0), 2 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.17.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.17.1), 1 month ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 
 #### ⭐ Recent Stars
 
-- [NVIDIA/k8s-nim-operator](https://github.com/NVIDIA/k8s-nim-operator) - An Operator for deployment and maintenance of NVIDIA NIMs and NeMo microservices in a Kubernetes environment. (3 days ago)
-- [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine) - Apple MLX engine for LM Studio (5 days ago)
+- [NVIDIA/k8s-nim-operator](https://github.com/NVIDIA/k8s-nim-operator) - An Operator for deployment and maintenance of NVIDIA NIMs and NeMo microservices in a Kubernetes environment. (4 days ago)
+- [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine) - Apple MLX engine for LM Studio (6 days ago)
 - [Mellanox/ib-kubernetes](https://github.com/Mellanox/ib-kubernetes) -  (1 week ago)
 - [NVIDIA/go-nvml](https://github.com/NVIDIA/go-nvml) - Go Bindings for the NVIDIA Management Library (NVML) (1 week ago)
 - [schednex-ai/schednex](https://github.com/schednex-ai/schednex) - Smart Kubernetes Scheduling (1 week ago)
