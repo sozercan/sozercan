@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (1 day ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (3 days ago)
-- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (3 days ago)
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (6 days ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (2 days ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (4 days ago)
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (4 days ago)
+- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
 - [sozercan/dalec-copa-demo](https://github.com/sozercan/dalec-copa-demo) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -16,23 +16,23 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: gha to check for typos in docs](https://github.com/open-policy-agent/gatekeeper/pull/3703) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (today)
-- [chore: add typos pre commit hook](https://github.com/Azure/dalec/pull/435) on [Azure/dalec](https://github.com/Azure/dalec) (1 day ago)
-- [ci: fix gator image for ghcr](https://github.com/open-policy-agent/gatekeeper/pull/3700) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 day ago)
-- [ci: bump to go 1.23 in gha](https://github.com/open-policy-agent/gatekeeper/pull/3699) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 day ago)
-- [ci: fix ghcr push](https://github.com/open-policy-agent/gatekeeper/pull/3698) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 day ago)
+- [ci: gha to check for typos in docs](https://github.com/open-policy-agent/gatekeeper/pull/3703) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 day ago)
+- [chore: add typos pre commit hook](https://github.com/Azure/dalec/pull/435) on [Azure/dalec](https://github.com/Azure/dalec) (2 days ago)
+- [ci: fix gator image for ghcr](https://github.com/open-policy-agent/gatekeeper/pull/3700) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 days ago)
+- [ci: bump to go 1.23 in gha](https://github.com/open-policy-agent/gatekeeper/pull/3699) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 days ago)
+- [ci: fix ghcr push](https://github.com/open-policy-agent/gatekeeper/pull/3698) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4081](https://github.com/ggerganov/llama.cpp/releases/tag/b4081), today) - LLM inference in C/C&#43;&#43;
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.23.0](https://github.com/mudler/LocalAI/releases/tag/v2.23.0), 5 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4094](https://github.com/ggerganov/llama.cpp/releases/tag/b4094), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.23.0](https://github.com/mudler/LocalAI/releases/tag/v2.23.0), 6 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.12.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.12.0), 1 week ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.9.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.9.0), 2 weeks ago) - 🧵 CLI tool for directly patching container images!
-- [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) ([v0.8.20](https://github.com/kubernetes/node-problem-detector/releases/tag/v0.8.20), 4 weeks ago) - This is a place for various problem detectors running on the Kubernetes nodes.
+- [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) ([v0.8.20](https://github.com/kubernetes/node-problem-detector/releases/tag/v0.8.20), 1 month ago) - This is a place for various problem detectors running on the Kubernetes nodes.
 
 #### ⭐ Recent Stars
 
-- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (1 day ago)
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (2 days ago)
 - [buildpacks-community/kpack](https://github.com/buildpacks-community/kpack) - Kubernetes Native Container Build Service (1 week ago)
 - [tariq1890/gpu-burn](https://github.com/tariq1890/gpu-burn) -  (1 week ago)
 - [seatedro/asciigen](https://github.com/seatedro/asciigen) - convert images, video to ascii! (1 week ago)
