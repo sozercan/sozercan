@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 days ago)
+- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (today)
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (today)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (3 days ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (1 week ago)
-- [sozercan/dalec-copa-demo](https://github.com/sozercan/dalec-copa-demo) -  (2 weeks ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -16,19 +16,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: fix podman test](https://github.com/sozercan/aikit/pull/435) on [sozercan/aikit](https://github.com/sozercan/aikit) (today)
+- [feat: apple silicon support](https://github.com/sozercan/aikit/pull/433) on [sozercan/aikit](https://github.com/sozercan/aikit) (today)
 - [docs(website): fix mac gpu container base](https://github.com/podman-desktop/podman-desktop/pull/10082) on [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) (2 days ago)
 - [chore: remove unused go-version file](https://github.com/open-policy-agent/gatekeeper/pull/3711) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (3 days ago)
 - [ci: gha to check for typos in docs](https://github.com/open-policy-agent/gatekeeper/pull/3703) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 week ago)
-- [chore: add typos pre commit hook](https://github.com/Azure/dalec/pull/435) on [Azure/dalec](https://github.com/Azure/dalec) (1 week ago)
-- [ci: fix gator image for ghcr](https://github.com/open-policy-agent/gatekeeper/pull/3700) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4157](https://github.com/ggerganov/llama.cpp/releases/tag/b4157), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4170](https://github.com/ggerganov/llama.cpp/releases/tag/b4170), today) - LLM inference in C/C&#43;&#43;
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.0-rc.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.0-rc.0), 3 days ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.23.0](https://github.com/mudler/LocalAI/releases/tag/v2.23.0), 2 weeks ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.12.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.12.0), 2 weeks ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.9.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.9.0), 3 weeks ago) - 🧵 CLI tool for directly patching container images!
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.14.1](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.14.1), 2 weeks ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 
 #### ⭐ Recent Stars
 
