@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 day ago)
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (4 days ago)
+- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 day ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 days ago)
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (1 week ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (2 weeks ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (3 weeks ago)
@@ -16,26 +16,26 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: use kompute backend for apple silicon](https://github.com/sozercan/aikit/pull/444) on [sozercan/aikit](https://github.com/sozercan/aikit) (4 days ago)
-- [feat: add qwq 32b preview](https://github.com/sozercan/aikit/pull/443) on [sozercan/aikit](https://github.com/sozercan/aikit) (5 days ago)
+- [ci: fix name parsing](https://github.com/sozercan/aikit/pull/449) on [sozercan/aikit](https://github.com/sozercan/aikit) (1 day ago)
+- [feat: llama 3.3 70b](https://github.com/sozercan/aikit/pull/448) on [sozercan/aikit](https://github.com/sozercan/aikit) (1 day ago)
+- [feat: use kompute backend for apple silicon](https://github.com/sozercan/aikit/pull/444) on [sozercan/aikit](https://github.com/sozercan/aikit) (5 days ago)
+- [feat: add qwq 32b preview](https://github.com/sozercan/aikit/pull/443) on [sozercan/aikit](https://github.com/sozercan/aikit) (6 days ago)
 - [ci: allow storage endpoint](https://github.com/sozercan/aikit/pull/440) on [sozercan/aikit](https://github.com/sozercan/aikit) (1 week ago)
-- [fix: bump grpcio to 1.68.0](https://github.com/sozercan/aikit/pull/437) on [sozercan/aikit](https://github.com/sozercan/aikit) (1 week ago)
-- [docs: update apple silicon docs](https://github.com/sozercan/aikit/pull/436) on [sozercan/aikit](https://github.com/sozercan/aikit) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4276](https://github.com/ggerganov/llama.cpp/releases/tag/b4276), 1 day ago) - LLM inference in C/C&#43;&#43;
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.0-rc.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.0-rc.1), 2 days ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.24.0](https://github.com/mudler/LocalAI/releases/tag/v2.24.0), 3 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
-- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.14.2](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.14.2), 3 days ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4285](https://github.com/ggerganov/llama.cpp/releases/tag/b4285), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.0-rc.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.0-rc.1), 3 days ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.24.0](https://github.com/mudler/LocalAI/releases/tag/v2.24.0), 4 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.14.2](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.14.2), 4 days ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.15.0](https://github.com/sozercan/aikit/releases/tag/v0.15.0), 1 week ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
 #### ⭐ Recent Stars
 
-- [DataDog/supply-chain-firewall](https://github.com/DataDog/supply-chain-firewall) - A tool for preventing the installation of malicious PyPI and npm packages :fire: (1 day ago)
-- [co-native-ab/pimctl](https://github.com/co-native-ab/pimctl) - pimctl is a tool to manage Azure/Entra PIM activations and approvals from the terminal (2 days ago)
-- [JoelSpeed/kal](https://github.com/JoelSpeed/kal) - KAL - The Kube API Linter (3 days ago)
-- [huggingface/nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training (3 days ago)
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer (3 days ago)
+- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks. Built because Theo was mad. (1 day ago)
+- [ray-project/llmperf](https://github.com/ray-project/llmperf) - LLMPerf is a library for validating and benchmarking LLMs (1 day ago)
+- [DataDog/supply-chain-firewall](https://github.com/DataDog/supply-chain-firewall) - A tool for preventing the installation of malicious PyPI and npm packages :fire: (2 days ago)
+- [co-native-ab/pimctl](https://github.com/co-native-ab/pimctl) - pimctl is a tool to manage Azure/Entra PIM activations and approvals from the terminal (3 days ago)
+- [JoelSpeed/kal](https://github.com/JoelSpeed/kal) - KAL - The Kube API Linter (4 days ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
