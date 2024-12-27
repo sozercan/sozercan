@@ -2,7 +2,7 @@
 
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (2 weeks ago)
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 weeks ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (3 weeks ago)
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (1 month ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (1 month ago)
 
@@ -24,7 +24,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4391](https://github.com/ggerganov/llama.cpp/releases/tag/b4391), 2 days ago) - LLM inference in C/C&#43;&#43;
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4393](https://github.com/ggerganov/llama.cpp/releases/tag/b4393), 1 day ago) - LLM inference in C/C&#43;&#43;
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.19.0-beta.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.19.0-beta.1), 1 week ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.15.0](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.15.0), 2 weeks ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.24.2](https://github.com/mudler/LocalAI/releases/tag/v2.24.2), 2 weeks ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
