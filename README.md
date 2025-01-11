@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (4 weeks ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (1 month ago)
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 month ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 month ago)
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (1 month ago)
-- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (1 month ago)
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,16 +24,16 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4456](https://github.com/ggerganov/llama.cpp/releases/tag/b4456), today) - LLM inference in C/C&#43;&#43;
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.2](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.2), 1 day ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
-- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.15.0](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.15.0), 4 weeks ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.24.2](https://github.com/mudler/LocalAI/releases/tag/v2.24.2), 1 month ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.25.0](https://github.com/mudler/LocalAI/releases/tag/v2.25.0), 1 day ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4458](https://github.com/ggerganov/llama.cpp/releases/tag/b4458), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.2](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.2), 2 days ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.15.0](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.15.0), 1 month ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.16.0](https://github.com/sozercan/aikit/releases/tag/v0.16.0), 1 month ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
 #### ⭐ Recent Stars
 
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image  (3 weeks ago)
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (4 weeks ago)
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 month ago)
 - [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact. (1 month ago)
 - [LG-AI-EXAONE/EXAONE-3.5](https://github.com/LG-AI-EXAONE/EXAONE-3.5) - Official repository for EXAONE 3.5 built by LG AI Research (1 month ago)
 - [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks. Built because Theo was mad. (1 month ago)
