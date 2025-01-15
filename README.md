@@ -24,15 +24,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4475](https://github.com/ggerganov/llama.cpp/releases/tag/b4475), 1 day ago) - LLM inference in C/C&#43;&#43;
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.25.0](https://github.com/mudler/LocalAI/releases/tag/v2.25.0), 4 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.2](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.2), 5 days ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4481](https://github.com/ggerganov/llama.cpp/releases/tag/b4481), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.25.0](https://github.com/mudler/LocalAI/releases/tag/v2.25.0), 5 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.2](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.2), 6 days ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.15.0](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.15.0), 1 month ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.16.0](https://github.com/sozercan/aikit/releases/tag/v0.16.0), 1 month ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
 #### ⭐ Recent Stars
 
-- [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image  (3 weeks ago)
+- [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image  (4 weeks ago)
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 month ago)
 - [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact. (1 month ago)
 - [LG-AI-EXAONE/EXAONE-3.5](https://github.com/LG-AI-EXAONE/EXAONE-3.5) - Official repository for EXAONE 3.5 built by LG AI Research (1 month ago)
