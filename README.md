@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (4 days ago)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (5 days ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (1 day ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (5 days ago)
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) -  (1 week ago)
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 months ago)
@@ -16,7 +16,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: bump trivy and buildkit version for test](https://github.com/project-copacetic/copacetic/pull/911) on [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) (4 days ago)
+- [ci: bump trivy and buildkit version for test](https://github.com/project-copacetic/copacetic/pull/911) on [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) (5 days ago)
 - [ci: auto merge dependabot prs](https://github.com/sozercan/aikit/pull/477) on [sozercan/aikit](https://github.com/sozercan/aikit) (1 week ago)
 - [chore: update localai to v2.25.0](https://github.com/sozercan/aikit/pull/473) on [sozercan/aikit](https://github.com/sozercan/aikit) (2 weeks ago)
 - [chore: update opa v1 with v0 rego compat](https://github.com/open-policy-agent/frameworks/pull/518) on [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 weeks ago)
@@ -24,7 +24,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4677](https://github.com/ggerganov/llama.cpp/releases/tag/b4677), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ([b4686](https://github.com/ggerganov/llama.cpp/releases/tag/b4686), 1 day ago) - LLM inference in C/C&#43;&#43;
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.16.1](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.16.1), 1 week ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.17.2](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.17.2), 2 weeks ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.25.0](https://github.com/mudler/LocalAI/releases/tag/v2.25.0), 1 month ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
@@ -32,9 +32,9 @@
 
 #### ⭐ Recent Stars
 
-- [Entelligence-AI/code_review_evals](https://github.com/Entelligence-AI/code_review_evals) - Analyze PR review quality (2 days ago)
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (4 days ago)
-- [roboflow/maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL (4 days ago)
+- [Entelligence-AI/code_review_evals](https://github.com/Entelligence-AI/code_review_evals) - Analyze PR review quality (3 days ago)
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (5 days ago)
+- [roboflow/maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL (5 days ago)
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) -  (1 week ago)
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (1 week ago)
 
