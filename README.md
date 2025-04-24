@@ -24,7 +24,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ([b5170](https://github.com/ggml-org/llama.cpp/releases/tag/b5170), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ([b5174](https://github.com/ggml-org/llama.cpp/releases/tag/b5174), 1 day ago) - LLM inference in C/C&#43;&#43;
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.28.0](https://github.com/mudler/LocalAI/releases/tag/v2.28.0), 1 week ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.20.0-beta.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.20.0-beta.0), 1 week ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.18.0](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.18.0), 1 week ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
@@ -32,10 +32,10 @@
 
 #### ⭐ Recent Stars
 
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (6 days ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI&#39;s Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU). (1 week ago)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs (1 week ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (2 weeks ago)
-- [docker/model-spec](https://github.com/docker/model-spec) -  (2 weeks ago)
+- [docker/model-spec](https://github.com/docker/model-spec) -  (3 weeks ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
