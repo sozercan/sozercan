@@ -24,7 +24,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ([b5287](https://github.com/ggml-org/llama.cpp/releases/tag/b5287), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ([b5298](https://github.com/ggml-org/llama.cpp/releases/tag/b5298), 1 day ago) - LLM inference in C/C&#43;&#43;
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.3](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.3), 1 week ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.28.0](https://github.com/mudler/LocalAI/releases/tag/v2.28.0), 3 weeks ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.18.0](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.18.0), 3 weeks ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
