@@ -24,9 +24,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ([b5438](https://github.com/ggml-org/llama.cpp/releases/tag/b5438), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ([b5452](https://github.com/ggml-org/llama.cpp/releases/tag/b5452), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.19.1](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.19.1), 1 day ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.29.0](https://github.com/mudler/LocalAI/releases/tag/v2.29.0), 1 week ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
-- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.18.1](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.18.1), 1 week ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.3](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.3), 3 weeks ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.10.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.10.0), 2 months ago) - 🧵 CLI tool for directly patching container images!
 
