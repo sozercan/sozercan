@@ -24,7 +24,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ([b5527](https://github.com/ggml-org/llama.cpp/releases/tag/b5527), 1 day ago) - LLM inference in C/C&#43;&#43;
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ([b5538](https://github.com/ggml-org/llama.cpp/releases/tag/b5538), 1 day ago) - LLM inference in C/C&#43;&#43;
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.19.1](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.19.1), 1 week ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.29.0](https://github.com/mudler/LocalAI/releases/tag/v2.29.0), 2 weeks ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.3](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.3), 1 month ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
@@ -32,8 +32,8 @@
 
 #### ⭐ Recent Stars
 
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. (1 day ago)
-- [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d is a Kubernetes-native high-performance distributed LLM inference framework (2 days ago)
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. (2 days ago)
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d is a Kubernetes-native high-performance distributed LLM inference framework (3 days ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 month ago)
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI&#39;s Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU). (1 month ago)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs (1 month ago)
