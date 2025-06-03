@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [sozercan/image-comparison](https://github.com/sozercan/image-comparison) -  (1 month ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 month ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 months ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (2 months ago)
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 months ago)
 - [sozercan/copa-test](https://github.com/sozercan/copa-test) - 🎬 Examples of Copa usage with GitHub Actions (3 months ago)
@@ -24,16 +24,16 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.13.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.13.0), 1 day ago)
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.19.1](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.19.1), 1 week ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.29.0](https://github.com/mudler/LocalAI/releases/tag/v2.29.0), 3 weeks ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.3](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.3), 1 month ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.10.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.10.0), 2 months ago) - 🧵 CLI tool for directly patching container images!
-- [sozercan/aikit](https://github.com/sozercan/aikit) ([v0.18.0](https://github.com/sozercan/aikit/releases/tag/v0.18.0), 3 months ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.10.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.10.0), 3 months ago) - 🧵 CLI tool for directly patching container images!
 
 #### ⭐ Recent Stars
 
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. (5 days ago)
-- [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d is a Kubernetes-native high-performance distributed LLM inference framework (6 days ago)
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. (6 days ago)
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d is a Kubernetes-native high-performance distributed LLM inference framework (1 week ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 month ago)
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI&#39;s Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU). (1 month ago)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs (1 month ago)
