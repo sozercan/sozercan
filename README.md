@@ -16,15 +16,15 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: langmgr and python](https://github.com/project-copacetic/copacetic/pull/1091) on [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) (1 day ago)
+- [ci: release checklist](https://github.com/open-policy-agent/gatekeeper/pull/3990) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 day ago)
 - [docs: add docker extension](https://github.com/project-copacetic/copacetic/pull/948) on [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) (3 months ago)
 - [fix: autoremove without user confirmation](https://github.com/project-copacetic/copacetic/pull/934) on [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) (3 months ago)
 - [chore: update golangci-lint version](https://github.com/project-copacetic/copacetic/pull/930) on [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) (3 months ago)
-- [ci: bump golang 1.24](https://github.com/sozercan/aikit/pull/489) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 months ago)
-- [chore: bump localai v2.26.0](https://github.com/sozercan/aikit/pull/487) on [sozercan/aikit](https://github.com/sozercan/aikit) (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.13.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.13.0), 2 days ago)
+- [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.13.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.13.0), 3 days ago)
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.19.1](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.19.1), 2 weeks ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.29.0](https://github.com/mudler/LocalAI/releases/tag/v2.29.0), 3 weeks ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.18.3](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.18.3), 1 month ago) - 🐊 Gatekeeper - Policy Controller for Kubernetes
@@ -32,7 +32,7 @@
 
 #### ⭐ Recent Stars
 
-- [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. (1 day ago)
+- [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. (2 days ago)
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. (1 week ago)
 - [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d is a Kubernetes-native high-performance distributed LLM inference framework (1 week ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 month ago)
