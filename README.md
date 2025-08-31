@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 day ago)
-- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (2 days ago)
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 days ago)
+- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (3 days ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (2 weeks ago)
 - [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) -  (1 month ago)
@@ -16,26 +16,26 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: update version](https://github.com/kaito-project/aikit/pull/634) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (1 day ago)
-- [revert: wrong version](https://github.com/kaito-project/aikit/pull/633) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (1 day ago)
-- [fix: cherry pick #629](https://github.com/kaito-project/aikit/pull/631) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (1 day ago)
-- [docs: update aikit docs to fix links](https://github.com/kaito-project/kaito/pull/1445) on [kaito-project/kaito](https://github.com/kaito-project/kaito) (1 day ago)
-- [ci: update models on large runners](https://github.com/kaito-project/aikit/pull/626) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (3 days ago)
+- [chore: update version](https://github.com/kaito-project/aikit/pull/634) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (2 days ago)
+- [revert: wrong version](https://github.com/kaito-project/aikit/pull/633) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (2 days ago)
+- [fix: cherry pick #629](https://github.com/kaito-project/aikit/pull/631) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (2 days ago)
+- [docs: update aikit docs to fix links](https://github.com/kaito-project/kaito/pull/1445) on [kaito-project/kaito](https://github.com/kaito-project/kaito) (2 days ago)
+- [ci: update models on large runners](https://github.com/kaito-project/aikit/pull/626) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (4 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.20.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.20.1), 1 day ago) - 🐊 Policy Controller for Kubernetes
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.19.2](https://github.com/kaito-project/aikit/releases/tag/v0.19.2), 1 day ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
-- [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) ([v0.18.1](https://github.com/open-policy-agent/frameworks/releases/tag/v0.18.1), 4 days ago)
+- [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) ([karpenter-0.1.0](https://github.com/headlamp-k8s/plugins/releases/tag/karpenter-0.1.0), 1 day ago) - Official plugins of the Headlamp project
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.20.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.20.1), 2 days ago) - 🐊 Policy Controller for Kubernetes
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.19.2](https://github.com/kaito-project/aikit/releases/tag/v0.19.2), 2 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) ([v0.18.1](https://github.com/open-policy-agent/frameworks/releases/tag/v0.18.1), 5 days ago)
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.21.0](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.21.0), 1 week ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v3.4.0](https://github.com/mudler/LocalAI/releases/tag/v3.4.0), 2 weeks ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 
 #### ⭐ Recent Stars
 
-- [githubnext/agentics](https://github.com/githubnext/agentics) - Samples for GitHub Agentic Workflows (2 days ago)
-- [NVIDIA/grove](https://github.com/NVIDIA/grove) - Kubernetes enhancements for Network Topology Aware Gang Scheduling &amp; Autoscaling (5 days ago)
+- [githubnext/agentics](https://github.com/githubnext/agentics) - Samples for GitHub Agentic Workflows (3 days ago)
+- [NVIDIA/grove](https://github.com/NVIDIA/grove) - Kubernetes enhancements for Network Topology Aware Gang Scheduling &amp; Autoscaling (6 days ago)
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users run local LLMs with the highest performance by configuring state-of-the-art inference engines for their NPUs and GPUs. Join our discord: https://discord.gg/5xXzkMu8Zk (1 week ago)
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. (1 week ago)
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. (2 weeks ago)
 - [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere! (2 weeks ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
