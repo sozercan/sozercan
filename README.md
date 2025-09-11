@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
-- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (1 week ago)
+- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (2 weeks ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 month ago)
 - [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [sozercan/dynamo-actions](https://github.com/sozercan/dynamo-actions) - 
 - [sozercan/gatekeeper-headlamp-plugin](https://github.com/sozercan/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper
 - [sozercan/sparkle-dreams](https://github.com/sozercan/sparkle-dreams) - ✨🌙 Baby nap and awake window calculator
 - [sozercan/image-comparison](https://github.com/sozercan/image-comparison) - 
 - [sozercan/dalec-copa-demo](https://github.com/sozercan/dalec-copa-demo) - 🤝 Demo of Dalec and Copa working together to patch a dependency vulnerability
-- [sozercan/dependabot-test](https://github.com/sozercan/dependabot-test) - 
 
 #### 🔨 My recent Pull Requests
 
@@ -32,10 +32,10 @@
 
 #### ⭐ Recent Stars
 
-- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor (3 days ago)
-- [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code! (5 days ago)
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes. (5 days ago)
-- [githubnext/gh-aw](https://github.com/githubnext/gh-aw) - Safe Natural Language Agentic Workflows (6 days ago)
-- [actions/ai-inference](https://github.com/actions/ai-inference) - An action for calling AI models with GitHub Models (6 days ago)
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (1 day ago)
+- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor (4 days ago)
+- [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code! (6 days ago)
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes. (6 days ago)
+- [githubnext/gh-aw](https://github.com/githubnext/gh-aw) - Safe Natural Language Agentic Workflows (1 week ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
