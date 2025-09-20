@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/copilot-anywhere](https://github.com/sozercan/copilot-anywhere) -  (2 days ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 day ago)
+- [sozercan/copilot-anywhere](https://github.com/sozercan/copilot-anywhere) -  (3 days ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference (1 week ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (3 weeks ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,10 +24,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v3.5.2](https://github.com/mudler/LocalAI/releases/tag/v3.5.2), 1 day ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v3.5.3](https://github.com/mudler/LocalAI/releases/tag/v3.5.3), 1 day ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.19.3](https://github.com/kaito-project/aikit/releases/tag/v0.19.3), 1 week ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) ([v0.6.2](https://github.com/kaito-project/kaito/releases/tag/v0.6.2), 1 week ago) - Kubernetes AI Toolchain Operator
-- [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) ([karpenter-0.1.0](https://github.com/headlamp-k8s/plugins/releases/tag/karpenter-0.1.0), 2 weeks ago) - Official plugins of the Headlamp project
+- [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) ([karpenter-0.1.0](https://github.com/headlamp-k8s/plugins/releases/tag/karpenter-0.1.0), 3 weeks ago) - Official plugins of the Headlamp project
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.20.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.20.1), 3 weeks ago) - 🐊 Policy Controller for Kubernetes
 
 #### ⭐ Recent Stars
