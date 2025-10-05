@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 day ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 days ago)
 - [sozercan/dynamo-actions](https://github.com/sozercan/dynamo-actions) -  (1 week ago)
 - [sozercan/copilot-anywhere](https://github.com/sozercan/copilot-anywhere) -  (1 week ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
@@ -16,23 +16,23 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: dev contrib doc](https://github.com/Azure/dalec/pull/776) on [Azure/dalec](https://github.com/Azure/dalec) (1 day ago)
-- [debug services](https://github.com/kaito-project/kaito/pull/1537) on [kaito-project/kaito](https://github.com/kaito-project/kaito) (4 days ago)
-- [feat: go mod replace and require](https://github.com/Azure/dalec/pull/769) on [Azure/dalec](https://github.com/Azure/dalec) (4 days ago)
+- [docs: dev contrib doc](https://github.com/Azure/dalec/pull/776) on [Azure/dalec](https://github.com/Azure/dalec) (2 days ago)
+- [debug services](https://github.com/kaito-project/kaito/pull/1537) on [kaito-project/kaito](https://github.com/kaito-project/kaito) (5 days ago)
+- [feat: go mod replace and require](https://github.com/Azure/dalec/pull/769) on [Azure/dalec](https://github.com/Azure/dalec) (5 days ago)
 - [add sglang-wideep support to container/build.sh](https://github.com/ai-dynamo/dynamo/pull/3239) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) (1 week ago)
 - [chore: localai v3.5.4](https://github.com/kaito-project/aikit/pull/654) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v3.6.0](https://github.com/mudler/LocalAI/releases/tag/v3.6.0), 1 day ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
-- [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) ([plugin-catalog-0.4.1](https://github.com/headlamp-k8s/plugins/releases/tag/plugin-catalog-0.4.1), 3 days ago) - Official plugins of the Headlamp project
-- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.22.0](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.22.0), 5 days ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v3.6.0](https://github.com/mudler/LocalAI/releases/tag/v3.6.0), 2 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+- [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) ([plugin-catalog-0.4.1](https://github.com/headlamp-k8s/plugins/releases/tag/plugin-catalog-0.4.1), 4 days ago) - Official plugins of the Headlamp project
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.22.0](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.22.0), 6 days ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) ([v0.7.0](https://github.com/kaito-project/kaito/releases/tag/v0.7.0), 1 week ago) - Kubernetes AI Toolchain Operator
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.19.3](https://github.com/kaito-project/aikit/releases/tag/v0.19.3), 3 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
 #### ⭐ Recent Stars
 
-- [google/tunix](https://github.com/google/tunix) - A JAX-native LLM Post-Training Library (3 days ago)
+- [google/tunix](https://github.com/google/tunix) - A JAX-native LLM Post-Training Library (4 days ago)
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage. (1 week ago)
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (1 week ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 weeks ago)
