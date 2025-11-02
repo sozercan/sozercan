@@ -12,7 +12,7 @@
 - [sozercan/dynamo-actions](https://github.com/sozercan/dynamo-actions) - 
 - [sozercan/gatekeeper-headlamp-plugin](https://github.com/sozercan/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper
 - [sozercan/sparkle-dreams](https://github.com/sozercan/sparkle-dreams) - ✨🌙 Baby nap and awake window calculator
-- [sozercan/image-comparison](https://github.com/sozercan/image-comparison) - 
+- [sozercan/dalec-copa-demo](https://github.com/sozercan/dalec-copa-demo) - 🤝 Demo of Dalec and Copa working together to patch a dependency vulnerability
 
 #### 🔨 My recent Pull Requests
 
