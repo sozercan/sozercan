@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/gatekeeper-headlamp-plugin](https://github.com/sozercan/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (1 day ago)
-- [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations (4 days ago)
+- [sozercan/gatekeeper-headlamp-plugin](https://github.com/sozercan/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (today)
+- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 A native macOS ChatGPT client built with SwiftUI. (1 day ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (4 days ago)
+- [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations (4 days ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
-- [sozercan/dynamo-actions](https://github.com/sozercan/dynamo-actions) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 A native macOS ChatGPT client built with SwiftUI.
 - [sozercan/copilot-anywhere](https://github.com/sozercan/copilot-anywhere) - 
 - [sozercan/dynamo-actions](https://github.com/sozercan/dynamo-actions) - 
 - [sozercan/gatekeeper-headlamp-plugin](https://github.com/sozercan/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper
 - [sozercan/sparkle-dreams](https://github.com/sozercan/sparkle-dreams) - ✨🌙 Baby nap and awake window calculator
-- [sozercan/dalec-copa-demo](https://github.com/sozercan/dalec-copa-demo) - 🤝 Demo of Dalec and Copa working together to patch a dependency vulnerability
 
 #### 🔨 My recent Pull Requests
 
@@ -24,10 +24,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.12.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.12.0), today) - 🧵 CLI tool for directly patching container images!
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) ([v0.7.2](https://github.com/kaito-project/kaito/releases/tag/v0.7.2), 2 days ago) - Kubernetes AI Toolchain Operator
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v3.7.0](https://github.com/mudler/LocalAI/releases/tag/v3.7.0), 3 days ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.20.1](https://github.com/kaito-project/aikit/releases/tag/v0.20.1), 4 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.12.0-rc.3](https://github.com/project-copacetic/copacetic/releases/tag/v0.12.0-rc.3), 5 days ago) - 🧵 CLI tool for directly patching container images!
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) ([v0.18.1](https://github.com/project-dalec/dalec/releases/tag/v0.18.1), 6 days ago) - 📦 Produce secure packages and containers with declarative configurations
 
 #### ⭐ Recent Stars
