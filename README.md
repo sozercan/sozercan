@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 A native macOS ChatGPT client built with SwiftUI. (2 days ago)
-- [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations (5 days ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
+- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 A native macOS ChatGPT client built with SwiftUI. (1 day ago)
+- [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations (6 days ago)
 - [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artifacial Intelligence Model Format Specification (1 week ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
 - [sozercan/gatekeeper-headlamp-plugin](https://github.com/sozercan/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (1 week ago)
 
 #### 🌱 My latest projects
@@ -16,15 +16,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [aikit](https://github.com/sozercan/ayna/pull/15) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
-- [docs: remove experimental from sysext doc title](https://github.com/project-dalec/dalec/pull/845) on [project-dalec/dalec](https://github.com/project-dalec/dalec) (5 days ago)
-- [image gen](https://github.com/sozercan/ayna/pull/3) on [sozercan/ayna](https://github.com/sozercan/ayna) (5 days ago)
-- [docs: update getting started docs](https://github.com/modelpack/model-spec/pull/137) on [modelpack/model-spec](https://github.com/modelpack/model-spec) (6 days ago)
-- [multiple models](https://github.com/sozercan/ayna/pull/2) on [sozercan/ayna](https://github.com/sozercan/ayna) (6 days ago)
+- [retry and switch model](https://github.com/sozercan/ayna/pull/17) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [image input](https://github.com/sozercan/ayna/pull/16) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [aikit](https://github.com/sozercan/ayna/pull/15) on [sozercan/ayna](https://github.com/sozercan/ayna) (3 days ago)
+- [docs: remove experimental from sysext doc title](https://github.com/project-dalec/dalec/pull/845) on [project-dalec/dalec](https://github.com/project-dalec/dalec) (6 days ago)
+- [image gen](https://github.com/sozercan/ayna/pull/3) on [sozercan/ayna](https://github.com/sozercan/ayna) (6 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.21.0-rc.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.21.0-rc.1), 3 days ago) - 🐊 Policy Controller for Kubernetes
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.21.0-rc.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.21.0-rc.1), 4 days ago) - 🐊 Policy Controller for Kubernetes
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.12.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.12.0), 1 week ago) - 🧵 CLI tool for directly patching container images!
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) ([v0.7.2](https://github.com/kaito-project/kaito/releases/tag/v0.7.2), 1 week ago) - Kubernetes AI Toolchain Operator
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v3.7.0](https://github.com/mudler/LocalAI/releases/tag/v3.7.0), 1 week ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
@@ -32,9 +32,9 @@
 
 #### ⭐ Recent Stars
 
-- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments (3 days ago)
-- [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs (4 days ago)
-- [ai-dynamo/aiconfigurator](https://github.com/ai-dynamo/aiconfigurator) - Offline optimization of your disaggregated Dynamo graph (5 days ago)
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments (4 days ago)
+- [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs (5 days ago)
+- [ai-dynamo/aiconfigurator](https://github.com/ai-dynamo/aiconfigurator) - Offline optimization of your disaggregated Dynamo graph (6 days ago)
 - [containerd/nerdbox](https://github.com/containerd/nerdbox) - containerd sandbox runtime using vms (1 week ago)
 - [BjornMelin/github-copilot-proxy](https://github.com/BjornMelin/github-copilot-proxy) - An OpenAI-compatible proxy server that lets Cursor IDE connect directly to GitHub Copilot&#39;s LLM services. Bypass Cursor&#39;s 500 premium requests/month limit by leveraging your existing GitHub Copilot subscription for unlimited AI-powered code completions, chat, and editing features within Cursor IDE. (1 week ago)
 
