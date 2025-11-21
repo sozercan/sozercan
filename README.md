@@ -16,7 +16,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [onboarding](https://github.com/sozercan/ayna/pull/22) on [sozercan/ayna](https://github.com/sozercan/ayna) (4 days ago)
+- [onboarding](https://github.com/sozercan/ayna/pull/22) on [sozercan/ayna](https://github.com/sozercan/ayna) (5 days ago)
 - [fix stop button](https://github.com/sozercan/ayna/pull/20) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 week ago)
 - [mcp optimizations](https://github.com/sozercan/ayna/pull/18) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 week ago)
 - [retry and switch model](https://github.com/sozercan/ayna/pull/17) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 week ago)
@@ -24,18 +24,18 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.21.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.21.0), 1 day ago) - 🐊 Policy Controller for Kubernetes
-- [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) ([v0.19.0](https://github.com/open-policy-agent/frameworks/releases/tag/v0.19.0), 1 day ago)
+- [sozercan/ayna](https://github.com/sozercan/ayna) ([v0.1.0](https://github.com/sozercan/ayna/releases/tag/v0.1.0), 1 day ago) - 🪞 A native macOS ChatGPT client built with SwiftUI.
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.21.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.21.0), 2 days ago) - 🐊 Policy Controller for Kubernetes
+- [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) ([v0.19.0](https://github.com/open-policy-agent/frameworks/releases/tag/v0.19.0), 2 days ago)
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) ([v1.23.1](https://github.com/podman-desktop/podman-desktop/releases/tag/v1.23.1), 1 week ago) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) ([v0.18.2](https://github.com/project-dalec/dalec/releases/tag/v0.18.2), 1 week ago) - 📦 Produce secure packages and containers with declarative configurations
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.12.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.12.0), 2 weeks ago) - 🧵 CLI tool for directly patching container images!
 
 #### ⭐ Recent Stars
 
-- [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.  (1 day ago)
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (2 days ago)
-- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (2 days ago)
-- [nathan-barry/tiny-diffusion](https://github.com/nathan-barry/tiny-diffusion) - A character-level language diffusion model trained on Tiny Shakespeare (2 days ago)
-- [tonl-dev/tonl](https://github.com/tonl-dev/tonl) - TONL (Token-Optimized Notation Language) (2 days ago)
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. (1 day ago)
+- [alex-ilgayev/MCPSpy](https://github.com/alex-ilgayev/MCPSpy) - MCP Monitoring with eBPF (1 day ago)
+- [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.  (2 days ago)
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (3 days ago)
+- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (3 days ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
