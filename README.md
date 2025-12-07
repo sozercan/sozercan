@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 A native macOS and iOS ChatGPT client built with SwiftUI. (1 day ago)
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 days ago)
-- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework (4 days ago)
-- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (4 days ago)
-- [modelpack/model-csi-driver](https://github.com/modelpack/model-csi-driver) - Kubernetes CSI Driver for serving OCI model artifacts (4 days ago)
+- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 A native macOS and iOS ChatGPT client built with SwiftUI. (2 days ago)
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (3 days ago)
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework (5 days ago)
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (5 days ago)
+- [modelpack/model-csi-driver](https://github.com/modelpack/model-csi-driver) - Kubernetes CSI Driver for serving OCI model artifacts (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -16,24 +16,24 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix ci](https://github.com/sozercan/ayna/pull/41) on [sozercan/ayna](https://github.com/sozercan/ayna) (today)
-- [feat: add gator bench command for policy performance benchmarking](https://github.com/open-policy-agent/gatekeeper/pull/4287) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 day ago)
-- [gh aw](https://github.com/sozercan/ayna/pull/34) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
-- [chore: cherry pick #704](https://github.com/kaito-project/aikit/pull/705) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (2 days ago)
-- [chore: bump localai v3.8.0](https://github.com/kaito-project/aikit/pull/704) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (3 days ago)
+- [fix ci](https://github.com/sozercan/ayna/pull/41) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [feat: add gator bench command for policy performance benchmarking](https://github.com/open-policy-agent/gatekeeper/pull/4287) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 days ago)
+- [gh aw](https://github.com/sozercan/ayna/pull/34) on [sozercan/ayna](https://github.com/sozercan/ayna) (3 days ago)
+- [chore: cherry pick #704](https://github.com/kaito-project/aikit/pull/705) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (3 days ago)
+- [chore: bump localai v3.8.0](https://github.com/kaito-project/aikit/pull/704) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (4 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [project-dalec/dalec](https://github.com/project-dalec/dalec) ([v0.19.0](https://github.com/project-dalec/dalec/releases/tag/v0.19.0), 1 day ago) - 📦 Produce secure packages and containers with declarative configurations
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.20.3](https://github.com/kaito-project/aikit/releases/tag/v0.20.3), 2 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
-- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.4.1](https://github.com/eraser-dev/eraser/releases/tag/v1.4.1), 4 days ago) - 🧹 Cleaning up images from Kubernetes nodes
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) ([v0.7.0.post1](https://github.com/ai-dynamo/dynamo/releases/tag/v0.7.0.post1), 1 day ago) - A Datacenter Scale Distributed Inference Serving Framework
+- [project-dalec/dalec](https://github.com/project-dalec/dalec) ([v0.19.0](https://github.com/project-dalec/dalec/releases/tag/v0.19.0), 2 days ago) - 📦 Produce secure packages and containers with declarative configurations
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.20.3](https://github.com/kaito-project/aikit/releases/tag/v0.20.3), 3 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.4.1](https://github.com/eraser-dev/eraser/releases/tag/v1.4.1), 5 days ago) - 🧹 Cleaning up images from Kubernetes nodes
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v3.8.0](https://github.com/mudler/LocalAI/releases/tag/v3.8.0), 1 week ago) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
-- [sozercan/ayna](https://github.com/sozercan/ayna) ([v0.1.0](https://github.com/sozercan/ayna/releases/tag/v0.1.0), 2 weeks ago) - 🪞 A native macOS and iOS ChatGPT client built with SwiftUI.
 
 #### ⭐ Recent Stars
 
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access &amp; manage all AI compute (Kubernetes, 20&#43; clouds, or on-prem). (1 week ago)
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions (1 week ago)
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions (2 weeks ago)
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more. (2 weeks ago)
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. (2 weeks ago)
 - [alex-ilgayev/MCPSpy](https://github.com/alex-ilgayev/MCPSpy) - MCP Monitoring with eBPF (2 weeks ago)
