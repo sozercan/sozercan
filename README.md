@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 A native macOS, iOS and watchOS ChatGPT client built with SwiftUI (1 day ago)
-- [sozercan/kube-foundry](https://github.com/sozercan/kube-foundry) - 🍞 Web-based platform for deploying and managing LLM inference workloads on Kubernetes with extensible frameworks. (2 days ago)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (2 days ago)
+- [sozercan/kube-foundry](https://github.com/sozercan/kube-foundry) - 🍞 Web-based platform for deploying and managing LLM inference workloads on Kubernetes with extensible frameworks. (3 days ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (3 days ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework (1 week ago)
 
@@ -16,26 +16,26 @@
 
 #### 🔨 My recent Pull Requests
 
-- [perf optimizations](https://github.com/sozercan/ayna/pull/46) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [ios swtich and retry](https://github.com/sozercan/ayna/pull/45) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [bug fixes](https://github.com/sozercan/ayna/pull/44) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [refactor](https://github.com/sozercan/kube-foundry/pull/4) on [sozercan/kube-foundry](https://github.com/sozercan/kube-foundry) (1 day ago)
-- [deeplink](https://github.com/sozercan/ayna/pull/43) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
+- [refactor](https://github.com/sozercan/ayna/pull/48) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [attach from app](https://github.com/sozercan/ayna/pull/47) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [perf optimizations](https://github.com/sozercan/ayna/pull/46) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
+- [ios swtich and retry](https://github.com/sozercan/ayna/pull/45) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
+- [bug fixes](https://github.com/sozercan/ayna/pull/44) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [project-dalec/dalec](https://github.com/project-dalec/dalec) ([v0.19.1](https://github.com/project-dalec/dalec/releases/tag/v0.19.1), 3 days ago) - 📦 Produce secure packages and containers with declarative configurations
-- [kaito-project/kaito](https://github.com/kaito-project/kaito) ([v0.8.0-rc.0](https://github.com/kaito-project/kaito/releases/tag/v0.8.0-rc.0), 3 days ago) - Kubernetes AI Toolchain Operator
-- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) ([v0.7.0.post1](https://github.com/ai-dynamo/dynamo/releases/tag/v0.7.0.post1), 5 days ago) - A Datacenter Scale Distributed Inference Serving Framework
+- [project-dalec/dalec](https://github.com/project-dalec/dalec) ([v0.19.1](https://github.com/project-dalec/dalec/releases/tag/v0.19.1), 4 days ago) - 📦 Produce secure packages and containers with declarative configurations
+- [kaito-project/kaito](https://github.com/kaito-project/kaito) ([v0.8.0-rc.0](https://github.com/kaito-project/kaito/releases/tag/v0.8.0-rc.0), 4 days ago) - Kubernetes AI Toolchain Operator
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) ([v0.7.0.post1](https://github.com/ai-dynamo/dynamo/releases/tag/v0.7.0.post1), 6 days ago) - A Datacenter Scale Distributed Inference Serving Framework
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.20.3](https://github.com/kaito-project/aikit/releases/tag/v0.20.3), 1 week ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.4.1](https://github.com/eraser-dev/eraser/releases/tag/v1.4.1), 1 week ago) - 🧹 Cleaning up images from Kubernetes nodes
 
 #### ⭐ Recent Stars
 
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent. (1 day ago)
-- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (3 days ago)
-- [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents) - An AGENTS.md file for Swift and SwiftUI projects. (4 days ago)
+- [danbugs/hyperlight-claude-bridge](https://github.com/danbugs/hyperlight-claude-bridge) - Rust implementation of Claude&#39;s Programmatic Tool Calling using Hyperlight-Nanvix for code execution instead of Anthropic&#39;s managed containers. (1 day ago)
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent. (2 days ago)
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (4 days ago)
+- [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents) - An AGENTS.md file for Swift and SwiftUI projects. (5 days ago)
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access &amp; manage all AI compute (Kubernetes, 20&#43; clouds, or on-prem). (2 weeks ago)
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions (2 weeks ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
