@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 day ago)
 - [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 A native macOS, iOS and watchOS ChatGPT client built with SwiftUI (1 day ago)
-- [sozercan/pano](https://github.com/sozercan/pano) - 📊 Modern Kubernetes TestGrid viewer (2 days ago)
-- [sozercan/kube-foundry](https://github.com/sozercan/kube-foundry) - 🍞 Web-based platform for deploying and managing LLM inference workloads on Kubernetes with extensible frameworks. (5 days ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (5 days ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (2 days ago)
+- [sozercan/pano](https://github.com/sozercan/pano) - 📊 Modern Kubernetes TestGrid viewer (3 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (6 days ago)
+- [sozercan/kube-foundry](https://github.com/sozercan/kube-foundry) - 🍞 Web-based platform for deploying and managing LLM inference workloads on Kubernetes with extensible frameworks. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -16,11 +16,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: dynamo GPU configuration handling](https://github.com/sozercan/kube-foundry/pull/53) on [sozercan/kube-foundry](https://github.com/sozercan/kube-foundry) (5 days ago)
-- [fix: use video.paused for play/pause state detection](https://github.com/sozercan/kaset/pull/87) on [sozercan/kaset](https://github.com/sozercan/kaset) (5 days ago)
-- [fix: restore MainActor context for notification observation task](https://github.com/sozercan/kaset/pull/86) on [sozercan/kaset](https://github.com/sozercan/kaset) (5 days ago)
+- [feat: add anthropic api](https://github.com/sozercan/ayna/pull/61) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [fix: dynamo GPU configuration handling](https://github.com/sozercan/kube-foundry/pull/53) on [sozercan/kube-foundry](https://github.com/sozercan/kube-foundry) (6 days ago)
+- [fix: use video.paused for play/pause state detection](https://github.com/sozercan/kaset/pull/87) on [sozercan/kaset](https://github.com/sozercan/kaset) (6 days ago)
+- [fix: restore MainActor context for notification observation task](https://github.com/sozercan/kaset/pull/86) on [sozercan/kaset](https://github.com/sozercan/kaset) (6 days ago)
 - [feat: memory](https://github.com/sozercan/ayna/pull/58) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 week ago)
-- [fix: implement AirPlay support via WebKit&#39;s native picker](https://github.com/sozercan/kaset/pull/83) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
@@ -32,10 +32,10 @@
 
 #### ⭐ Recent Stars
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (today)
-- [driftlessaf/go-driftlessaf](https://github.com/driftlessaf/go-driftlessaf) -  (1 day ago)
-- [mikekelly/claude-sneakpeek](https://github.com/mikekelly/claude-sneakpeek) - Get a parallel build of Claude code that unlocks feature-flagged capabilities like swarm mode. (4 days ago)
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative (4 days ago)
-- [ai-dynamo/enhancements](https://github.com/ai-dynamo/enhancements) - Enhancement Proposals and Architecture Decisions (5 days ago)
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (1 day ago)
+- [driftlessaf/go-driftlessaf](https://github.com/driftlessaf/go-driftlessaf) -  (2 days ago)
+- [mikekelly/claude-sneakpeek](https://github.com/mikekelly/claude-sneakpeek) - Get a parallel build of Claude code that unlocks feature-flagged capabilities like swarm mode. (5 days ago)
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative (5 days ago)
+- [ai-dynamo/enhancements](https://github.com/ai-dynamo/enhancements) - Enhancement Proposals and Architecture Decisions (6 days ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
