@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 day ago)
-- [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers. (6 days ago)
+- [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers. (1 day ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (2 days ago)
 - [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - 📚 The OPA Gatekeeper policy library (1 week ago)
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework (1 week ago)
 - [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 A native macOS, iOS and watchOS ChatGPT client built with SwiftUI (1 week ago)
@@ -16,11 +16,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ui): replace Kubernetes-specific terminology with platform-agnostic language](https://github.com/kaito-project/kubeairunway/pull/70) on [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) (6 days ago)
+- [Add controller e2e integration tests with CPU-only inference](https://github.com/kaito-project/kubeairunway/pull/75) on [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) (1 day ago)
+- [Update logo, add favicon, fix build, and add CI compile check](https://github.com/kaito-project/kubeairunway/pull/74) on [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) (1 day ago)
+- [feat: integrate Gateway API Inference Extension for unified inference routing](https://github.com/kaito-project/kubeairunway/pull/73) on [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) (1 day ago)
+- [feat(ui): replace Kubernetes-specific terminology with platform-agnostic language](https://github.com/kaito-project/kubeairunway/pull/70) on [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) (1 week ago)
 - [Add SECURITY.md with vulnerability reporting policy](https://github.com/sozercan/ayna/pull/73) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 week ago)
-- [Add CODE_OF_CONDUCT.md (Contributor Covenant v2.1)](https://github.com/sozercan/ayna/pull/72) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 week ago)
-- [Add accessibility labels to chat input area](https://github.com/sozercan/ayna/pull/71) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 week ago)
-- [Add .editorconfig for consistent code formatting](https://github.com/sozercan/ayna/pull/70) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
@@ -32,10 +32,10 @@
 
 #### ⭐ Recent Stars
 
-- [SemiAnalysisAI/InferenceX](https://github.com/SemiAnalysisAI/InferenceX) - Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 &amp; soon™ TPUv6e/v7/Trainium2/3 (1 day ago)
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM diff and TUI analysis tool. Compares CycloneDX/SPDX files to component changes, dependency shifts, license conflicts, and vulnerabilities. (1 day ago)
-- [csharpfritz/SquadUI](https://github.com/csharpfritz/SquadUI) - A Visual Studio Code extension that works with your Squad (2 days ago)
-- [mattrobenolt/appify](https://github.com/mattrobenolt/appify) - Turn TUI apps into real macOS applications (3 days ago)
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (4 days ago)
+- [chadbyte/claude-relay](https://github.com/chadbyte/claude-relay) - Web UI for Claude Code. Any device. Push notifications. Zero install. (today)
+- [openclaw-rocks/k8s-operator](https://github.com/openclaw-rocks/k8s-operator) - Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management. (today)
+- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (&#43; more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today. (1 day ago)
+- [Kuadrant/authorino](https://github.com/Kuadrant/authorino) - K8s-native AuthN/AuthZ service to protect your APIs. (1 day ago)
+- [cpuguy83/ocijoin](https://github.com/cpuguy83/ocijoin) - Library to help manage merge oci indexes (1 day ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
