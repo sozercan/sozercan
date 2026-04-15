@@ -1,11 +1,3 @@
-#### 👷 Check out what I'm currently working on
-
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 Proxy to use Claude, Gemini, or any OpenAI-compatible client with GitHub Copilot (1 day ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 days ago)
-- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (2 days ago)
-- [sozercan/orka](https://github.com/sozercan/orka) - 🐋 Cloud-native multi-agent orchestration platform for Kubernetes (3 days ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (5 days ago)
-
 #### 🌱 My latest projects
 
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365
@@ -13,6 +5,24 @@
 - [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 Proxy to use Claude, Gemini, or any OpenAI-compatible client with GitHub Copilot
 - [sozercan/orka](https://github.com/sozercan/orka) - 🐋 Cloud-native multi-agent orchestration platform for Kubernetes
 - [sozercan/pano](https://github.com/sozercan/pano) - 📊 Modern Kubernetes TestGrid viewer
+- [sozercan/unstuck](https://github.com/sozercan/unstuck) - 🩹 CLI tool to unstick Kubernetes resources stuck in Terminating state
+- [sozercan/kuyruk](https://github.com/sozercan/kuyruk) - 🐙 native macOS GitHub Notifications client built with Swift and SwiftUI
+- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
+- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 A native macOS, iOS and watchOS ChatGPT client built with SwiftUI
+
+#### 👷 Check out what I'm currently working on
+
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 Proxy to use Claude, Gemini, or any OpenAI-compatible client with GitHub Copilot (1 day ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 days ago)
+- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (2 days ago)
+- [sozercan/orka](https://github.com/sozercan/orka) - 🐋 Cloud-native multi-agent orchestration platform for Kubernetes (3 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (5 days ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (5 days ago)
+- [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (5 days ago)
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. (5 days ago)
+- [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps (6 days ago)
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers. (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
