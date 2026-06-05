@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/orka](https://github.com/sozercan/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (3 days ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers (5 days ago)
+- [sozercan/orka](https://github.com/sozercan/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (2 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (4 days ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers (6 days ago)
 - [kaito-project/airunway](https://github.com/kaito-project/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (1 week ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (3 weeks ago)
@@ -26,26 +26,26 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(security): User-controlled image URL is concatenated into a shell command](https://github.com/sozercan/nodejs-goof/pull/9) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (1 day ago)
-- [docs: add autoreview pre-commit guidance](https://github.com/sozercan/orka/pull/154) on [sozercan/orka](https://github.com/sozercan/orka) (1 day ago)
-- [fix(security): Unauthenticated command injection in POST /create image handling](https://github.com/sozercan/nodejs-goof/pull/8) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (1 day ago)
-- [fix(security): Application seeds a predictable admin account with hardcoded password](https://github.com/sozercan/nodejs-goof/pull/7) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (1 day ago)
-- [Add --quiet/-q flag to suppress non-error CLI output](https://github.com/sozercan/vekil/pull/169) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
+- [fix(security): User-controlled image URL is concatenated into a shell command](https://github.com/sozercan/nodejs-goof/pull/9) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (2 days ago)
+- [docs: add autoreview pre-commit guidance](https://github.com/sozercan/orka/pull/154) on [sozercan/orka](https://github.com/sozercan/orka) (2 days ago)
+- [fix(security): Unauthenticated command injection in POST /create image handling](https://github.com/sozercan/nodejs-goof/pull/8) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (2 days ago)
+- [fix(security): Application seeds a predictable admin account with hardcoded password](https://github.com/sozercan/nodejs-goof/pull/7) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (2 days ago)
+- [Add --quiet/-q flag to suppress non-error CLI output](https://github.com/sozercan/vekil/pull/169) on [sozercan/vekil](https://github.com/sozercan/vekil) (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) ([v1.3.0-kimi-k2.6-dev.1](https://github.com/ai-dynamo/dynamo/releases/tag/v1.3.0-kimi-k2.6-dev.1), today) - A Datacenter Scale Distributed Inference Serving Framework
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.10.2](https://github.com/sozercan/kaset/releases/tag/v0.10.2), 4 days ago) - 📻 The missing YouTube Music macOS app
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.12.1](https://github.com/sozercan/vekil/releases/tag/v0.12.1), 4 days ago) - 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v4.3.6](https://github.com/mudler/LocalAI/releases/tag/v4.3.6), 5 days ago) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [kaito-project/airunway](https://github.com/kaito-project/airunway) ([v0.6.0](https://github.com/kaito-project/airunway/releases/tag/v0.6.0), 6 days ago) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) ([v1.3.0-nemotron-ultra-dev.1](https://github.com/ai-dynamo/dynamo/releases/tag/v1.3.0-nemotron-ultra-dev.1), 1 day ago) - A Datacenter Scale Distributed Inference Serving Framework
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.10.2](https://github.com/sozercan/kaset/releases/tag/v0.10.2), 5 days ago) - 📻 The missing YouTube Music macOS app
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.12.1](https://github.com/sozercan/vekil/releases/tag/v0.12.1), 5 days ago) - 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v4.3.6](https://github.com/mudler/LocalAI/releases/tag/v4.3.6), 6 days ago) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) ([v0.6.0](https://github.com/kaito-project/airunway/releases/tag/v0.6.0), 1 week ago) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers
 
 #### ⭐ Recent Stars
 
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (today)
-- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - open-source healthcare ai (today)
-- [anihitk07/airunway-semantic-router-lab](https://github.com/anihitk07/airunway-semantic-router-lab) - End-to-end AKS lab combining AI Runway (KAITO), the vLLM Semantic Router &#43; AgentGateway, and the native Istio &#43; Gateway API Inference Extension (GAIE) comparison path. (1 day ago)
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (3 days ago)
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.  (4 days ago)
+- [Metabuilder-Labs/tokenjam](https://github.com/Metabuilder-Labs/tokenjam) - Token Efficiency For AI Agents (1 day ago)
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code. (1 day ago)
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (1 day ago)
+- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - open-source healthcare ai (1 day ago)
+- [anihitk07/airunway-semantic-router-lab](https://github.com/anihitk07/airunway-semantic-router-lab) - End-to-end AKS lab combining AI Runway (KAITO), the vLLM Semantic Router &#43; AgentGateway, and the native Istio &#43; Gateway API Inference Extension (GAIE) comparison path. (2 days ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
