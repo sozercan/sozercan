@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers (1 day ago)
-- [kaito-project/airunway](https://github.com/kaito-project/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (1 day ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (2 days ago)
-- [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (5 days ago)
-- [sozercan/orka](https://github.com/sozercan/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (5 days ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers (2 days ago)
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (2 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (3 days ago)
+- [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (6 days ago)
+- [sozercan/orka](https://github.com/sozercan/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (6 days ago)
 - [sozercan/kindctl](https://github.com/sozercan/kindctl) - 🧑‍🔧 Agent-friendly kind cluster manager for per-repo/worktree local Kubernetes without global kubeconfig pollution (1 week ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 week ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (4 weeks ago)
@@ -26,26 +26,26 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: harden proxy compatibility](https://github.com/sozercan/vekil/pull/211) on [sozercan/vekil](https://github.com/sozercan/vekil) (today)
-- [docs: add OpenCode Zen free-tier provider routing](https://github.com/sozercan/vekil/pull/210) on [sozercan/vekil](https://github.com/sozercan/vekil) (today)
-- [chore(skills): align harness skills, vendor kindctl, and document skills in AGENTS.md](https://github.com/sozercan/orka/pull/198) on [sozercan/orka](https://github.com/sozercan/orka) (2 days ago)
-- [docs(agents): note $kindctl and $vekil-reverse-proxy-deploy skills](https://github.com/sozercan/orka/pull/197) on [sozercan/orka](https://github.com/sozercan/orka) (2 days ago)
-- [refactor: deepen architecture modules](https://github.com/kaito-project/airunway/pull/324) on [kaito-project/airunway](https://github.com/kaito-project/airunway) (2 days ago)
+- [Fix YouTube Home load (stuck skeleton, latency) &#43; floating window drag/crash](https://github.com/sozercan/kaset/pull/308) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
+- [Orka Agent Substrate demo](https://github.com/sozercan/vekil/pull/221) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [Orka Agent Substrate demo](https://github.com/sozercan/vekil/pull/220) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [Orka Agent Substrate demo](https://github.com/sozercan/vekil/pull/219) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [Orka Agent Substrate demo](https://github.com/sozercan/vekil/pull/218) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v4.4.3](https://github.com/mudler/LocalAI/releases/tag/v4.4.3), 5 days ago) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) ([v1.2.1](https://github.com/ai-dynamo/dynamo/releases/tag/v1.2.1), 5 days ago) - A Datacenter Scale Distributed Inference Serving Framework
+- [kaito-project/kaito](https://github.com/kaito-project/kaito) ([v0.9.4](https://github.com/kaito-project/kaito/releases/tag/v0.9.4), today) - Kubernetes AI Toolchain Operator
+- [sozercan/kindctl](https://github.com/sozercan/kindctl) ([v0.1.0](https://github.com/sozercan/kindctl/releases/tag/v0.1.0), 1 day ago) - 🧑‍🔧 Agent-friendly kind cluster manager for per-repo/worktree local Kubernetes without global kubeconfig pollution
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v4.4.3](https://github.com/mudler/LocalAI/releases/tag/v4.4.3), 6 days ago) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) ([v1.2.1](https://github.com/ai-dynamo/dynamo/releases/tag/v1.2.1), 6 days ago) - A Datacenter Scale Distributed Inference Serving Framework
 - [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) ([v1.0.0](https://github.com/jaywcjlove/awesome-swift-macos-apps/releases/tag/v1.0.0), 1 week ago) - A curated collection of open-source macOS applications built with Swift
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.11.0](https://github.com/sozercan/kaset/releases/tag/v0.11.0), 1 week ago) - 📻 The missing YouTube Music macOS app
-- [sozercan/a365cli](https://github.com/sozercan/a365cli) ([v0.3.1](https://github.com/sozercan/a365cli/releases/tag/v0.3.1), 1 week ago) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365
 
 #### ⭐ Recent Stars
 
-- [HeddleCo/heddle](https://github.com/HeddleCo/heddle) -  (today)
-- [colinvkim/Radix](https://github.com/colinvkim/Radix) - Modern, extremely fast macOS disk space analyzer. (1 day ago)
-- [dickhardt/AAuth](https://github.com/dickhardt/AAuth) - explainer for AAuth  (1 day ago)
-- [sozercan/kindctl](https://github.com/sozercan/kindctl) - 🧑‍🔧 Agent-friendly kind cluster manager for per-repo/worktree local Kubernetes without global kubeconfig pollution (1 day ago)
-- [EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download) - 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。 (1 day ago)
+- [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser. (today)
+- [zeenie-ai/MachinaOS](https://github.com/zeenie-ai/MachinaOS) - Self Evolving Tokens to Work and Dollar Converting AI Employees (1 day ago)
+- [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal. (1 day ago)
+- [ards-project/ard-spec](https://github.com/ards-project/ard-spec) - Agentic Resource Discovery Specification (ARD) (1 day ago)
+- [HeddleCo/heddle](https://github.com/HeddleCo/heddle) -  (1 day ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
