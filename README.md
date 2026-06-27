@@ -1,5 +1,6 @@
 #### 🌱 My latest projects
 
+- [sozercan/kusto-cli](https://github.com/sozercan/kusto-cli) - 📊 Standalone agent-friendly CLI for Kusto workflows
 - [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images
 - [sozercan/kindctl](https://github.com/sozercan/kindctl) - 🧑‍🔧 Agent-friendly kind cluster manager for per-repo/worktree local Kubernetes without global kubeconfig pollution
 - [sozercan/gatekeeper-earlywatch](https://github.com/sozercan/gatekeeper-earlywatch) - 👀 EarlyWatch admission validators as Gatekeeper policies
@@ -9,43 +10,42 @@
 - [sozercan/orka](https://github.com/sozercan/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
 - [sozercan/pano](https://github.com/sozercan/pano) - 📊 Modern Kubernetes TestGrid viewer
 - [sozercan/unstuck](https://github.com/sozercan/unstuck) - 🩹 CLI tool to unstick Kubernetes resources stuck in Terminating state
-- [sozercan/kuyruk](https://github.com/sozercan/kuyruk) - 🐙 Native macOS GitHub Notifications client built with Swift and SwiftUI
 
 #### 👷 Check out what I'm currently working on
 
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube and YouTube Music macOS app (1 day ago)
+- [sozercan/kusto-cli](https://github.com/sozercan/kusto-cli) - 📊 Standalone agent-friendly CLI for Kusto workflows (1 day ago)
 - [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (1 day ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers (1 day ago)
 - [sozercan/orka](https://github.com/sozercan/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
-- [orka-agents/orka](https://github.com/orka-agents/orka) -  (2 days ago)
-- [kaito-project/airunway](https://github.com/kaito-project/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (2 days ago)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (3 days ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube and YouTube Music macOS app (3 days ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (4 days ago)
-- [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (1 week ago)
-- [sozercan/kindctl](https://github.com/sozercan/kindctl) - 🧑‍🔧 Agent-friendly kind cluster manager for per-repo/worktree local Kubernetes without global kubeconfig pollution (2 weeks ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers (2 days ago)
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (3 days ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) -  (3 days ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (4 days ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (5 days ago)
+- [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat(agentkit): add remote MCP and Foundry protocol support](https://github.com/sozercan/agentkit/pull/9) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (today)
-- [docs: update agentkit documentation](https://github.com/sozercan/agentkit/pull/8) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (1 day ago)
-- [chore: add review closeout skills](https://github.com/sozercan/agentkit/pull/7) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (1 day ago)
-- [feat: add langgraph runtime](https://github.com/sozercan/agentkit/pull/5) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (1 day ago)
-- [refactor: deepen agentkit architecture](https://github.com/sozercan/agentkit/pull/4) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (1 day ago)
+- [feat: add AgentRuntime external endpoint routing](https://github.com/sozercan/orka/pull/246) on [sozercan/orka](https://github.com/sozercan/orka) (today)
+- [feat(runtime): add Orka harness protocol mode](https://github.com/sozercan/agentkit/pull/15) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (1 day ago)
+- [docs: clarify OpenAI-compatible model endpoints](https://github.com/sozercan/agentkit/pull/14) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (1 day ago)
+- [feat(foundry): add generic hosted-agent parity support](https://github.com/sozercan/agentkit/pull/9) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (1 day ago)
+- [docs: update agentkit documentation](https://github.com/sozercan/agentkit/pull/8) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [project-dalec/dalec](https://github.com/project-dalec/dalec) ([v0.21.2](https://github.com/project-dalec/dalec/releases/tag/v0.21.2), 1 day ago) - 📦 Produce secure packages and containers with declarative configurations
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.13.1](https://github.com/sozercan/vekil/releases/tag/v0.13.1), 1 day ago) - 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.12.0](https://github.com/sozercan/kaset/releases/tag/v0.12.0), 2 days ago) - 📻 The missing YouTube and YouTube Music macOS app
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v4.5.0](https://github.com/mudler/LocalAI/releases/tag/v4.5.0), 3 days ago) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.0-rc.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.0-rc.1), 3 days ago) - 🐊 Policy Controller for Kubernetes
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v4.5.4](https://github.com/mudler/LocalAI/releases/tag/v4.5.4), today) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+- [sozercan/kusto-cli](https://github.com/sozercan/kusto-cli) ([v0.1.0](https://github.com/sozercan/kusto-cli/releases/tag/v0.1.0), 1 day ago) - 📊 Standalone agent-friendly CLI for Kusto workflows
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) ([v0.7.0](https://github.com/kaito-project/airunway/releases/tag/v0.7.0), 1 day ago) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers
+- [project-dalec/dalec](https://github.com/project-dalec/dalec) ([v0.21.2](https://github.com/project-dalec/dalec/releases/tag/v0.21.2), 2 days ago) - 📦 Produce secure packages and containers with declarative configurations
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.13.1](https://github.com/sozercan/vekil/releases/tag/v0.13.1), 2 days ago) - 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers
 
 #### ⭐ Recent Stars
 
-- [uellenberg/Insert](https://github.com/uellenberg/Insert) - Insert is a programming language for self-modifying code. (today)
-- [fkiene/llmtrim](https://github.com/fkiene/llmtrim) - Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens from prompts, history, tool output, and code before they&#39;re sent: -31% input / -74% output, measured live. Any provider, no extra model calls. Also an MCP server and embeddable library (Rust, Python, Ruby, Kotlin, Swift, JS/TS). (1 day ago)
-- [renanliberato/mirage](https://github.com/renanliberato/mirage) -  (1 day ago)
-- [anomalyco/rift](https://github.com/anomalyco/rift) -  (1 day ago)
-- [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World&#39;s first Face Authentication enabled MacOS App-locker. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never leaves your Mac (1 day ago)
+- [uellenberg/Insert](https://github.com/uellenberg/Insert) - Insert is a programming language for self-modifying code. (1 day ago)
+- [fkiene/llmtrim](https://github.com/fkiene/llmtrim) - Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens from prompts, history, tool output, and code before they&#39;re sent: -31% input / -74% output, measured live. Any provider, no extra model calls. Also an MCP server and embeddable library (Rust, Python, Ruby, Kotlin, Swift, JS/TS). (2 days ago)
+- [renanliberato/mirage](https://github.com/renanliberato/mirage) -  (2 days ago)
+- [anomalyco/rift](https://github.com/anomalyco/rift) -  (2 days ago)
+- [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World&#39;s first Face Authentication enabled MacOS App-locker. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never leaves your Mac (2 days ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
