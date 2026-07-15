@@ -5,7 +5,9 @@ import { resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const API_ROOT = process.env.GITHUB_API_URL ?? "https://api.github.com";
-const TOKEN = process.env.GITHUB_TOKEN ?? process.env.GH_TOKEN ?? "";
+// Only trust the ephemeral installation token injected by GitHub Actions.
+// Local personal tokens are intentionally ignored so generated output stays public-only.
+const TOKEN = process.env.GITHUB_ACTIONS === "true" ? (process.env.GITHUB_TOKEN ?? "") : "";
 const USER_AGENT = "sozercan-profile-readme";
 const API_VERSION = "2022-11-28";
 
@@ -278,7 +280,12 @@ async function main() {
   }
 
   const projects = ownedRepositories
-    .filter((repository) => !repository.fork && repository.full_name.toLowerCase() !== profileRepository)
+    .filter(
+      (repository) =>
+        !repository.fork &&
+        !repository.private &&
+        repository.full_name.toLowerCase() !== profileRepository,
+    )
     .slice(0, LIMITS.projects);
 
   const allPullRequests = pullRequestSearch.items
@@ -306,10 +313,12 @@ async function main() {
     return repository;
   }
 
-  const contributions = await mapLimit(contributionActivity, 5, async ({ occurredAt, repositoryName }) => ({
-    occurredAt,
-    repository: await getRepository(repositoryName),
-  }));
+  const contributions = (
+    await mapLimit(contributionActivity, 5, async ({ occurredAt, repositoryName }) => ({
+      occurredAt,
+      repository: await getRepository(repositoryName),
+    }))
+  ).filter(({ repository }) => !repository.private);
 
   const releaseCandidateNames = [];
   const seenReleaseCandidates = new Set();
@@ -334,10 +343,11 @@ async function main() {
       if (!release || release.draft || release.prerelease || !release.published_at) {
         return null;
       }
-      return {
-        release,
-        repository: await getRepository(repositoryName),
-      };
+      const repository = await getRepository(repositoryName);
+      if (repository.private) {
+        return null;
+      }
+      return { release, repository };
     } catch (error) {
       console.warn(`Skipping releases for ${repositoryName}: ${error.message}`);
       return null;
@@ -352,10 +362,13 @@ async function main() {
     })
     .slice(0, LIMITS.releases);
 
-  const stars = rawStars.slice(0, LIMITS.stars).map((entry) => ({
-    repository: entry.repo ?? entry,
-    starredAt: entry.starred_at ?? null,
-  }));
+  const stars = rawStars
+    .map((entry) => ({
+      repository: entry.repo ?? entry,
+      starredAt: entry.starred_at ?? null,
+    }))
+    .filter(({ repository }) => !repository.private)
+    .slice(0, LIMITS.stars);
 
   const readme = renderReadme(
     {
