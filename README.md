@@ -45,7 +45,7 @@
 - [fix(reliability): harden runtime and build lifecycle](https://github.com/sozercan/agentkit/pull/21) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (3 days ago)
 - [fix(harness): avoid large Codex prompts in child env](https://github.com/orka-agents/orka/pull/279) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
 - [fix(foundry): support session-bound brokered continuations](https://github.com/sozercan/agentkit/pull/20) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (5 days ago)
-- [fix(gatekeeper-manager): ignore empty namespace exemption patterns](https://github.com/sozercan/dalec-build-defs/pull/2) on [sozercan/dalec-build-defs](https://github.com/sozercan/dalec-build-defs) (5 days ago)
+- [fix: enforce Kubernetes RBAC and reject worker SAs for approval decisions](https://github.com/orka-agents/orka/pull/278) on [orka-agents/orka](https://github.com/orka-agents/orka) (6 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
