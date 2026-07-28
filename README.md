@@ -26,7 +26,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (today)
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (2 days ago)
 - [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (3 days ago)
 - [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (1 week ago)
@@ -44,6 +44,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update README and screenshots](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin/pull/19) on [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) (today)
 - [feat(acp): complete harness v2 hard cutover](https://github.com/orka-agents/orka/pull/306) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
 - [Orka publication generation 1](https://github.com/orka-agents/orka/pull/305) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
 - [Orka publication generation 1](https://github.com/orka-agents/orka/pull/304) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
@@ -53,7 +54,6 @@
 - [Orka publication generation 1](https://github.com/orka-agents/orka/pull/300) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
 - [Orka publication generation 1](https://github.com/orka-agents/orka/pull/299) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
 - [fix: improve YouTube playback reliability](https://github.com/sozercan/kaset/pull/408) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 days ago)
-- [docs: polish README header, and feature list](https://github.com/sozercan/kaset/pull/407) on [sozercan/kaset](https://github.com/sozercan/kaset) (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
