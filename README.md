@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://trendshift.io/developers/1847?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-1847" target="_blank" rel="noopener noreferrer">
+    <img src="https://trendshift.io/api/badge/developers/1847" alt="sozercan | Trendshift" width="250" height="55" />
+  </a>
+</p>
+
+---
+
 #### 🌱 My latest projects
 
 - [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills
@@ -71,4 +79,8 @@
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (5 days ago)
 - [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym) - CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously assess the capabilities of AI agents on real-world vulnerability analysis tasks. (5 days ago)
 
-![](https://github-readme-stats.vercel.app/api?username=sozercan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
+---
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sozercan&amp;theme=vision-friendly-dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="sozercan's GitHub stats" />
+</p>

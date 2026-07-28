@@ -11,6 +11,8 @@ const TOKEN = process.env.GITHUB_ACTIONS === "true" ? (process.env.GITHUB_TOKEN 
 const USER_AGENT = "sozercan-profile-readme";
 const API_VERSION = "2022-11-28";
 
+const TRENDSHIFT_DEVELOPER_ID = "1847";
+
 const LIMITS = Object.freeze({
   contributions: 15,
   commitSearchPages: 5,
@@ -194,8 +196,23 @@ function repositoryLine(repository, occurredAt, now) {
   return `- [${name}](${repository.html_url})${descriptionSuffix}${ageSuffix}`;
 }
 
+function trendshiftBadge(user) {
+  const href =
+    `https://trendshift.io/developers/${TRENDSHIFT_DEVELOPER_ID}` +
+    "?utm_source=developer-badge&amp;utm_medium=badge" +
+    `&amp;utm_campaign=badge-developer-${TRENDSHIFT_DEVELOPER_ID}`;
+
+  return [
+    "<p align=\"center\">",
+    `  <a href="${href}" target="_blank" rel="noopener noreferrer">`,
+    `    <img src="https://trendshift.io/api/badge/developers/${TRENDSHIFT_DEVELOPER_ID}" alt="${markdownText(user)} | Trendshift" width="250" height="55" />`,
+    "  </a>",
+    "</p>",
+  ];
+}
+
 export function renderReadme({ projects, contributions, pullRequests, releases, stars, user }, now = new Date()) {
-  const lines = ["#### 🌱 My latest projects", ""];
+  const lines = [...trendshiftBadge(user), "", "---", "", "#### 🌱 My latest projects", ""];
 
   lines.push(...projects.map((repository) => repositoryLine(repository, null, now)));
   lines.push("", "#### 👷 Check out what I'm currently working on", "");
@@ -224,7 +241,11 @@ export function renderReadme({ projects, contributions, pullRequests, releases, 
   lines.push(...stars.map(({ repository, starredAt }) => repositoryLine(repository, starredAt, now)));
   lines.push(
     "",
-    `![](https://github-readme-stats.vercel.app/api?username=${encodeURIComponent(user)}&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)`,
+    "---",
+    "",
+    "<p align=\"center\">",
+    `  <img src="https://github-stats-extended.vercel.app/api?username=${encodeURIComponent(user)}&amp;theme=vision-friendly-dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="${markdownText(user)}'s GitHub stats" />`,
+    "</p>",
     "",
   );
 
