@@ -26,41 +26,41 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
-- [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (1 day ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (3 days ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (4 days ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (today)
+- [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (2 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (4 days ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (5 days ago)
+- [orka-agents/orka-gateway-telegram](https://github.com/orka-agents/orka-gateway-telegram) - Out-of-tree Telegram adapter for the Orka generic gateway protocol (1 week ago)
 - [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (1 week ago)
-- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (1 week ago)
-- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (1 week ago)
-- [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - 📂 macOS Finder toolbar app to open current folder in Visual Studio Code (1 week ago)
+- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (2 weeks ago)
+- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (2 weeks ago)
+- [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - 📂 macOS Finder toolbar app to open current folder in Visual Studio Code (2 weeks ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
 - [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (2 weeks ago)
 - [orka-agents/agent-runtime-foundry-classic](https://github.com/orka-agents/agent-runtime-foundry-classic) - Azure AI Foundry Agent Service (classic) adapter for Orka AgentRuntime (2 weeks ago)
 - [orka-agents/orka-integration-agentgateway](https://github.com/orka-agents/orka-integration-agentgateway) - Versioned agentgateway integration for Orka outbound access policies (2 weeks ago)
 - [orka-agents/orka-integration-kontxt](https://github.com/orka-agents/orka-integration-kontxt) - Versioned Kontxt integration for Orka transaction tokens (2 weeks ago)
 - [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (2 weeks ago)
-- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [chore: refresh docs and repository automation](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin/pull/19) on [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) (1 day ago)
-- [feat(acp): complete harness v2 hard cutover](https://github.com/orka-agents/orka/pull/306) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/305) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/304) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/303) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/302) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/301) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/300) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/299) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [fix: improve YouTube playback reliability](https://github.com/sozercan/kaset/pull/408) on [sozercan/kaset](https://github.com/sozercan/kaset) (3 days ago)
+- [feat(acp): add OpenCode runtime](https://github.com/orka-agents/orka/pull/321) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [chore(skills): remove agent transcript skill](https://github.com/orka-agents/orka/pull/320) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [ci: harden release supply chain](https://github.com/sozercan/vekil/pull/296) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [fix(cli): complete namespace-scoped inventory pagination](https://github.com/orka-agents/orka/pull/319) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(logs): harden task streaming and SSE handling](https://github.com/orka-agents/orka/pull/318) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(ai): harden tool updates and context recovery](https://github.com/orka-agents/orka/pull/317) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(auth): cache OIDC signing metadata safely](https://github.com/orka-agents/orka/pull/316) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(api): bind internal calls to active task identity](https://github.com/orka-agents/orka/pull/315) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(api): repair Kubernetes inventory pagination](https://github.com/orka-agents/orka/pull/314) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(chat): make session turns durable and gateway-safe](https://github.com/orka-agents/orka/pull/313) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.13.1](https://github.com/sozercan/kaset/releases/tag/v0.13.1), 2 days ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.13.1](https://github.com/sozercan/kaset/releases/tag/v0.13.1), 3 days ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.0](https://github.com/sozercan/vekil/releases/tag/v0.14.0), 1 week ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
-- [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) ([v2.0.0](https://github.com/sozercan/OpenInCode/releases/tag/v2.0.0), 1 week ago) - 📂 macOS Finder toolbar app to open current folder in Visual Studio Code
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.0), 2 weeks ago) - 🐊 Policy Controller for Kubernetes
+- [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) ([v2.0.0](https://github.com/sozercan/OpenInCode/releases/tag/v2.0.0), 2 weeks ago) - 📂 macOS Finder toolbar app to open current folder in Visual Studio Code
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.0), 3 weeks ago) - 🐊 Policy Controller for Kubernetes
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.14.2](https://github.com/project-copacetic/copacetic/releases/tag/v0.14.2), 3 weeks ago) - 🧵 CLI tool for directly patching container images!
 - [ai-runway/airunway](https://github.com/ai-runway/airunway) ([v0.7.0](https://github.com/ai-runway/airunway/releases/tag/v0.7.0), 1 month ago) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.21.0](https://github.com/kaito-project/aikit/releases/tag/v0.21.0), 4 months ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
@@ -68,16 +68,16 @@
 
 #### ⭐ Recent Stars
 
-- [openai/codex-security](https://github.com/openai/codex-security) - SDKs and CLI for Codex Security (today)
-- [ssut/Sukurini](https://github.com/ssut/Sukurini) - A modern rebuild of Screenie, for Apple Silicon. (1 day ago)
-- [basetenlabs/baseten-switch](https://github.com/basetenlabs/baseten-switch) - Local macOS app and gateway for routing AI coding harnesses through Baseten (1 day ago)
-- [digimata/quill](https://github.com/digimata/quill) - Ultraminimalist macOS recording + transcription. (1 day ago)
-- [PipeNetwork/kimi-k3-mlx](https://github.com/PipeNetwork/kimi-k3-mlx) - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis (1 day ago)
-- [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (2 days ago)
-- [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS (2 days ago)
-- [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (2 days ago)
-- [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - labs-OO-agents (4 days ago)
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (4 days ago)
+- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (1 day ago)
+- [ssut/Sukurini](https://github.com/ssut/Sukurini) - A modern rebuild of Screenie, for Apple Silicon. (2 days ago)
+- [basetenlabs/baseten-switch](https://github.com/basetenlabs/baseten-switch) - Local macOS app and gateway for routing AI coding harnesses through Baseten (2 days ago)
+- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription. (2 days ago)
+- [PipeNetwork/kimi-k3-mlx](https://github.com/PipeNetwork/kimi-k3-mlx) - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis (2 days ago)
+- [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (3 days ago)
+- [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS (3 days ago)
+- [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (3 days ago)
+- [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - labs-OO-agents (5 days ago)
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (5 days ago)
 
 ---
 
