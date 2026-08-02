@@ -8,7 +8,6 @@
 
 #### 🌱 My latest projects
 
-- [sozercan/d365-expense-cli](https://github.com/sozercan/d365-expense-cli)
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
 - [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills
 - [sozercan/kusto-cli](https://github.com/sozercan/kusto-cli) - 📊 Standalone agent-friendly CLI for Kusto workflows
@@ -23,9 +22,13 @@
 - [sozercan/kuyruk](https://github.com/sozercan/kuyruk) - 🐙 Native macOS GitHub Notifications client built with Swift and SwiftUI
 - [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
+- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI
 
 #### 👷 Check out what I'm currently working on
 
+- [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (today)
+- [orka-agents/orka-oms-kd6-adapter](https://github.com/orka-agents/orka-oms-kd6-adapter) - Out-of-tree KD6 adapter for the Orka Memory Service (OMS) protocol (today)
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (today)
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (2 days ago)
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (2 days ago)
 - [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (3 days ago)
@@ -38,22 +41,19 @@
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - 📂 macOS Finder toolbar app to open current folder in Visual Studio Code (2 weeks ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
 - [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (2 weeks ago)
-- [orka-agents/agent-runtime-foundry-classic](https://github.com/orka-agents/agent-runtime-foundry-classic) - Azure AI Foundry Agent Service (classic) adapter for Orka AgentRuntime (2 weeks ago)
-- [orka-agents/orka-integration-agentgateway](https://github.com/orka-agents/orka-integration-agentgateway) - Versioned agentgateway integration for Orka outbound access policies (2 weeks ago)
-- [orka-agents/orka-integration-kontxt](https://github.com/orka-agents/orka-integration-kontxt) - Versioned Kontxt integration for Orka transaction tokens (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
+- [fix(runtime): support multi-package toolchains](https://github.com/sozercan/dalec-homebrew/pull/6) on [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) (today)
+- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/337) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [feat: extract KD6 OMS adapter](https://github.com/orka-agents/orka-oms-kd6-adapter/pull/1) on [orka-agents/orka-oms-kd6-adapter](https://github.com/orka-agents/orka-oms-kd6-adapter) (today)
+- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/336) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/335) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [chore: bump LocalAI to v4.7.1](https://github.com/kaito-project/aikit/pull/813) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (today)
 - [feat: support Ubuntu Chiseled image patching](https://github.com/project-copacetic/copacetic/pull/1667) on [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) (1 day ago)
 - [Orka publication generation 1](https://github.com/orka-agents/orka/pull/334) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
 - [Orka publication generation 1](https://github.com/orka-agents/orka/pull/333) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
 - [Orka publication generation 1](https://github.com/orka-agents/orka/pull/332) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat(memory): add pluggable OMS backends](https://github.com/orka-agents/orka/pull/331) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat(ci): add secure release pipeline](https://github.com/sozercan/dalec-homebrew/pull/5) on [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) (1 day ago)
-- [fix(auth): stabilize login caching and tenant routing](https://github.com/sozercan/a365cli/pull/33) on [sozercan/a365cli](https://github.com/sozercan/a365cli) (1 day ago)
-- [docs: add repository agent instructions](https://github.com/sozercan/dalec-homebrew/pull/4) on [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) (2 days ago)
-- [chore(skills): add autoreview](https://github.com/sozercan/dalec-homebrew/pull/3) on [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) (2 days ago)
-- [feat: support bare dependency-only builds](https://github.com/sozercan/dalec-homebrew/pull/2) on [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
@@ -68,7 +68,9 @@
 
 #### ⭐ Recent Stars
 
-- [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) - A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform. (1 day ago)
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. (today)
+- [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. (today)
+- [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) - A modern Rust based terminal user interface for streaming. Fast, lightweight, keyboard first, and cross-platform. (1 day ago)
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents (2 days ago)
 - [anomalyco/terminal-control](https://github.com/anomalyco/terminal-control) (2 days ago)
 - [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu) - reims-vgpu is an experimental virtual GPU for macOS guests (2 days ago)
@@ -76,8 +78,6 @@
 - [chatwait/chatwait-extension](https://github.com/chatwait/chatwait-extension) - Get paid while AI thinks. (2 days ago)
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET (2 days ago)
 - [agentbaseline/agentbaseline](https://github.com/agentbaseline/agentbaseline) - Six security outcomes an enterprise must achieve to run AI agents, and the controls that evidence them. A draft for public comment. (2 days ago)
-- [perplexityai/numbat](https://github.com/perplexityai/numbat) - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction. (3 days ago)
-- [manaflow-ai/cmux-v2](https://github.com/manaflow-ai/cmux-v2) - Public nightly downloads and signed update feeds for cmux Browser (3 days ago)
 
 ---
 
