@@ -26,60 +26,60 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (today)
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 day ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 day ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
 - [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (1 day ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (2 days ago)
-- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (2 days ago)
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 days ago)
-- [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (4 days ago)
-- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (4 days ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (5 days ago)
+- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (1 day ago)
+- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (3 days ago)
+- [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (5 days ago)
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (5 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (6 days ago)
 - [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 week ago)
 - [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (1 week ago)
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (1 week ago)
 - [orka-agents/orka-oms-kd6-adapter](https://github.com/orka-agents/orka-oms-kd6-adapter) - Out-of-tree KD6 adapter for the Orka Memory Service (OMS) protocol (1 week ago)
 - [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (2 weeks ago)
-- [orka-agents/orka-gateway-telegram](https://github.com/orka-agents/orka-gateway-telegram) - Out-of-tree Telegram adapter for the Orka generic gateway protocol (3 weeks ago)
-- [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (3 weeks ago)
-- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(images): omit unsupported response format](https://github.com/sozercan/ayna/pull/106) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [feat(watchos): support reasoning-only responses](https://github.com/sozercan/ayna/pull/105) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [RepositoryMonitor review validation rm-260810201630-a0f9fbdc](https://github.com/sozercan/vekil/pull/332) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [ci: lint production Swift sources](https://github.com/sozercan/ayna/pull/104) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [fix(chat): persist terminal conversation mutations](https://github.com/sozercan/ayna/pull/103) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [refactor(chat): centralize request and failure planning](https://github.com/sozercan/ayna/pull/102) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [ci(watchos): run native unit tests](https://github.com/sozercan/ayna/pull/101) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [refactor(ai): remove unused provider adapters](https://github.com/sozercan/ayna/pull/100) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [refactor(chat): centralize transcript and multi-model planning](https://github.com/sozercan/ayna/pull/99) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
-- [refactor: remove GitHub Models integration](https://github.com/sozercan/ayna/pull/98) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [feat(models): add Muse Glimmer 30B](https://github.com/kaito-project/aikit/pull/848) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (1 day ago)
+- [feat: add model-aware chat reasoning controls](https://github.com/sozercan/ayna/pull/115) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [feat(chat): support pasting images into chat](https://github.com/sozercan/ayna/pull/114) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [fix(ci): publish appcast through protected branch](https://github.com/sozercan/ayna/pull/113) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [fix(ci): reuse immutable release assets](https://github.com/sozercan/ayna/pull/112) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [fix(ci): publish Sparkle appcast before Homebrew](https://github.com/sozercan/ayna/pull/111) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [fix(ci): serialize release unit tests](https://github.com/sozercan/ayna/pull/110) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [fix(concurrency): make approval cancellation sendable](https://github.com/sozercan/ayna/pull/109) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
+- [fix(chat): omit unchanged tool names from stream deltas](https://github.com/sozercan/vekil/pull/334) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [fix(openai): preserve streamed tool names](https://github.com/sozercan/ayna/pull/108) on [sozercan/ayna](https://github.com/sozercan/ayna) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 2 days ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.22.1](https://github.com/kaito-project/aikit/releases/tag/v0.22.1), 3 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
-- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.4.2](https://github.com/eraser-dev/eraser/releases/tag/v1.4.2), 4 days ago) - 🧹 Cleaning up images from Kubernetes nodes
+- [sozercan/ayna](https://github.com/sozercan/ayna) ([v0.4.0](https://github.com/sozercan/ayna/releases/tag/v0.4.0), 1 day ago) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI
+- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 3 days ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.22.1](https://github.com/kaito-project/aikit/releases/tag/v0.22.1), 4 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.4.2](https://github.com/eraser-dev/eraser/releases/tag/v1.4.2), 5 days ago) - 🧹 Cleaning up images from Kubernetes nodes
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) ([v0.3.3](https://github.com/sozercan/a365cli/releases/tag/v0.3.3), 1 week ago) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.13.1](https://github.com/sozercan/kaset/releases/tag/v0.13.1), 2 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.0](https://github.com/sozercan/vekil/releases/tag/v0.14.0), 3 weeks ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.14.2](https://github.com/project-copacetic/copacetic/releases/tag/v0.14.2), 1 month ago) - 🧵 CLI tool for directly patching container images!
 - [ai-runway/airunway](https://github.com/ai-runway/airunway) ([v0.7.0](https://github.com/ai-runway/airunway/releases/tag/v0.7.0), 1 month ago) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) ([v0.20.0](https://github.com/open-policy-agent/frameworks/releases/tag/v0.20.0), 5 months ago)
-- [sozercan/ayna](https://github.com/sozercan/ayna) ([v0.3.0](https://github.com/sozercan/ayna/releases/tag/v0.3.0), 5 months ago) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI
 
 #### ⭐ Recent Stars
 
-- [gofixpoint/amika](https://github.com/gofixpoint/amika) - Infra for computer agents and software factories (1 day ago)
-- [docker/sbx-kits-contrib](https://github.com/docker/sbx-kits-contrib) - Community repository for sbx kits (1 day ago)
-- [droidrun/mobile-harness](https://github.com/droidrun/mobile-harness) - Skills for controlling Android, iOS and cloud phones (1 day ago)
-- [sympozium-ai/celln](https://github.com/sympozium-ai/celln) - Run agents in isolated cells that borrow verified tools instead of rebuilding Linux environments. (1 day ago)
-- [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work. (1 day ago)
-- [ammaarreshi/RedAlert2-Mac-iOS-iPad](https://github.com/ammaarreshi/RedAlert2-Mac-iOS-iPad) - Red Alert 2 + Yuri's Revenge running natively on iPhone and iPad. EA never released RA2's source, so this builds on Chrono Divide's from-scratch TypeScript engine — proprietary, used with the author's permission, non-commercial only — wrapped in a Swift/WKWebView shell. Bring your own retail copy; no game assets included. (2 days ago)
-- [mudler/vllm.cpp](https://github.com/mudler/vllm.cpp) - a community oriented 1:1, vLLM-alike (Continuous batching, paged KV) engine in C++ with additional features (3 days ago)
-- [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Agentic RL Training at Scale (4 days ago)
-- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents (4 days ago)
-- [context-labs/i-need-h200s](https://github.com/context-labs/i-need-h200s) - i took one of our h200 nodes, star this repo and its yours 😉 (5 days ago)
+- [GoogleCloudPlatform/k8s-aibom](https://github.com/GoogleCloudPlatform/k8s-aibom) - A Kubernetes controller that generates CycloneDX 1.6 ML-BOM documents for AI workloads at runtime — inference services, agent stacks, RAG pipelines, training jobs, evaluation harnesses — with auditor-traceable evidence for every attribute. (1 day ago)
+- [meta-models/meta-oss-cookbook](https://github.com/meta-models/meta-oss-cookbook) - All recipes for oss models from Meta Inc. (1 day ago)
+- [gofixpoint/amika](https://github.com/gofixpoint/amika) - Infra for computer agents and software factories (2 days ago)
+- [docker/sbx-kits-contrib](https://github.com/docker/sbx-kits-contrib) - Community repository for sbx kits (2 days ago)
+- [droidrun/mobile-harness](https://github.com/droidrun/mobile-harness) - Skills for controlling Android, iOS and cloud phones (2 days ago)
+- [sympozium-ai/celln](https://github.com/sympozium-ai/celln) - Run agents in isolated cells that borrow verified tools instead of rebuilding Linux environments. (2 days ago)
+- [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work. (2 days ago)
+- [ammaarreshi/RedAlert2-Mac-iOS-iPad](https://github.com/ammaarreshi/RedAlert2-Mac-iOS-iPad) - Red Alert 2 + Yuri's Revenge running natively on iPhone and iPad. EA never released RA2's source, so this builds on Chrono Divide's from-scratch TypeScript engine — proprietary, used with the author's permission, non-commercial only — wrapped in a Swift/WKWebView shell. Bring your own retail copy; no game assets included. (3 days ago)
+- [mudler/vllm.cpp](https://github.com/mudler/vllm.cpp) - a community oriented 1:1, vLLM-alike (Continuous batching, paged KV) engine in C++ with additional features (4 days ago)
+- [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Agentic RL Training at Scale (5 days ago)
 
 ---
 
