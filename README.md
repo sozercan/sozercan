@@ -26,40 +26,40 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (2 days ago)
-- [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (3 days ago)
-- [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (3 days ago)
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (4 days ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (4 days ago)
-- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (4 days ago)
-- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (4 days ago)
-- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (6 days ago)
+- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (1 day ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (3 days ago)
+- [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (4 days ago)
+- [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (4 days ago)
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (5 days ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (5 days ago)
+- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (5 days ago)
+- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (1 week ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 week ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (1 week ago)
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 week ago)
 - [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 week ago)
 - [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (1 week ago)
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (1 week ago)
-- [orka-agents/orka-oms-kd6-adapter](https://github.com/orka-agents/orka-oms-kd6-adapter) - Out-of-tree KD6 adapter for the Orka Memory Service (OMS) protocol (1 week ago)
+- [orka-agents/orka-oms-kd6-adapter](https://github.com/orka-agents/orka-oms-kd6-adapter) - Out-of-tree KD6 adapter for the Orka Memory Service (OMS) protocol (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ci): live harness-v1 coexistence coverage and brokered authority parity](https://github.com/orka-agents/orka/pull/368) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat: minimize v2 runtime images](https://github.com/sozercan/dalec-homebrew/pull/28) on [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) (2 days ago)
-- [fix(release): make publishing branch-protection safe](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin/pull/30) on [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) (2 days ago)
-- [Orka publication generation 1](https://github.com/sozercan/vekil/pull/340) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
-- [Orka publication generation 1](https://github.com/sozercan/vekil/pull/339) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
-- [fix(auth): accept Copilot-capable env tokens as direct bearers](https://github.com/sozercan/vekil/pull/336) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
-- [fix(acp): harden runtime and workspace boundaries](https://github.com/orka-agents/orka/pull/360) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [feat(ui): add full public API management surfaces](https://github.com/orka-agents/orka/pull/359) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [feat(models): add Muse Glimmer 30B](https://github.com/kaito-project/aikit/pull/848) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (4 days ago)
-- [feat: add model-aware chat reasoning controls](https://github.com/sozercan/ayna/pull/115) on [sozercan/ayna](https://github.com/sozercan/ayna) (4 days ago)
+- [feat(ci): live harness-v1 coexistence coverage and brokered authority parity](https://github.com/orka-agents/orka/pull/368) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [feat: minimize v2 runtime images](https://github.com/sozercan/dalec-homebrew/pull/28) on [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) (3 days ago)
+- [fix(release): make publishing branch-protection safe](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin/pull/30) on [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) (3 days ago)
+- [Orka publication generation 1](https://github.com/sozercan/vekil/pull/340) on [sozercan/vekil](https://github.com/sozercan/vekil) (3 days ago)
+- [Orka publication generation 1](https://github.com/sozercan/vekil/pull/339) on [sozercan/vekil](https://github.com/sozercan/vekil) (3 days ago)
+- [fix(auth): accept Copilot-capable env tokens as direct bearers](https://github.com/sozercan/vekil/pull/336) on [sozercan/vekil](https://github.com/sozercan/vekil) (3 days ago)
+- [fix(acp): harden runtime and workspace boundaries](https://github.com/orka-agents/orka/pull/360) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
+- [feat(ui): add full public API management surfaces](https://github.com/orka-agents/orka/pull/359) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
+- [feat(models): add Muse Glimmer 30B](https://github.com/kaito-project/aikit/pull/848) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (5 days ago)
+- [feat: add model-aware chat reasoning controls](https://github.com/sozercan/ayna/pull/115) on [sozercan/ayna](https://github.com/sozercan/ayna) (5 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.1](https://github.com/sozercan/vekil/releases/tag/v0.14.1), 2 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
-- [sozercan/ayna](https://github.com/sozercan/ayna) ([v0.4.0](https://github.com/sozercan/ayna/releases/tag/v0.4.0), 4 days ago) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI
-- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 6 days ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.1](https://github.com/sozercan/vekil/releases/tag/v0.14.1), 3 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [sozercan/ayna](https://github.com/sozercan/ayna) ([v0.4.0](https://github.com/sozercan/ayna/releases/tag/v0.4.0), 5 days ago) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI
+- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 1 week ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.22.1](https://github.com/kaito-project/aikit/releases/tag/v0.22.1), 1 week ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.4.2](https://github.com/eraser-dev/eraser/releases/tag/v1.4.2), 1 week ago) - 🧹 Cleaning up images from Kubernetes nodes
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) ([v0.3.3](https://github.com/sozercan/a365cli/releases/tag/v0.3.3), 1 week ago) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365
@@ -70,16 +70,16 @@
 
 #### ⭐ Recent Stars
 
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (2 days ago)
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD (2 days ago)
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (2 days ago)
-- [superagent-ai/zzboard](https://github.com/superagent-ai/zzboard) - A shared work network for autonomous agents. (2 days ago)
-- [GoogleCloudPlatform/k8s-aibom](https://github.com/GoogleCloudPlatform/k8s-aibom) - A Kubernetes controller that generates CycloneDX 1.6 ML-BOM documents for AI workloads at runtime — inference services, agent stacks, RAG pipelines, training jobs, evaluation harnesses — with auditor-traceable evidence for every attribute. (4 days ago)
-- [meta-models/meta-oss-cookbook](https://github.com/meta-models/meta-oss-cookbook) - All recipes for oss models from Meta Inc. (4 days ago)
-- [gofixpoint/amika](https://github.com/gofixpoint/amika) - Infra for computer agents and software factories (5 days ago)
-- [docker/sbx-kits-contrib](https://github.com/docker/sbx-kits-contrib) - Community repository for sbx kits (5 days ago)
-- [droidrun/mobile-harness](https://github.com/droidrun/mobile-harness) - Skills for controlling Android, iOS and cloud phones (5 days ago)
-- [sympozium-ai/celln](https://github.com/sympozium-ai/celln) - Run agents in isolated cells that borrow verified tools instead of rebuilding Linux environments. (5 days ago)
+- [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X (1 day ago)
+- [ARahim3/mlx-dspark](https://github.com/ARahim3/mlx-dspark) - Up to 3.3× faster LLM decoding on Apple Silicon, lossless. Native MLX port of DeepSeek's DSpark & z-lab's DFlash speculative decoding — Gemma-4, Qwen3, Muse-Glimmer, Nemotron, Ornith-1.0, ternary Bonsai-27B. (1 day ago)
+- [mirendev/runtime](https://github.com/mirendev/runtime) - Runtime by Miren (1 day ago)
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (3 days ago)
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD (3 days ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (3 days ago)
+- [superagent-ai/zzboard](https://github.com/superagent-ai/zzboard) - A shared work network for autonomous agents. (3 days ago)
+- [GoogleCloudPlatform/k8s-aibom](https://github.com/GoogleCloudPlatform/k8s-aibom) - A Kubernetes controller that generates CycloneDX 1.6 ML-BOM documents for AI workloads at runtime — inference services, agent stacks, RAG pipelines, training jobs, evaluation harnesses — with auditor-traceable evidence for every attribute. (5 days ago)
+- [meta-models/meta-oss-cookbook](https://github.com/meta-models/meta-oss-cookbook) - All recipes for oss models from Meta Inc. (5 days ago)
+- [gofixpoint/amika](https://github.com/gofixpoint/amika) - Infra for computer agents and software factories (6 days ago)
 
 ---
 
