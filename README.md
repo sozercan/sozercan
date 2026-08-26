@@ -26,15 +26,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (3 days ago)
-- [sozercan/d365-expense-cli](https://github.com/sozercan/d365-expense-cli) - 🤑 Standalone CLI for Dynamics 365 finance expense reports (6 days ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 day ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (2 days ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (4 days ago)
+- [sozercan/d365-expense-cli](https://github.com/sozercan/d365-expense-cli) - 🤑 Standalone CLI for Dynamics 365 finance expense reports (1 week ago)
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (1 week ago)
 - [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (1 week ago)
-- [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (1 week ago)
-- [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (1 week ago)
+- [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (2 weeks ago)
+- [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (2 weeks ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 weeks ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
 - [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (2 weeks ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 weeks ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (2 weeks ago)
@@ -44,16 +44,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [test(acp): live workspace-backed lifecycle and recovery conformance (#411)](https://github.com/orka-agents/orka/pull/432) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [test(acp): live class-backed suspend/cold-resume conformance (#425)](https://github.com/orka-agents/orka/pull/431) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [feat(acp): gate credential-safe Substrate full-memory restore](https://github.com/orka-agents/orka/pull/430) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [feat(acp): enforce retained workspace quotas, expiry, and garbage collection](https://github.com/orka-agents/orka/pull/429) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [feat(acp): add Agent Sandbox PVC-backed cold suspend and resume](https://github.com/orka-agents/orka/pull/428) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [feat(acp): add Substrate snapshot policy and data-only resume](https://github.com/orka-agents/orka/pull/427) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [feat(acp): bind RuntimeSessions to workspace lifecycle policy](https://github.com/orka-agents/orka/pull/426) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
-- [perf(proxy): reduce request-path overhead](https://github.com/sozercan/vekil/pull/353) on [sozercan/vekil](https://github.com/sozercan/vekil) (3 days ago)
-- [perf(proxy): reduce request-path overhead](https://github.com/sozercan/vekil/pull/352) on [sozercan/vekil](https://github.com/sozercan/vekil) (3 days ago)
-- [feat(config): load provider config from URLs](https://github.com/sozercan/vekil/pull/351) on [sozercan/vekil](https://github.com/sozercan/vekil) (4 days ago)
+- [test(acp): live workspace-backed lifecycle and recovery conformance (#411)](https://github.com/orka-agents/orka/pull/432) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
+- [test(acp): live class-backed suspend/cold-resume conformance (#425)](https://github.com/orka-agents/orka/pull/431) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
+- [feat(acp): gate credential-safe Substrate full-memory restore](https://github.com/orka-agents/orka/pull/430) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
+- [feat(acp): enforce retained workspace quotas, expiry, and garbage collection](https://github.com/orka-agents/orka/pull/429) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
+- [feat(acp): add Agent Sandbox PVC-backed cold suspend and resume](https://github.com/orka-agents/orka/pull/428) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
+- [feat(acp): add Substrate snapshot policy and data-only resume](https://github.com/orka-agents/orka/pull/427) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
+- [feat(acp): bind RuntimeSessions to workspace lifecycle policy](https://github.com/orka-agents/orka/pull/426) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
+- [perf(proxy): reduce request-path overhead](https://github.com/sozercan/vekil/pull/353) on [sozercan/vekil](https://github.com/sozercan/vekil) (4 days ago)
+- [perf(proxy): reduce request-path overhead](https://github.com/sozercan/vekil/pull/352) on [sozercan/vekil](https://github.com/sozercan/vekil) (4 days ago)
+- [feat(config): load provider config from URLs](https://github.com/sozercan/vekil/pull/351) on [sozercan/vekil](https://github.com/sozercan/vekil) (5 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
@@ -63,16 +63,16 @@
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.22.1](https://github.com/kaito-project/aikit/releases/tag/v0.22.1), 2 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) ([v1.4.2](https://github.com/eraser-dev/eraser/releases/tag/v1.4.2), 2 weeks ago) - 🧹 Cleaning up images from Kubernetes nodes
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) ([v0.3.3](https://github.com/sozercan/a365cli/releases/tag/v0.3.3), 3 weeks ago) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.13.1](https://github.com/sozercan/kaset/releases/tag/v0.13.1), 4 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.13.1](https://github.com/sozercan/kaset/releases/tag/v0.13.1), 1 month ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.14.2](https://github.com/project-copacetic/copacetic/releases/tag/v0.14.2), 1 month ago) - 🧵 CLI tool for directly patching container images!
 - [ai-runway/airunway](https://github.com/ai-runway/airunway) ([v0.7.0](https://github.com/ai-runway/airunway/releases/tag/v0.7.0), 2 months ago) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) ([v0.20.0](https://github.com/open-policy-agent/frameworks/releases/tag/v0.20.0), 5 months ago)
 
 #### ⭐ Recent Stars
 
-- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (2 days ago)
-- [linsun/litellm-agw-perf](https://github.com/linsun/litellm-agw-perf) - Simple performance tests to test gateway cpu/mem/latency/throughput using fortio and mock LLM (4 days ago)
-- [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) (4 days ago)
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (3 days ago)
+- [linsun/litellm-agw-perf](https://github.com/linsun/litellm-agw-perf) - Simple performance tests to test gateway cpu/mem/latency/throughput using fortio and mock LLM (5 days ago)
+- [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) (5 days ago)
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent (1 week ago)
 - [block/berd](https://github.com/block/berd) - a desktop app for getting work done with any model (1 week ago)
 - [helayoty/fiberd](https://github.com/helayoty/fiberd) (1 week ago)
