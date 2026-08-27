@@ -26,9 +26,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 day ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (2 days ago)
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (4 days ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 days ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (3 days ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (5 days ago)
 - [sozercan/d365-expense-cli](https://github.com/sozercan/d365-expense-cli) - 🤑 Standalone CLI for Dynamics 365 finance expense reports (1 week ago)
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (1 week ago)
 - [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (1 week ago)
@@ -38,26 +38,26 @@
 - [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (2 weeks ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 weeks ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (2 weeks ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (2 weeks ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (3 weeks ago)
 - [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (3 weeks ago)
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [test(acp): live workspace-backed lifecycle and recovery conformance (#411)](https://github.com/orka-agents/orka/pull/432) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [test(acp): live class-backed suspend/cold-resume conformance (#425)](https://github.com/orka-agents/orka/pull/431) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [feat(acp): gate credential-safe Substrate full-memory restore](https://github.com/orka-agents/orka/pull/430) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [feat(acp): enforce retained workspace quotas, expiry, and garbage collection](https://github.com/orka-agents/orka/pull/429) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [feat(acp): add Agent Sandbox PVC-backed cold suspend and resume](https://github.com/orka-agents/orka/pull/428) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [feat(acp): add Substrate snapshot policy and data-only resume](https://github.com/orka-agents/orka/pull/427) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [feat(acp): bind RuntimeSessions to workspace lifecycle policy](https://github.com/orka-agents/orka/pull/426) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [perf(proxy): reduce request-path overhead](https://github.com/sozercan/vekil/pull/353) on [sozercan/vekil](https://github.com/sozercan/vekil) (4 days ago)
-- [perf(proxy): reduce request-path overhead](https://github.com/sozercan/vekil/pull/352) on [sozercan/vekil](https://github.com/sozercan/vekil) (4 days ago)
-- [feat(config): load provider config from URLs](https://github.com/sozercan/vekil/pull/351) on [sozercan/vekil](https://github.com/sozercan/vekil) (5 days ago)
+- [test(acp): live workspace-backed lifecycle and recovery conformance (#411)](https://github.com/orka-agents/orka/pull/432) on [orka-agents/orka](https://github.com/orka-agents/orka) (5 days ago)
+- [test(acp): live class-backed suspend/cold-resume conformance (#425)](https://github.com/orka-agents/orka/pull/431) on [orka-agents/orka](https://github.com/orka-agents/orka) (5 days ago)
+- [feat(acp): gate credential-safe Substrate full-memory restore](https://github.com/orka-agents/orka/pull/430) on [orka-agents/orka](https://github.com/orka-agents/orka) (5 days ago)
+- [feat(acp): enforce retained workspace quotas, expiry, and garbage collection](https://github.com/orka-agents/orka/pull/429) on [orka-agents/orka](https://github.com/orka-agents/orka) (5 days ago)
+- [feat(acp): add Agent Sandbox PVC-backed cold suspend and resume](https://github.com/orka-agents/orka/pull/428) on [orka-agents/orka](https://github.com/orka-agents/orka) (5 days ago)
+- [feat(acp): add Substrate snapshot policy and data-only resume](https://github.com/orka-agents/orka/pull/427) on [orka-agents/orka](https://github.com/orka-agents/orka) (5 days ago)
+- [feat(acp): bind RuntimeSessions to workspace lifecycle policy](https://github.com/orka-agents/orka/pull/426) on [orka-agents/orka](https://github.com/orka-agents/orka) (5 days ago)
+- [perf(proxy): reduce request-path overhead](https://github.com/sozercan/vekil/pull/353) on [sozercan/vekil](https://github.com/sozercan/vekil) (5 days ago)
+- [perf(proxy): reduce request-path overhead](https://github.com/sozercan/vekil/pull/352) on [sozercan/vekil](https://github.com/sozercan/vekil) (5 days ago)
+- [feat(config): load provider config from URLs](https://github.com/sozercan/vekil/pull/351) on [sozercan/vekil](https://github.com/sozercan/vekil) (6 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.1](https://github.com/sozercan/vekil/releases/tag/v0.14.1), 1 week ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.1](https://github.com/sozercan/vekil/releases/tag/v0.14.1), 2 weeks ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
 - [sozercan/ayna](https://github.com/sozercan/ayna) ([v0.4.0](https://github.com/sozercan/ayna/releases/tag/v0.4.0), 2 weeks ago) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 2 weeks ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.22.1](https://github.com/kaito-project/aikit/releases/tag/v0.22.1), 2 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
@@ -70,9 +70,9 @@
 
 #### ⭐ Recent Stars
 
-- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (3 days ago)
-- [linsun/litellm-agw-perf](https://github.com/linsun/litellm-agw-perf) - Simple performance tests to test gateway cpu/mem/latency/throughput using fortio and mock LLM (5 days ago)
-- [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) (5 days ago)
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (4 days ago)
+- [linsun/litellm-agw-perf](https://github.com/linsun/litellm-agw-perf) - Simple performance tests to test gateway cpu/mem/latency/throughput using fortio and mock LLM (6 days ago)
+- [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) (6 days ago)
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent (1 week ago)
 - [block/berd](https://github.com/block/berd) - a desktop app for getting work done with any model (1 week ago)
 - [helayoty/fiberd](https://github.com/helayoty/fiberd) (1 week ago)
