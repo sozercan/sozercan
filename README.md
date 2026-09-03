@@ -26,11 +26,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (2 days ago)
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (4 days ago)
-- [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (4 days ago)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (5 days ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (2 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (3 days ago)
+- [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (5 days ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (6 days ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
 - [sozercan/d365-expense-cli](https://github.com/sozercan/d365-expense-cli) - 🤑 Standalone CLI for Dynamics 365 finance expense reports (2 weeks ago)
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (2 weeks ago)
@@ -40,26 +40,26 @@
 - [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects (3 weeks ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (3 weeks ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (3 weeks ago)
-- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (4 weeks ago)
+- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(security): Todo mutation and import routes omit authentication middleware](https://github.com/sozercan/nodejs-goof/pull/31) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (1 day ago)
-- [fix: address issue #364](https://github.com/sozercan/vekil/pull/365) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [fix(monitors): enforce repository validation tasks](https://github.com/orka-agents/orka/pull/459) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(security): MongoDB credentials and application bindings are written to logs](https://github.com/sozercan/nodejs-goof/pull/30) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (1 day ago)
-- [fix: address issue #362](https://github.com/sozercan/vekil/pull/363) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [docs: add a README note for monitor validation](https://github.com/sozercan/vekil/pull/361) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [fix(controller): reconcile branch updates and scan findings](https://github.com/orka-agents/orka/pull/456) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [fix(acp): recover RuntimePools across image rotations](https://github.com/orka-agents/orka/pull/455) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [fix(security): recover from stale scan retry tasks](https://github.com/orka-agents/orka/pull/454) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [Orka publication generation 1](https://github.com/sozercan/vekil/pull/360) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
+- [chore: remove dead code and deduplicate store, controller, and UI helpers](https://github.com/orka-agents/orka/pull/474) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [perf: cut the workspace baseline secret scan from ~30s CPU to ~1s per session](https://github.com/orka-agents/orka/pull/469) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(acp): adopt or regenerate RuntimeSessions instead of failing rebuilt creates on digest_conflict](https://github.com/orka-agents/orka/pull/468) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(runtimepool): stop upgrade drains and rollouts from parking on stuck pools](https://github.com/orka-agents/orka/pull/467) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(acp): withhold Copilot CLI tool diagnostics from the agent message stream](https://github.com/orka-agents/orka/pull/465) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix: address issue #366](https://github.com/sozercan/vekil/pull/367) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [fix(security): Todo mutation and import routes omit authentication middleware](https://github.com/sozercan/nodejs-goof/pull/31) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (2 days ago)
+- [fix: address issue #364](https://github.com/sozercan/vekil/pull/365) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
+- [fix(monitors): enforce repository validation tasks](https://github.com/orka-agents/orka/pull/459) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [fix(security): MongoDB credentials and application bindings are written to logs](https://github.com/sozercan/nodejs-goof/pull/30) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.2](https://github.com/sozercan/vekil/releases/tag/v0.14.2), 5 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.0](https://github.com/sozercan/kaset/releases/tag/v0.14.0), 5 days ago) - 📼 The missing YouTube and YouTube Music macOS app
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.1), 6 days ago) - 🐊 Policy Controller for Kubernetes
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.2](https://github.com/sozercan/vekil/releases/tag/v0.14.2), 6 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.0](https://github.com/sozercan/kaset/releases/tag/v0.14.0), 6 days ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.1), 1 week ago) - 🐊 Policy Controller for Kubernetes
 - [sozercan/ayna](https://github.com/sozercan/ayna) ([v0.4.0](https://github.com/sozercan/ayna/releases/tag/v0.4.0), 3 weeks ago) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 3 weeks ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.22.1](https://github.com/kaito-project/aikit/releases/tag/v0.22.1), 3 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
@@ -70,16 +70,16 @@
 
 #### ⭐ Recent Stars
 
-- [arcee-ai/nac](https://github.com/arcee-ai/nac) - Give AI agents ambitious work without losing the plot. nac is an open-source harness for long-running tasks, using a central orchestrator, threads, and structured episodes to stay aligned with your intent. (2 days ago)
-- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. (4 days ago)
-- [LXRylex/Xzen-Reddit-Account-Switcher](https://github.com/LXRylex/Xzen-Reddit-Account-Switcher) - This is a solo made project to provide account switching feature on reddit (5 days ago)
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Memory for coding agents built from the session history already on disk: Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 17 more. Search months of past sessions, including everything from before you installed it, and recall them in any agent. No LLM, no embeddings, one local Go binary. (1 day ago)
+- [arcee-ai/nac](https://github.com/arcee-ai/nac) - Give AI agents ambitious work without losing the plot. nac is an open-source harness for long-running tasks, using a central orchestrator, threads, and structured episodes to stay aligned with your intent. (3 days ago)
+- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. (5 days ago)
+- [LXRylex/Xzen-Reddit-Account-Switcher](https://github.com/LXRylex/Xzen-Reddit-Account-Switcher) - This is a solo made project to provide account switching feature on reddit (6 days ago)
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (1 week ago)
 - [linsun/litellm-agw-perf](https://github.com/linsun/litellm-agw-perf) - Simple performance tests to test gateway cpu/mem/latency/throughput using fortio and mock LLM (1 week ago)
 - [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) (1 week ago)
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent (2 weeks ago)
 - [block/berd](https://github.com/block/berd) - a desktop app for getting work done with any model (2 weeks ago)
 - [helayoty/fiberd](https://github.com/helayoty/fiberd) (2 weeks ago)
-- [buildkite/buildkite-gha](https://github.com/buildkite/buildkite-gha) - Run GitHub Actions workflows as native Buildkite builds (2 weeks ago)
 
 ---
 
