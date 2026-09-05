@@ -75,3 +75,15 @@ test("renderReadme renders every generated section", () => {
   assert.match(output, /v1\.0\.0/);
   assert.match(output, /username=sozercan/);
 });
+
+test("renderReadme leads with the Trendshift badge and centers the stats card", () => {
+  const output = renderReadme(
+    { contributions: [], projects: [], pullRequests: [], releases: [], stars: [], user: "sozercan" },
+    now,
+  );
+
+  assert.match(output, /^<p align="center">\n {2}<a href="https:\/\/trendshift\.io\/developers\/1847\?/);
+  assert.match(output, /trendshift\.io\/api\/badge\/developers\/1847" alt="sozercan \| Trendshift"/);
+  assert.match(output, /<img src="https:\/\/github-stats-extended\.vercel\.app\/api\?username=sozercan[^"]*" alt="sozercan's GitHub stats" \/>/);
+  assert.doesNotMatch(output, /&(?!amp;|quot;|lt;|gt;|#)/);
+});
