@@ -26,17 +26,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/gozillo](https://github.com/sozercan/gozillo) - 🏠 Standalone agent-friendly CLI for Zillow (today)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (today)
 - [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
-- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (1 day ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 day ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (2 days ago)
-- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (2 days ago)
+- [sozercan/gozillo](https://github.com/sozercan/gozillo) - 🏠 Standalone agent-friendly CLI for Zillow (1 day ago)
+- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (2 days ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (3 days ago)
+- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (3 days ago)
 - [open-policy-agent/gatekeeper-headlamp-plugin](https://github.com/open-policy-agent/gatekeeper-headlamp-plugin) - 💡 Headlamp plugin for Gatekeeper (1 week ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 week ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
 - [sozercan/d365-expense-cli](https://github.com/sozercan/d365-expense-cli) - 🤑 Standalone CLI for Dynamics 365 finance expense reports (2 weeks ago)
-- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (2 weeks ago)
+- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (3 weeks ago)
 - [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (3 weeks ago)
 - [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (3 weeks ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (3 weeks ago)
@@ -44,39 +44,39 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add project disclaimer to README](https://github.com/sozercan/gozillo/pull/4) on [sozercan/gozillo](https://github.com/sozercan/gozillo) (today)
-- [fix(playback): detect and label YouTube and YouTube Music ads](https://github.com/sozercan/kaset/pull/470) on [sozercan/kaset](https://github.com/sozercan/kaset) (today)
-- [chore(autoreview): default to gpt-6-astra max](https://github.com/sozercan/skills/pull/9) on [sozercan/skills](https://github.com/sozercan/skills) (1 day ago)
-- [fix(autoreview): disable WebSockets for external base URLs](https://github.com/sozercan/skills/pull/8) on [sozercan/skills](https://github.com/sozercan/skills) (1 day ago)
-- [fix(ui): align sidebar item indentation](https://github.com/sozercan/kaset/pull/469) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
-- [chore(autoreview): sync upstream and preserve defaults](https://github.com/sozercan/skills/pull/7) on [sozercan/skills](https://github.com/sozercan/skills) (2 days ago)
-- [feat(acp): dispatch external harness v2 runtimes](https://github.com/orka-agents/orka/pull/487) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [feat(runtime): add Orka harness v2 ACP mode](https://github.com/sozercan/agentkit/pull/22) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (2 days ago)
-- [fix: keep YouTube audio playing after closing window](https://github.com/sozercan/kaset/pull/468) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 days ago)
-- [feat(launch): support foreground session resume](https://github.com/sozercan/vekil/pull/371) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
+- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/2) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (1 day ago)
+- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/1) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (1 day ago)
+- [feat(api-explorer): add read-only API discovery](https://github.com/sozercan/kaset/pull/472) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
+- [fix(security): bind scan runs to repository identity](https://github.com/orka-agents/orka/pull/501) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(player): expand mini player drag area](https://github.com/sozercan/kaset/pull/471) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
+- [docs: add project disclaimer to README](https://github.com/sozercan/gozillo/pull/4) on [sozercan/gozillo](https://github.com/sozercan/gozillo) (1 day ago)
+- [fix(playback): detect and label YouTube and YouTube Music ads](https://github.com/sozercan/kaset/pull/470) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
+- [chore(autoreview): default to gpt-6-astra max](https://github.com/sozercan/skills/pull/9) on [sozercan/skills](https://github.com/sozercan/skills) (2 days ago)
+- [fix(autoreview): disable WebSockets for external base URLs](https://github.com/sozercan/skills/pull/8) on [sozercan/skills](https://github.com/sozercan/skills) (2 days ago)
+- [fix(ui): align sidebar item indentation](https://github.com/sozercan/kaset/pull/469) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.15.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.15.0), 1 day ago) - 🧵 CLI tool for directly patching container images!
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.15.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.15.0), 2 days ago) - 🧵 CLI tool for directly patching container images!
 - [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.2](https://github.com/sozercan/vekil/releases/tag/v0.14.2), 1 week ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.0](https://github.com/sozercan/kaset/releases/tag/v0.14.0), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.1), 1 week ago) - 🐊 Policy Controller for Kubernetes
 - [sozercan/ayna](https://github.com/sozercan/ayna) ([v0.4.0](https://github.com/sozercan/ayna/releases/tag/v0.4.0), 3 weeks ago) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI
-- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 3 weeks ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
+- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 4 weeks ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.22.1](https://github.com/kaito-project/aikit/releases/tag/v0.22.1), 4 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [sozercan/gozillo](https://github.com/sozercan/gozillo) ([v0.1.0](https://github.com/sozercan/gozillo/releases/tag/v0.1.0), 1 month ago) - 🏠 Standalone agent-friendly CLI for Zillow
 - [ai-runway/airunway](https://github.com/ai-runway/airunway) ([v0.7.0](https://github.com/ai-runway/airunway/releases/tag/v0.7.0), 2 months ago) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers
 
 #### ⭐ Recent Stars
 
-- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper. (today)
-- [rome-os/rome](https://github.com/rome-os/rome) - Rome is the agentic OS. (1 day ago)
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 day ago)
-- [backbay-labs/clawdstrike](https://github.com/backbay-labs/clawdstrike) - Agentic AI EDR for developer workstations and autonomous agent swarms. Build Swarm Detection & Response platforms with Clawdstrike. (2 days ago)
-- [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together (2 days ago)
-- [DannyMac180/fable-advisor](https://github.com/DannyMac180/fable-advisor) - Claude Fable as an orchestrator for Opus, GPT and Grok (2 days ago)
-- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Memory for coding agents built from the session history already on disk: Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 17 more. Search months of past sessions, including everything from before you installed it, and recall them in any agent. No LLM, no embeddings, one local Go binary. (3 days ago)
-- [arcee-ai/nac](https://github.com/arcee-ai/nac) - Give AI agents ambitious work without losing the plot. nac is an open-source harness for long-running tasks, using a central orchestrator, threads, and structured episodes to stay aligned with your intent. (5 days ago)
+- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper. (1 day ago)
+- [rome-os/rome](https://github.com/rome-os/rome) - Rome is the agentic OS. (2 days ago)
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (2 days ago)
+- [backbay-labs/clawdstrike](https://github.com/backbay-labs/clawdstrike) - Agentic AI EDR for developer workstations and autonomous agent swarms. Build Swarm Detection & Response platforms with Clawdstrike. (3 days ago)
+- [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together (3 days ago)
+- [DannyMac180/fable-advisor](https://github.com/DannyMac180/fable-advisor) - Claude Fable as an orchestrator for Opus, GPT and Grok (3 days ago)
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Memory for coding agents built from the session history already on disk: Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 17 more. Search months of past sessions, including everything from before you installed it, and recall them in any agent. No LLM, no embeddings, one local Go binary. (4 days ago)
+- [arcee-ai/nac](https://github.com/arcee-ai/nac) - Give AI agents ambitious work without losing the plot. nac is an open-source harness for long-running tasks, using a central orchestrator, threads, and structured episodes to stay aligned with your intent. (6 days ago)
 - [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. (1 week ago)
 - [LXRylex/Xzen-Reddit-Account-Switcher](https://github.com/LXRylex/Xzen-Reddit-Account-Switcher) - This is a solo made project to provide account switching feature on reddit (1 week ago)
 
