@@ -78,7 +78,7 @@
 - [DannyMac180/fable-advisor](https://github.com/DannyMac180/fable-advisor) - Claude Fable as an orchestrator for Opus, GPT and Grok (4 days ago)
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 18 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (5 days ago)
 - [arcee-ai/nac](https://github.com/arcee-ai/nac) - Give AI agents ambitious work without losing the plot. nac is an open-source harness for long-running tasks, using a central orchestrator, threads, and structured episodes to stay aligned with your intent. (1 week ago)
-- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. (1 week ago)
+- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota. (1 week ago)
 - [LXRylex/Xzen-Reddit-Account-Switcher](https://github.com/LXRylex/Xzen-Reddit-Account-Switcher) - This is a solo made project to provide account switching feature on reddit (1 week ago)
 
 ---
