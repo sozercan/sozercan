@@ -44,16 +44,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Orka publication generation 1](https://github.com/orka-agents/orka/pull/517) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [feat: improve throttling and API compatibility](https://github.com/sozercan/vekil/pull/372) on [sozercan/vekil](https://github.com/sozercan/vekil) (today)
+- [feat: support Foundry hosted Harness v2 agents](https://github.com/orka-agents/agent-runtime-foundry/pull/1) on [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) (today)
+- [feat(substrate): support native upstream workspaces and checkpoints](https://github.com/orka-agents/orka/pull/515) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
 - [feat: add protected same-policy runtime adoption](https://github.com/kubernetes-sigs/agent-sandbox/pull/1575) on [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) (today)
 - [test(acp): require publication evidence for release qualification](https://github.com/orka-agents/orka/pull/514) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
 - [fix(api): advertise only executable compatibility tools](https://github.com/orka-agents/orka/pull/513) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
 - [fix(security): redact stored threat-model content](https://github.com/orka-agents/orka/pull/511) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
 - [chore(skills): update autoreview bundle](https://github.com/orka-agents/orka/pull/510) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
 - [fix(security): make scan task ingestion durable](https://github.com/orka-agents/orka/pull/509) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(api): enforce caller authorization across external routes](https://github.com/orka-agents/orka/pull/508) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(airplay): preserve routes and anchor device pickers](https://github.com/sozercan/kaset/pull/474) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
-- [fix(ui): correct sidebar highlight spacing](https://github.com/sozercan/kaset/pull/473) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
-- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/2) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
