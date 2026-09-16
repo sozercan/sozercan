@@ -27,15 +27,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
-- [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (1 day ago)
-- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (1 day ago)
-- [orka-agents/.github](https://github.com/orka-agents/.github) (4 days ago)
-- [orka-agents/orka-integration-kontxt](https://github.com/orka-agents/orka-integration-kontxt) - Versioned Kontxt integration for Orka transaction tokens (4 days ago)
-- [orka-agents/orka-integration-agentgateway](https://github.com/orka-agents/orka-integration-agentgateway) - Versioned agentgateway integration for Orka outbound access policies (4 days ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (5 days ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (5 days ago)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (5 days ago)
-- [orka-agents/orka-gateway-telegram](https://github.com/orka-agents/orka-gateway-telegram) - Out-of-tree Telegram adapter for the Orka generic gateway protocol (5 days ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
+- [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (2 days ago)
+- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (2 days ago)
+- [orka-agents/.github](https://github.com/orka-agents/.github) (5 days ago)
+- [orka-agents/orka-integration-kontxt](https://github.com/orka-agents/orka-integration-kontxt) - Versioned Kontxt integration for Orka transaction tokens (5 days ago)
+- [orka-agents/orka-integration-agentgateway](https://github.com/orka-agents/orka-integration-agentgateway) - Versioned agentgateway integration for Orka outbound access policies (5 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (6 days ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (6 days ago)
+- [orka-agents/orka-gateway-telegram](https://github.com/orka-agents/orka-gateway-telegram) - Out-of-tree Telegram adapter for the Orka generic gateway protocol (6 days ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
 - [sozercan/gozillo](https://github.com/sozercan/gozillo) - 🏠 Standalone agent-friendly CLI for Zillow (1 week ago)
 - [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (1 week ago)
@@ -44,21 +44,21 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: simplify v0.2.0 installation](https://github.com/orka-agents/orka/pull/591) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [ci: update Debian fixtures and fix vulnerability checks](https://github.com/project-copacetic/copacetic/pull/1716) on [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) (1 day ago)
-- [ci: use Debian 12 fixtures and pin govulncheck](https://github.com/sozercan/copacetic/pull/8) on [sozercan/copacetic](https://github.com/sozercan/copacetic) (1 day ago)
-- [feat(acp): restore saved OpenCode conversations](https://github.com/orka-agents/orka/pull/590) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat: support Orka tool approvals in hosted agent calls](https://github.com/orka-agents/agent-runtime-foundry/pull/5) on [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) (1 day ago)
-- [fix(runtime): preserve Orka tool approval outcomes](https://github.com/sozercan/agentkit/pull/27) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (1 day ago)
-- [feat(approvals): add human approval for v2 tool calls](https://github.com/orka-agents/orka/pull/589) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix: remove repository PATs from release qualification](https://github.com/orka-agents/orka/pull/588) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(ci): support translated Claude endpoints and use Haiku](https://github.com/orka-agents/orka/pull/585) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(pkgmgr): configure debconf for distroless updates](https://github.com/project-copacetic/copacetic/pull/1714) on [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) (1 day ago)
+- [fix(policy): reclassify reasoning after completed chat turns](https://github.com/sozercan/vekil/pull/378) on [sozercan/vekil](https://github.com/sozercan/vekil) (today)
+- [feat(agents): add versioned soul prompts across AI and built-in runtimes](https://github.com/orka-agents/orka/pull/598) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [chore: align Orka naming with orka.ai](https://github.com/orka-agents/orka/pull/597) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/29) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (1 day ago)
+- [fix(acp): enable grounded OpenCode research and reliable final results](https://github.com/orka-agents/orka/pull/596) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(proxy): recognize untyped Responses user messages](https://github.com/sozercan/vekil/pull/377) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [feat(acp): support explicit native tool policies](https://github.com/orka-agents/orka/pull/593) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [feat(helm): simplify release installation](https://github.com/orka-agents/orka/pull/591) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [ci: update Debian fixtures and fix vulnerability checks](https://github.com/project-copacetic/copacetic/pull/1716) on [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) (2 days ago)
+- [ci: use Debian 12 fixtures and pin govulncheck](https://github.com/sozercan/copacetic/pull/8) on [sozercan/copacetic](https://github.com/sozercan/copacetic) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.3](https://github.com/sozercan/vekil/releases/tag/v0.14.3), 4 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
-- [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) ([v1.0.2](https://github.com/kubernetes-sigs/agent-sandbox/releases/tag/v1.0.2), 4 days ago) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.3](https://github.com/sozercan/vekil/releases/tag/v0.14.3), 5 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) ([v1.0.2](https://github.com/kubernetes-sigs/agent-sandbox/releases/tag/v1.0.2), 5 days ago) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.15.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.15.0), 1 week ago) - 🧵 CLI tool for directly patching container images!
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.0](https://github.com/sozercan/kaset/releases/tag/v0.14.0), 2 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.1), 2 weeks ago) - 🐊 Policy Controller for Kubernetes
@@ -68,16 +68,16 @@
 
 #### ⭐ Recent Stars
 
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (1 day ago)
-- [steven1518/vex-bench](https://github.com/steven1518/vex-bench) - \[EMNLP 2026\] VEX-Bench: Benchmarking LLM Agents for Assessing Exploitability of Software Supply Chain Vulnerabilities (1 day ago)
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (2 days ago)
-- [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) - 📼 A declarative AI agent environment manager, written in Rust (3 days ago)
-- [orka-agents/orka-gateway-teams](https://github.com/orka-agents/orka-gateway-teams) - Out-of-tree Microsoft Teams adapter for the Orka generic gateway protocol (4 days ago)
-- [Sudharsanselvaraj/Token-Print](https://github.com/Sudharsanselvaraj/Token-Print) - Interactive 3D visualization platform for exploring transformer architectures, tensors, and real-time LLM inference. (4 days ago)
-- [tokenetes/tokenetes](https://github.com/tokenetes/tokenetes) - Transaction Tokens Service (4 days ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (6 days ago)
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness. (1 week ago)
-- [NVIDIA/Personal-AI-Router](https://github.com/NVIDIA/Personal-AI-Router) - Router that virtually distributes inference across connected devices in the home. (1 week ago)
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) (1 day ago)
+- [stanuwu/Sunrise](https://github.com/stanuwu/Sunrise) - Destiny 2 Offline Exploration Mod (1 day ago)
+- [yay/awdl-toggle](https://github.com/yay/awdl-toggle) - A native macOS Control Center toggle that persistently enables or suppresses AWDL. (1 day ago)
+- [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders. (1 day ago)
+- [agent-substrate/env](https://github.com/agent-substrate/env) - An agentic environment abstraction for Agent Substrate (1 day ago)
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (2 days ago)
+- [steven1518/vex-bench](https://github.com/steven1518/vex-bench) - \[EMNLP 2026\] VEX-Bench: Benchmarking LLM Agents for Assessing Exploitability of Software Supply Chain Vulnerabilities (2 days ago)
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (3 days ago)
+- [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) - 📼 A declarative AI agent environment manager, written in Rust (4 days ago)
+- [orka-agents/orka-gateway-teams](https://github.com/orka-agents/orka-gateway-teams) - Out-of-tree Microsoft Teams adapter for the Orka generic gateway protocol (5 days ago)
 
 ---
 
