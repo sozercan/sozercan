@@ -26,13 +26,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (today)
 - [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 day ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 day ago)
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (2 days ago)
-- [sozercan/orka-demo-inventory](https://github.com/sozercan/orka-demo-inventory) - Small Go inventory service used as the target repository for Orka demos (3 days ago)
-- [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (5 days ago)
-- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (5 days ago)
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 days ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 days ago)
+- [sozercan/orka-demo-inventory](https://github.com/sozercan/orka-demo-inventory) - Small Go inventory service used as the target repository for Orka demos (4 days ago)
+- [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (6 days ago)
+- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (6 days ago)
 - [orka-agents/.github](https://github.com/orka-agents/.github) (1 week ago)
 - [orka-agents/orka-integration-kontxt](https://github.com/orka-agents/orka-integration-kontxt) - Versioned Kontxt integration for Orka transaction tokens (1 week ago)
 - [orka-agents/orka-integration-agentgateway](https://github.com/orka-agents/orka-integration-agentgateway) - Versioned agentgateway integration for Orka outbound access policies (1 week ago)
@@ -44,21 +44,21 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: reduce live validation costs while keeping PR coverage](https://github.com/sozercan/vekil/pull/388) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [fix(proxy): recover Azure throttles without migrating bound state](https://github.com/sozercan/vekil/pull/387) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [chore: update LocalAI to v4.10.0](https://github.com/kaito-project/aikit/pull/873) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (1 day ago)
-- [feat(usage): report team token usage and PR outcomes](https://github.com/orka-agents/orka/pull/648) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/43) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (2 days ago)
-- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/42) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (2 days ago)
-- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/41) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (2 days ago)
-- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/40) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (2 days ago)
-- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/39) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (2 days ago)
-- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/38) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (2 days ago)
+- [feat(proxy): add TypeSafe-compatible policy classifiers](https://github.com/sozercan/vekil/pull/389) on [sozercan/vekil](https://github.com/sozercan/vekil) (today)
+- [build(deps): bump Vekil to v0.14.6](https://github.com/orka-agents/orka/pull/651) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [ci: reduce live validation costs while keeping PR coverage](https://github.com/sozercan/vekil/pull/388) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
+- [fix(proxy): recover Azure throttles without migrating bound state](https://github.com/sozercan/vekil/pull/387) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
+- [chore: update LocalAI to v4.10.0](https://github.com/kaito-project/aikit/pull/873) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (2 days ago)
+- [feat(usage): report team token usage and PR outcomes](https://github.com/orka-agents/orka/pull/648) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/43) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (3 days ago)
+- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/42) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (3 days ago)
+- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/41) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (3 days ago)
+- [Orka publication generation 1](https://github.com/sozercan/orka-acp-release-gate/pull/40) on [sozercan/orka-acp-release-gate](https://github.com/sozercan/orka-acp-release-gate) (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.6](https://github.com/sozercan/vekil/releases/tag/v0.14.6), 1 day ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.0](https://github.com/kaito-project/aikit/releases/tag/v0.23.0), 1 day ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.6](https://github.com/sozercan/vekil/releases/tag/v0.14.6), 2 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.0](https://github.com/kaito-project/aikit/releases/tag/v0.23.0), 2 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.15.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.15.0), 2 weeks ago) - 🧵 CLI tool for directly patching container images!
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.0](https://github.com/sozercan/kaset/releases/tag/v0.14.0), 3 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.1), 3 weeks ago) - 🐊 Policy Controller for Kubernetes
@@ -67,16 +67,16 @@
 
 #### ⭐ Recent Stars
 
-- [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp) (1 day ago)
-- [jessfraz/switchboard](https://github.com/jessfraz/switchboard) - Local Rust CLI trust layer for humans, scripts, and LLMs. (1 day ago)
-- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) (4 days ago)
-- [stanuwu/Sunrise](https://github.com/stanuwu/Sunrise) - Destiny 2 Offline Exploration Mod (4 days ago)
-- [yay/awdl-toggle](https://github.com/yay/awdl-toggle) - A native macOS Control Center toggle that persistently enables or suppresses AWDL. (4 days ago)
-- [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders. (4 days ago)
-- [agent-substrate/env](https://github.com/agent-substrate/env) - An agentic environment abstraction for Agent Substrate (4 days ago)
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (5 days ago)
-- [steven1518/vex-bench](https://github.com/steven1518/vex-bench) - \[EMNLP 2026\] VEX-Bench: Benchmarking LLM Agents for Assessing Exploitability of Software Supply Chain Vulnerabilities (5 days ago)
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (6 days ago)
+- [mrmps/classifier-dev](https://github.com/mrmps/classifier-dev) - Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev (1 day ago)
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. (1 day ago)
+- [githubnext/localjev](https://github.com/githubnext/localjev) (1 day ago)
+- [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp) (2 days ago)
+- [jessfraz/switchboard](https://github.com/jessfraz/switchboard) - Local Rust CLI trust layer for humans, scripts, and LLMs. (2 days ago)
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) (5 days ago)
+- [stanuwu/Sunrise](https://github.com/stanuwu/Sunrise) - Destiny 2 Offline Preservation Mod (5 days ago)
+- [yay/awdl-toggle](https://github.com/yay/awdl-toggle) - A native macOS Control Center toggle that persistently enables or suppresses AWDL. (5 days ago)
+- [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders. (5 days ago)
+- [agent-substrate/env](https://github.com/agent-substrate/env) - An agentic environment abstraction for Agent Substrate (5 days ago)
 
 ---
 
