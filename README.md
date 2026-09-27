@@ -26,12 +26,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (today)
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 day ago)
 - [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 day ago)
-- [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (6 days ago)
-- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (6 days ago)
+- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (1 day ago)
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 days ago)
+- [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (1 week ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
 - [sozercan/orka-demo-inventory](https://github.com/sozercan/orka-demo-inventory) - Small Go inventory service used as the target repository for Orka demos (1 week ago)
 - [orka-agents/.github](https://github.com/orka-agents/.github) (2 weeks ago)
@@ -44,22 +44,23 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: add tag-triggered container releases](https://github.com/sozercan/agentkit/pull/28) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (1 day ago)
-- [fix(test): disable background Git maintenance in release fixtures](https://github.com/orka-agents/orka/pull/696) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [test: cover websocket client interrupts in conversation migration](https://github.com/sozercan/vekil/pull/402) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [feat: run local AIKit models as launch targets and providers](https://github.com/sozercan/vekil/pull/401) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [fix(login): add close button and drop passkey note from sign-in sheet](https://github.com/sozercan/kaset/pull/513) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
-- [docs(readme): clarify installation steps for new users](https://github.com/sozercan/kaset/pull/510) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
-- [fix: keep migrated conversations usable after interrupts and pre-output failures](https://github.com/sozercan/vekil/pull/399) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [fix(models): repair Llama presets and drop debug logging](https://github.com/kaito-project/aikit/pull/881) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (1 day ago)
-- [feat(models): remove context_size from premade models](https://github.com/kaito-project/aikit/pull/880) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (1 day ago)
-- [docs(pr-682): first nonblank line pr682-20260925-final2](https://github.com/sozercan/nodejs-goof/pull/59) on [sozercan/nodejs-goof](https://github.com/sozercan/nodejs-goof) (1 day ago)
+- [feat(connectors): inject linked-account credentials through OutboundAccessPolicy (#698 part 3)](https://github.com/orka-agents/orka/pull/701) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [fix: release conversation markers after keepalive-only and output-free stream ends](https://github.com/sozercan/vekil/pull/406) on [sozercan/vekil](https://github.com/sozercan/vekil) (today)
+- [feat(connectors): consent flow and sealed token custody (#698 part 2)](https://github.com/orka-agents/orka/pull/700) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [fix(ci): use SHA-pinned upload-artifact in Pages deploy](https://github.com/sozercan/kaset/pull/519) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
+- [fix(proxy): release the Azure recovery probe at first streamed output](https://github.com/sozercan/vekil/pull/405) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [feat(website): add landing page and GitHub Pages deploy](https://github.com/sozercan/kaset/pull/518) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
+- [feat(connectors): add ConnectorProvider and Connection CRDs (#698 part 1)](https://github.com/orka-agents/orka/pull/699) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(auth): keep debug sign-out tombstone separate from release](https://github.com/sozercan/kaset/pull/516) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
+- [fix(proxy): resolve CodeQL allocation-size alerts](https://github.com/sozercan/vekil/pull/403) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [feat(youtube): add setting to show player controls on the video](https://github.com/sozercan/kaset/pull/515) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 2 days ago) - 📼 The missing YouTube and YouTube Music macOS app
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.8](https://github.com/sozercan/vekil/releases/tag/v0.14.8), 2 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
-- [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.2.0](https://github.com/orka-agents/orka/releases/tag/v0.2.0), 5 days ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.9](https://github.com/sozercan/vekil/releases/tag/v0.14.9), 1 day ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [sozercan/agentkit](https://github.com/sozercan/agentkit) ([v0.1.0](https://github.com/sozercan/agentkit/releases/tag/v0.1.0), 1 day ago) - 👷 Docker-for-agents: build agents into runnable container images
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 3 days ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.2.0](https://github.com/orka-agents/orka/releases/tag/v0.2.0), 6 days ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.0](https://github.com/kaito-project/aikit/releases/tag/v0.23.0), 1 week ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.15.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.15.0), 3 weeks ago) - 🧵 CLI tool for directly patching container images!
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.1), 1 month ago) - 🐊 Policy Controller for Kubernetes
@@ -67,13 +68,13 @@
 
 #### ⭐ Recent Stars
 
-- [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - The AI-powered toolkit that grows your YouTube channel on autopilot. (2 days ago)
-- [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - Agent Builder CLI for Kubernetes. (4 days ago)
-- [zai-org/ZCode](https://github.com/zai-org/ZCode) - Z.ai's coding agent harness. Powerful, intelligent, extensible. (5 days ago)
-- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (6 days ago)
-- [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. (6 days ago)
-- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request. (6 days ago)
-- [openclaw/clickclack](https://github.com/openclaw/clickclack) - ClickClackClaw - The chat app with claws. (6 days ago)
+- [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - The AI-powered toolkit that grows your YouTube channel on autopilot. (3 days ago)
+- [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - Agent Builder CLI for Kubernetes. (5 days ago)
+- [zai-org/ZCode](https://github.com/zai-org/ZCode) - Z.ai's coding agent harness. Powerful, intelligent, extensible. (6 days ago)
+- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (1 week ago)
+- [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. (1 week ago)
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request. (1 week ago)
+- [openclaw/clickclack](https://github.com/openclaw/clickclack) - ClickClackClaw - The chat app with claws. (1 week ago)
 - [mrmps/classifier-dev](https://github.com/mrmps/classifier-dev) - Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev (1 week ago)
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. (1 week ago)
 - [githubnext/localjev](https://github.com/githubnext/localjev) (1 week ago)
