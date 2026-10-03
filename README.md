@@ -26,10 +26,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
+- [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (1 day ago)
 - [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (5 days ago)
-- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (6 days ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (2 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (6 days ago)
+- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (1 week ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
 - [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (1 week ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
@@ -40,45 +41,43 @@
 - [uncoolburrito/meld](https://github.com/uncoolburrito/meld) - One Mac app for both YouTube Music and Spotify, with proper artwork and synced lyrics for both. (3 weeks ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (3 weeks ago)
 - [orka-agents/orka-gateway-telegram](https://github.com/orka-agents/orka-gateway-telegram) - Out-of-tree Telegram adapter for the Orka generic gateway protocol (3 weeks ago)
-- [sozercan/gozillo](https://github.com/sozercan/gozillo) - 🏠 Standalone agent-friendly CLI for Zillow (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(build): refresh publisher Expat package pins](https://github.com/orka-agents/orka/pull/717) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix: store each conversation history value once](https://github.com/sozercan/vekil/pull/415) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [docs: combine user-facing guides and move quickstart under docs](https://github.com/sozercan/dalec-homebrew/pull/31) on [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) (2 days ago)
-- [fix: use CLI integration for Copilot OAuth and PAT credentials](https://github.com/sozercan/vekil/pull/412) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
-- [test(connectors): kind E2E for link, use, approval on write, refresh, and disconnect](https://github.com/orka-agents/orka/pull/706) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [feat(connectors): dashboard, CLI, and list_connections surfaces for linked accounts](https://github.com/orka-agents/orka/pull/705) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [feat(connectors): GitHub provider and linked-account built-in tools](https://github.com/orka-agents/orka/pull/704) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [fix: keep conversations usable when a turn ends early](https://github.com/sozercan/vekil/pull/411) on [sozercan/vekil](https://github.com/sozercan/vekil) (5 days ago)
-- [docs: tighten AGENTS.md instructions](https://github.com/orka-agents/orka/pull/703) on [orka-agents/orka](https://github.com/orka-agents/orka) (5 days ago)
-- [fix: keep conversations usable when an upstream stream ends before any tool call](https://github.com/sozercan/vekil/pull/410) on [sozercan/vekil](https://github.com/sozercan/vekil) (5 days ago)
+- [fix(auth): accept GitHub Actions tokens as direct Copilot bearers](https://github.com/sozercan/vekil/pull/417) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [ci: update Vekil to v0.14.10](https://github.com/sozercan/agentkit/pull/29) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (1 day ago)
+- [build(deps): bump Vekil to v0.14.10](https://github.com/orka-agents/orka/pull/719) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix: let a forked Codex thread run while its parent turn is active](https://github.com/sozercan/vekil/pull/416) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [fix(build): refresh publisher Expat package pins](https://github.com/orka-agents/orka/pull/717) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [fix: store each conversation history value once](https://github.com/sozercan/vekil/pull/415) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
+- [docs: combine user-facing guides and move quickstart under docs](https://github.com/sozercan/dalec-homebrew/pull/31) on [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) (3 days ago)
+- [fix: use CLI integration for Copilot OAuth and PAT credentials](https://github.com/sozercan/vekil/pull/412) on [sozercan/vekil](https://github.com/sozercan/vekil) (3 days ago)
+- [test(connectors): kind E2E for link, use, approval on write, refresh, and disconnect](https://github.com/orka-agents/orka/pull/706) on [orka-agents/orka](https://github.com/orka-agents/orka) (5 days ago)
+- [feat(connectors): dashboard, CLI, and list_connections surfaces for linked accounts](https://github.com/orka-agents/orka/pull/705) on [orka-agents/orka](https://github.com/orka-agents/orka) (5 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.10](https://github.com/sozercan/vekil/releases/tag/v0.14.10), 2 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
-- [sozercan/agentkit](https://github.com/sozercan/agentkit) ([v0.1.0](https://github.com/sozercan/agentkit/releases/tag/v0.1.0), 6 days ago) - 👷 Docker-for-agents: build agents into runnable container images
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.11](https://github.com/sozercan/vekil/releases/tag/v0.14.11), 1 day ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [sozercan/agentkit](https://github.com/sozercan/agentkit) ([v0.1.0](https://github.com/sozercan/agentkit/releases/tag/v0.1.0), 1 week ago) - 👷 Docker-for-agents: build agents into runnable container images
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.2.0](https://github.com/orka-agents/orka/releases/tag/v0.2.0), 1 week ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.0](https://github.com/kaito-project/aikit/releases/tag/v0.23.0), 2 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.15.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.15.0), 4 weeks ago) - 🧵 CLI tool for directly patching container images!
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.1), 1 month ago) - 🐊 Policy Controller for Kubernetes
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 1 month ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
-- [sozercan/gozillo](https://github.com/sozercan/gozillo) ([v0.1.0](https://github.com/sozercan/gozillo/releases/tag/v0.1.0), 2 months ago) - 🏠 Standalone agent-friendly CLI for Zillow
 
 #### ⭐ Recent Stars
 
-- [openma-ai/deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) - ACP server implementation for DeepSeek harness. dsh-acp (1 day ago)
-- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone (1 day ago)
-- [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - Model Express is a Rust-based component meant to be placed next to existing model inference systems to speed up their startup times and improve overall performance. (1 day ago)
-- [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac (3 days ago)
-- [google-research/rrsi](https://github.com/google-research/rrsi) (4 days ago)
-- [rorygallagher2024/lg-webos-dashboard](https://github.com/rorygallagher2024/lg-webos-dashboard) - For rooted LG webOS TVs: a live dashboard, privacy control, debloating (Hide system apps & uninstall apps), an ad & telemetry blocker, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control. (4 days ago)
-- [Appllama/liquid-glass-chat-ui](https://github.com/Appllama/liquid-glass-chat-ui) - Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers. (4 days ago)
-- [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain) - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work. (5 days ago)
-- [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - The AI-powered toolkit that grows your YouTube channel on autopilot. (1 week ago)
-- [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - Agent Builder CLI for Kubernetes. (1 week ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
+- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier. (1 day ago)
+- [xhluca/session-migrate](https://github.com/xhluca/session-migrate) - Migrate coding agent sessions across 18 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Vibe, Muse, Qwen, Kimi, Cursor, etc.) (1 day ago)
+- [agent-session-protocol/universal-session-log](https://github.com/agent-session-protocol/universal-session-log) - USL is the storage-first reference implementation of the Agent Session Protocol (ASP). ACP handles the live present (editor↔agent interaction); ASP handles the durable past and cross-runtime migration; USL is the storage engine behind ASP. (1 day ago)
+- [openma-ai/deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) - ACP server implementation for DeepSeek harness. dsh-acp (2 days ago)
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone (2 days ago)
+- [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - Model Express is a Rust-based component meant to be placed next to existing model inference systems to speed up their startup times and improve overall performance. (2 days ago)
+- [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac (4 days ago)
+- [google-research/rrsi](https://github.com/google-research/rrsi) (5 days ago)
+- [rorygallagher2024/lg-webos-dashboard](https://github.com/rorygallagher2024/lg-webos-dashboard) - For rooted LG webOS TVs: a live dashboard, privacy control, debloating (Hide system apps & uninstall apps), an ad & telemetry blocker, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control. (5 days ago)
 
 ---
 
