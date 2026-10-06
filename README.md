@@ -14,7 +14,6 @@
 - [sozercan/gozillo](https://github.com/sozercan/gozillo) - 🏠 Standalone agent-friendly CLI for Zillow
 - [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills
 - [sozercan/kusto-cli](https://github.com/sozercan/kusto-cli) - 📊 Standalone agent-friendly CLI for Kusto workflows
-- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images
 - [sozercan/kindctl](https://github.com/sozercan/kindctl) - 🧑‍🔧 Agent-friendly kind cluster manager for per-repo/worktree local Kubernetes without global kubeconfig pollution
 - [sozercan/gatekeeper-earlywatch](https://github.com/sozercan/gatekeeper-earlywatch) - 👀 EarlyWatch admission validators as Gatekeeper policies
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365
@@ -23,16 +22,17 @@
 - [sozercan/pano](https://github.com/sozercan/pano) - 📊 Modern Kubernetes TestGrid viewer
 - [sozercan/unstuck](https://github.com/sozercan/unstuck) - 🩹 CLI tool to unstick Kubernetes resources stuck in Terminating state
 - [sozercan/kuyruk](https://github.com/sozercan/kuyruk) - 🐙 Native macOS GitHub Notifications client built with Swift and SwiftUI
+- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects
 
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (2 days ago)
-- [orka-agents/sessionkit](https://github.com/orka-agents/sessionkit) (2 days ago)
-- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (2 days ago)
-- [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (3 days ago)
+- [orka-agents/agentkit](https://github.com/orka-agents/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (today)
+- [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (1 day ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (2 days ago)
+- [orka-agents/sessionkit](https://github.com/orka-agents/sessionkit) (3 days ago)
+- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (3 days ago)
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 week ago)
-- [sozercan/agentkit](https://github.com/sozercan/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (1 week ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
 - [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (2 weeks ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
@@ -44,21 +44,21 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: close gaps found by the scoped chat, scanner, and tool evals](https://github.com/orka-agents/orka/pull/726) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [test: add model-free evals for scoped chat, scanner prompts, and tool contracts](https://github.com/orka-agents/orka/pull/725) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(chat): close routing gaps found by the chat evals](https://github.com/orka-agents/orka/pull/724) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [test(api): add model-free chat orchestrator evals](https://github.com/orka-agents/orka/pull/723) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [ci: retry bounded Copilot smoke output mismatches (#408)](https://github.com/sozercan/vekil/pull/419) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
-- [feat: add native Codex cold session handoff](https://github.com/orka-agents/sessionkit/pull/5) on [orka-agents/sessionkit](https://github.com/orka-agents/sessionkit) (2 days ago)
-- [chore(acp): upgrade Codex to 0.160.0 and adapter to 2.1.1](https://github.com/orka-agents/orka/pull/720) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [fix(auth): accept GitHub Actions tokens as direct Copilot bearers](https://github.com/sozercan/vekil/pull/417) on [sozercan/vekil](https://github.com/sozercan/vekil) (3 days ago)
-- [ci: update Vekil to v0.14.10](https://github.com/sozercan/agentkit/pull/29) on [sozercan/agentkit](https://github.com/sozercan/agentkit) (3 days ago)
-- [build(deps): bump Vekil to v0.14.10](https://github.com/orka-agents/orka/pull/719) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
+- [feat: add Orka-native starter workflows](https://github.com/orka-agents/orka-workflows/pull/1) on [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (1 day ago)
+- [feat(monitor): unify issue implementation and readiness workflow](https://github.com/orka-agents/orka/pull/731) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [chore: move project to orka-agents](https://github.com/orka-agents/agentkit/pull/30) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (1 day ago)
+- [fix(build): stop pinning publisher apt package versions](https://github.com/orka-agents/orka/pull/730) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(tools): reject tool arguments whose JSON type contradicts the schema](https://github.com/orka-agents/orka/pull/728) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix: close gaps found by the scoped chat, scanner, and tool evals](https://github.com/orka-agents/orka/pull/726) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [test: add model-free evals for scoped chat, scanner prompts, and tool contracts](https://github.com/orka-agents/orka/pull/725) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [fix(chat): close routing gaps found by the chat evals](https://github.com/orka-agents/orka/pull/724) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [test(api): add model-free chat orchestrator evals](https://github.com/orka-agents/orka/pull/723) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [ci: retry bounded Copilot smoke output mismatches (#408)](https://github.com/sozercan/vekil/pull/419) on [sozercan/vekil](https://github.com/sozercan/vekil) (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.11](https://github.com/sozercan/vekil/releases/tag/v0.14.11), 3 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
-- [sozercan/agentkit](https://github.com/sozercan/agentkit) ([v0.1.0](https://github.com/sozercan/agentkit/releases/tag/v0.1.0), 1 week ago) - 👷 Docker-for-agents: build agents into runnable container images
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.11](https://github.com/sozercan/vekil/releases/tag/v0.14.11), 4 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [orka-agents/agentkit](https://github.com/orka-agents/agentkit) ([v0.1.0](https://github.com/orka-agents/agentkit/releases/tag/v0.1.0), 1 week ago) - 👷 Docker-for-agents: build agents into runnable container images
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.2.0](https://github.com/orka-agents/orka/releases/tag/v0.2.0), 2 weeks ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.0](https://github.com/kaito-project/aikit/releases/tag/v0.23.0), 2 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
@@ -67,16 +67,16 @@
 
 #### ⭐ Recent Stars
 
-- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns (1 day ago)
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust (1 day ago)
-- [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains (2 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 days ago)
-- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier. (3 days ago)
-- [xhluca/session-migrate](https://github.com/xhluca/session-migrate) - Migrate coding agent sessions across 18 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Vibe, Muse, Qwen, Kimi, Cursor, etc.) (3 days ago)
-- [agent-session-protocol/universal-session-log](https://github.com/agent-session-protocol/universal-session-log) - USL is the storage-first reference implementation of the Agent Session Protocol (ASP). ACP handles the live present (editor↔agent interaction); ASP handles the durable past and cross-runtime migration; USL is the storage engine behind ASP. (3 days ago)
-- [openma-ai/deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) - ACP server implementation for DeepSeek harness. dsh-acp (4 days ago)
-- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone (4 days ago)
-- [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - Model Express is a Rust-based component meant to be placed next to existing model inference systems to speed up their startup times and improve overall performance. (4 days ago)
+- [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. (today)
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible. (1 day ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. (1 day ago)
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns (2 days ago)
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust (2 days ago)
+- [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains (3 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 days ago)
+- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier. (4 days ago)
+- [xhluca/session-migrate](https://github.com/xhluca/session-migrate) - Migrate coding agent sessions across 18 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Vibe, Muse, Qwen, Kimi, Cursor, etc.) (4 days ago)
+- [agent-session-protocol/universal-session-log](https://github.com/agent-session-protocol/universal-session-log) - USL is the storage-first reference implementation of the Agent Session Protocol (ASP). ACP handles the live present (editor↔agent interaction); ASP handles the durable past and cross-runtime migration; USL is the storage engine behind ASP. (4 days ago)
 
 ---
 
