@@ -26,12 +26,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
-- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 day ago)
-- [orka-agents/agentkit](https://github.com/orka-agents/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (1 day ago)
-- [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (2 days ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (3 days ago)
-- [orka-agents/sessionkit](https://github.com/orka-agents/sessionkit) (4 days ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (2 days ago)
+- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (2 days ago)
+- [orka-agents/agentkit](https://github.com/orka-agents/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (2 days ago)
+- [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (3 days ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (4 days ago)
+- [orka-agents/sessionkit](https://github.com/orka-agents/sessionkit) (5 days ago)
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 week ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
 - [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (2 weeks ago)
@@ -40,43 +40,43 @@
 - [orka-agents/.github](https://github.com/orka-agents/.github) (3 weeks ago)
 - [orka-agents/orka-integration-kontxt](https://github.com/orka-agents/orka-integration-kontxt) - Versioned Kontxt integration for Orka transaction tokens (3 weeks ago)
 - [orka-agents/orka-integration-agentgateway](https://github.com/orka-agents/orka-integration-agentgateway) - Versioned agentgateway integration for Orka outbound access policies (3 weeks ago)
-- [uncoolburrito/meld](https://github.com/uncoolburrito/meld) - One Mac app for both YouTube Music and Spotify, with proper artwork and synced lyrics for both. (3 weeks ago)
+- [uncoolburrito/meld](https://github.com/uncoolburrito/meld) - One Mac app for both YouTube Music and Spotify, with proper artwork and synced lyrics for both. (4 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat(deploy): serve make deploy admission from the controller](https://github.com/orka-agents/orka/pull/735) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(admission): enforce ACP workspace Lease ownership with CEL](https://github.com/orka-agents/orka/pull/734) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [refactor(workspace): move ACP providers out of tree](https://github.com/orka-agents/orka/pull/733) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat(session): integrate SessionKit Codex migration](https://github.com/orka-agents/orka/pull/732) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat: add external workspace providers and shared lifecycle contract](https://github.com/orka-agents/orka-workspace/pull/2) on [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 day ago)
-- [feat: add Orka-native starter workflows](https://github.com/orka-agents/orka-workflows/pull/1) on [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (2 days ago)
-- [feat(monitor): unify issue implementation and readiness workflow](https://github.com/orka-agents/orka/pull/731) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [chore: move project to orka-agents](https://github.com/orka-agents/agentkit/pull/30) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (2 days ago)
-- [fix(build): stop pinning publisher apt package versions](https://github.com/orka-agents/orka/pull/730) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [fix(tools): reject tool arguments whose JSON type contradicts the schema](https://github.com/orka-agents/orka/pull/728) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [feat(acp): resume idle adapter sessions in place and close sessions on delete](https://github.com/orka-agents/orka/pull/737) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [feat(deploy): serve make deploy admission from the controller](https://github.com/orka-agents/orka/pull/735) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [fix(admission): enforce ACP workspace Lease ownership with CEL](https://github.com/orka-agents/orka/pull/734) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [refactor(workspace): move ACP providers out of tree](https://github.com/orka-agents/orka/pull/733) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [feat(session): integrate SessionKit Codex migration](https://github.com/orka-agents/orka/pull/732) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [feat: add external workspace providers and shared lifecycle contract](https://github.com/orka-agents/orka-workspace/pull/2) on [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (2 days ago)
+- [feat: add Orka-native starter workflows](https://github.com/orka-agents/orka-workflows/pull/1) on [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (3 days ago)
+- [feat(monitor): unify issue implementation and readiness workflow](https://github.com/orka-agents/orka/pull/731) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
+- [chore: move project to orka-agents](https://github.com/orka-agents/agentkit/pull/30) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (3 days ago)
+- [fix(build): stop pinning publisher apt package versions](https://github.com/orka-agents/orka/pull/730) on [orka-agents/orka](https://github.com/orka-agents/orka) (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.11](https://github.com/sozercan/vekil/releases/tag/v0.14.11), 5 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.12](https://github.com/sozercan/vekil/releases/tag/v0.14.12), 1 day ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
 - [orka-agents/agentkit](https://github.com/orka-agents/agentkit) ([v0.1.0](https://github.com/orka-agents/agentkit/releases/tag/v0.1.0), 1 week ago) - 👷 Docker-for-agents: build agents into runnable container images
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 2 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.2.0](https://github.com/orka-agents/orka/releases/tag/v0.2.0), 2 weeks ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.0](https://github.com/kaito-project/aikit/releases/tag/v0.23.0), 2 weeks ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.15.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.15.0), 1 month ago) - 🧵 CLI tool for directly patching container images!
-- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 1 month ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
+- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 2 months ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
 
 #### ⭐ Recent Stars
 
-- [openai/math](https://github.com/openai/math) (1 day ago)
-- [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. (1 day ago)
-- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. (2 days ago)
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. (2 days ago)
-- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns (3 days ago)
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust (3 days ago)
-- [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains (4 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
-- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier. (5 days ago)
-- [xhluca/session-migrate](https://github.com/xhluca/session-migrate) - Migrate coding agent sessions across 18 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Vibe, Muse, Qwen, Kimi, Cursor, etc.) (5 days ago)
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. (1 day ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (1 day ago)
+- [openai/math](https://github.com/openai/math) (2 days ago)
+- [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. (2 days ago)
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. (3 days ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. (3 days ago)
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns (4 days ago)
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust (4 days ago)
+- [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains (5 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (6 days ago)
 
 ---
 
