@@ -26,16 +26,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (today)
-- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 day ago)
-- [orka-agents/agentkit](https://github.com/orka-agents/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (2 days ago)
-- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (2 days ago)
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 days ago)
-- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (3 days ago)
-- [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (6 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 day ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
+- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (2 days ago)
+- [orka-agents/agentkit](https://github.com/orka-agents/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (3 days ago)
+- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (3 days ago)
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (3 days ago)
+- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (4 days ago)
+- [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (1 week ago)
 - [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 week ago)
 - [orka-agents/sessionkit](https://github.com/orka-agents/sessionkit) (1 week ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (2 weeks ago)
 - [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (3 weeks ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (3 weeks ago)
 - [sozercan/orka-demo-inventory](https://github.com/sozercan/orka-demo-inventory) - Small Go inventory service used as the target repository for Orka demos (3 weeks ago)
@@ -44,39 +44,39 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: run code_exec and ACP sandbox_exec in Hyperlight micro-VMs](https://github.com/orka-agents/orka/pull/779) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(substrate): reject credentials, queries, and fragments in the router URL](https://github.com/orka-agents/orka/pull/778) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(deps): build with Go 1.27.2 and patched x/net](https://github.com/orka-agents/orka-workspace/pull/3) on [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 day ago)
-- [feat(runtime): toolboxes for built-in coding agents](https://github.com/orka-agents/orka/pull/775) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat(evals): add live cross-runtime task-success suite](https://github.com/orka-agents/agentkit/pull/44) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (2 days ago)
-- [ci: replace live proxy E2E with AIKit Qwen](https://github.com/orka-agents/orka/pull/761) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [chore(release): backport main changes to release-0.23](https://github.com/kaito-project/aikit/pull/891) on [kaito-project/aikit](https://github.com/kaito-project/aikit) (2 days ago)
-- [feat(ci): publish matching development image sets](https://github.com/orka-agents/orka/pull/760) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [fix(runtime): enforce cross-runtime parity with model-free evals](https://github.com/orka-agents/agentkit/pull/42) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (2 days ago)
-- [fix(ci): replace live Vekil E2E with AIKit](https://github.com/orka-agents/agentkit/pull/39) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (2 days ago)
+- [ci: run the Copilot-credential live lanes on manual dispatch only](https://github.com/orka-agents/orka/pull/798) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [test(e2e): port the agent runtime lane to aimock-backed Go specs](https://github.com/orka-agents/orka/pull/797) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [test(e2e): run live-lane coverage on aimock](https://github.com/orka-agents/orka/pull/789) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [perf(player): animate the equalizer and title marquee with Core Animation](https://github.com/sozercan/kaset/pull/540) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
+- [test(e2e): run model-backed specs against aimock](https://github.com/orka-agents/orka/pull/788) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [Enable Copilot Knowledge Base](https://github.com/orka-agents/orka/pull/785) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [feat: run code_exec and ACP sandbox_exec in Hyperlight micro-VMs](https://github.com/orka-agents/orka/pull/779) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [fix(substrate): reject credentials, queries, and fragments in the router URL](https://github.com/orka-agents/orka/pull/778) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [fix(deps): build with Go 1.27.2 and patched x/net](https://github.com/orka-agents/orka-workspace/pull/3) on [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (2 days ago)
+- [feat(runtime): toolboxes for built-in coding agents](https://github.com/orka-agents/orka/pull/775) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.2](https://github.com/kaito-project/aikit/releases/tag/v0.23.2), 2 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.12](https://github.com/sozercan/vekil/releases/tag/v0.14.12), 4 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 1 day ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.2](https://github.com/kaito-project/aikit/releases/tag/v0.23.2), 3 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.12](https://github.com/sozercan/vekil/releases/tag/v0.14.12), 5 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
 - [orka-agents/agentkit](https://github.com/orka-agents/agentkit) ([v0.1.0](https://github.com/orka-agents/agentkit/releases/tag/v0.1.0), 2 weeks ago) - 👷 Docker-for-agents: build agents into runnable container images
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.1](https://github.com/sozercan/kaset/releases/tag/v0.14.1), 2 weeks ago) - 📼 The missing YouTube and YouTube Music macOS app
-- [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.2.0](https://github.com/orka-agents/orka/releases/tag/v0.2.0), 2 weeks ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
+- [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.2.0](https://github.com/orka-agents/orka/releases/tag/v0.2.0), 3 weeks ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.15.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.15.0), 1 month ago) - 🧵 CLI tool for directly patching container images!
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 2 months ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
 
 #### ⭐ Recent Stars
 
-- [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec) - Docker Sandbox Kit Specification v3 - the kit descriptor grammar, the OCI artifact, the build frontend, and the conformance suites (1 day ago)
-- [CopilotKit/aimock](https://github.com/CopilotKit/aimock) - Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies. (1 day ago)
-- [hyperlight-dev/hyperlight-unikraft](https://github.com/hyperlight-dev/hyperlight-unikraft) - Run ordinary Linux programs (e.g., Python, Node.js, .NET, Go, Bash) inside Hyperlight micro-VMs (1 day ago)
-- [ai-dynamo/kvcr](https://github.com/ai-dynamo/kvcr) (3 days ago)
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. (4 days ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (4 days ago)
-- [openai/math](https://github.com/openai/math) (5 days ago)
-- [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. (5 days ago)
-- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. (6 days ago)
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. (6 days ago)
+- [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc) (today)
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. (1 day ago)
+- [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) - Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder (1 day ago)
+- [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) (1 day ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 day ago)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 day ago)
+- [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec) - Docker Sandbox Kit Specification v3 - the kit descriptor grammar, the OCI artifact, the build frontend, and the conformance suites (2 days ago)
+- [CopilotKit/aimock](https://github.com/CopilotKit/aimock) - Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies. (2 days ago)
+- [hyperlight-dev/hyperlight-unikraft](https://github.com/hyperlight-dev/hyperlight-unikraft) - Run ordinary Linux programs (e.g., Python, Node.js, .NET, Go, Bash) inside Hyperlight micro-VMs (2 days ago)
+- [ai-dynamo/kvcr](https://github.com/ai-dynamo/kvcr) (4 days ago)
 
 ---
 
