@@ -8,6 +8,7 @@
 
 #### 🌱 My latest projects
 
+- [sozercan/aile](https://github.com/sozercan/aile)
 - [sozercan/orka-demo-inventory](https://github.com/sozercan/orka-demo-inventory) - Small Go inventory service used as the target repository for Orka demos
 - [sozercan/d365-expense-cli](https://github.com/sozercan/d365-expense-cli) - 🤑 Standalone CLI for Dynamics 365 finance expense reports
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
@@ -22,44 +23,43 @@
 - [sozercan/pano](https://github.com/sozercan/pano) - 📊 Modern Kubernetes TestGrid viewer
 - [sozercan/unstuck](https://github.com/sozercan/unstuck) - 🩹 CLI tool to unstick Kubernetes resources stuck in Terminating state
 - [sozercan/kuyruk](https://github.com/sozercan/kuyruk) - 🐙 Native macOS GitHub Notifications client built with Swift and SwiftUI
-- [sozercan/homebrew-repo](https://github.com/sozercan/homebrew-repo) - 🍺 Homebrew tap for my projects
 
 #### 👷 Check out what I'm currently working on
 
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (today)
-- [orka-agents/sessionkit](https://github.com/orka-agents/sessionkit) (1 day ago)
-- [orka-agents/agentkit](https://github.com/orka-agents/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (1 day ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 day ago)
-- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (3 days ago)
-- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (4 days ago)
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (4 days ago)
-- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (5 days ago)
+- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 day ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
+- [orka-agents/sessionkit](https://github.com/orka-agents/sessionkit) (2 days ago)
+- [orka-agents/agentkit](https://github.com/orka-agents/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (2 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (2 days ago)
+- [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (5 days ago)
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (5 days ago)
+- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (6 days ago)
 - [orka-agents/orka-workflows](https://github.com/orka-agents/orka-workflows) (1 week ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 week ago)
 - [orka-agents/agent-runtime-foundry](https://github.com/orka-agents/agent-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (3 weeks ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (3 weeks ago)
-- [sozercan/orka-demo-inventory](https://github.com/sozercan/orka-demo-inventory) - Small Go inventory service used as the target repository for Orka demos (3 weeks ago)
+- [sozercan/orka-demo-inventory](https://github.com/sozercan/orka-demo-inventory) - Small Go inventory service used as the target repository for Orka demos (4 weeks ago)
 - [orka-agents/.github](https://github.com/orka-agents/.github) (1 month ago)
 - [orka-agents/orka-integration-kontxt](https://github.com/orka-agents/orka-integration-kontxt) - Versioned Kontxt integration for Orka transaction tokens (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [chore(acp): upgrade Claude ACP to 0.89.1](https://github.com/orka-agents/orka/pull/808) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
-- [chore(acp): upgrade OpenCode to 1.19.0](https://github.com/orka-agents/orka/pull/807) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
-- [chore(acp): upgrade Copilot CLI to 1.0.96](https://github.com/orka-agents/orka/pull/806) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
-- [test(session): cover aimock native migration round trip](https://github.com/orka-agents/orka/pull/802) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(ui): keep collapsed sidebar collapsed when window regains focus](https://github.com/sozercan/kaset/pull/545) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
-- [fix(auth): stop recoverable cookie gaps from signing users out](https://github.com/sozercan/kaset/pull/542) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
-- [ci: slim release qualification and run it on aimock](https://github.com/orka-agents/orka/pull/800) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat(trace): show the model and provider for each model request](https://github.com/orka-agents/orka/pull/799) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [ci: run the Copilot-credential live lanes on manual dispatch only](https://github.com/orka-agents/orka/pull/798) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [test(e2e): port the agent runtime lane to aimock-backed Go specs](https://github.com/orka-agents/orka/pull/797) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(workspace): recover retirement cleanup and ship Core reader roles](https://github.com/orka-agents/orka-workspace/pull/4) on [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 day ago)
+- [test(e2e): cover idle adapter exit in the agent runtime lifecycle lane](https://github.com/orka-agents/orka/pull/813) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix: end committed Responses streams with response.failed after an upstream error event](https://github.com/sozercan/vekil/pull/423) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [fix: default every Copilot credential to the CLI integration](https://github.com/sozercan/vekil/pull/422) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
+- [fix(session): reject native restore past an earlier history cutoff](https://github.com/orka-agents/orka/pull/809) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [chore(acp): upgrade Claude ACP to 0.89.1](https://github.com/orka-agents/orka/pull/808) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [chore(acp): upgrade OpenCode to 1.19.0](https://github.com/orka-agents/orka/pull/807) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [chore(acp): upgrade Copilot CLI to 1.0.96](https://github.com/orka-agents/orka/pull/806) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [test(session): cover aimock native migration round trip](https://github.com/orka-agents/orka/pull/802) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [fix(ui): keep collapsed sidebar collapsed when window regains focus](https://github.com/sozercan/kaset/pull/545) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 2 days ago) - 📼 The missing YouTube and YouTube Music macOS app
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.2](https://github.com/kaito-project/aikit/releases/tag/v0.23.2), 4 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.12](https://github.com/sozercan/vekil/releases/tag/v0.14.12), 6 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.13](https://github.com/sozercan/vekil/releases/tag/v0.14.13), 1 day ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 3 days ago) - 📼 The missing YouTube and YouTube Music macOS app
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.2](https://github.com/kaito-project/aikit/releases/tag/v0.23.2), 5 days ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [orka-agents/agentkit](https://github.com/orka-agents/agentkit) ([v0.1.0](https://github.com/orka-agents/agentkit/releases/tag/v0.1.0), 2 weeks ago) - 👷 Docker-for-agents: build agents into runnable container images
 - [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.2.0](https://github.com/orka-agents/orka/releases/tag/v0.2.0), 3 weeks ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.15.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.15.0), 1 month ago) - 🧵 CLI tool for directly patching container images!
@@ -67,16 +67,16 @@
 
 #### ⭐ Recent Stars
 
-- [onurceri/family-os](https://github.com/onurceri/family-os) - A self-hosted, open-source family organizer: shared calendar, lists, chores, meals, a kitchen-wall display, and AI that suggests while people approve. (today)
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. (today)
-- [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME) (1 day ago)
-- [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc) (1 day ago)
-- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. (2 days ago)
-- [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) - Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder (2 days ago)
-- [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) (2 days ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 days ago)
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (2 days ago)
-- [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec) - Docker Sandbox Kit Specification v3 - the kit descriptor grammar, the OCI artifact, the build frontend, and the conformance suites (3 days ago)
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. (today)
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS (1 day ago)
+- [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov) - A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries. (1 day ago)
+- [onurceri/family-os](https://github.com/onurceri/family-os) - A self-hosted, open-source family organizer: shared calendar, lists, chores, meals, a kitchen-wall display, and AI that suggests while people approve. (1 day ago)
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. (1 day ago)
+- [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME) (2 days ago)
+- [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc) (2 days ago)
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. (3 days ago)
+- [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) - Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder (3 days ago)
+- [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector) (3 days ago)
 
 ---
 
