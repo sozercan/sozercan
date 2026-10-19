@@ -26,58 +26,58 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
-- [orka-agents/.github](https://github.com/orka-agents/.github) (1 day ago)
-- [orka-agents/agentkit](https://github.com/orka-agents/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (1 day ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
-- [orka-agents/orka-runtime-kagent](https://github.com/orka-agents/orka-runtime-kagent) (2 days ago)
-- [orka-agents/orka-runtime-foundry](https://github.com/orka-agents/orka-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (2 days ago)
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps (3 days ago)
-- [Correia-jpv/fucking-open-source-mac-os-apps](https://github.com/Correia-jpv/fucking-open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. With repository stars⭐ and forks🍴 (3 days ago)
-- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (3 days ago)
-- [hyperlight-dev/hyperlight-unikraft](https://github.com/hyperlight-dev/hyperlight-unikraft) - Run ordinary Linux programs (e.g., Python, Node.js, .NET, Go, Bash) inside Hyperlight micro-VMs (4 days ago)
-- [sozercan/d365-expense-cli](https://github.com/sozercan/d365-expense-cli) - 🤑 Standalone CLI for Dynamics 365 finance expense reports (4 days ago)
-- [orka-agents/sessionkit](https://github.com/orka-agents/sessionkit) (6 days ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (6 days ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (2 days ago)
+- [orka-agents/.github](https://github.com/orka-agents/.github) (2 days ago)
+- [orka-agents/agentkit](https://github.com/orka-agents/agentkit) - 👷 Docker-for-agents: build agents into runnable container images (2 days ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (2 days ago)
+- [orka-agents/orka-runtime-kagent](https://github.com/orka-agents/orka-runtime-kagent) (3 days ago)
+- [orka-agents/orka-runtime-foundry](https://github.com/orka-agents/orka-runtime-foundry) - Microsoft Foundry Hosted Agents Responses adapter for Orka (3 days ago)
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps (4 days ago)
+- [Correia-jpv/fucking-open-source-mac-os-apps](https://github.com/Correia-jpv/fucking-open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. With repository stars⭐ and forks🍴 (4 days ago)
+- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (4 days ago)
+- [hyperlight-dev/hyperlight-unikraft](https://github.com/hyperlight-dev/hyperlight-unikraft) - Run ordinary Linux programs (e.g., Python, Node.js, .NET, Go, Bash) inside Hyperlight micro-VMs (5 days ago)
+- [sozercan/d365-expense-cli](https://github.com/sozercan/d365-expense-cli) - 🤑 Standalone CLI for Dynamics 365 finance expense reports (5 days ago)
+- [orka-agents/sessionkit](https://github.com/orka-agents/sessionkit) (1 week ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 week ago)
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images (1 week ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(runtime): recognize Orka's tool_failed_without_effect outcome](https://github.com/orka-agents/agentkit/pull/74) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (today)
-- [fix(memory): reject review and apply outcomes on proposal create](https://github.com/orka-agents/orka/pull/882) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
-- [fix(deploy): keep workers and runtimes connected to a draining controller](https://github.com/orka-agents/orka/pull/881) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
-- [refactor(render): port brokered-tools and Foundry renderers to Go](https://github.com/orka-agents/agentkit/pull/72) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (1 day ago)
-- [feat(build): build Orka toolbox images with kind: Toolbox](https://github.com/orka-agents/agentkit/pull/70) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (1 day ago)
-- [chore(cla): require CLA for all pull request sizes](https://github.com/orka-agents/.github/pull/7) on [orka-agents/.github](https://github.com/orka-agents/.github) (1 day ago)
-- [fix(approvals): record definite failures of approved tool calls as failed](https://github.com/orka-agents/orka/pull/877) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [fix(memory): record proposal reviewer and applier from the signed-in identity](https://github.com/orka-agents/orka/pull/876) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [feat(acp): let read-intent OpenCode sessions use Bash and Grep](https://github.com/orka-agents/orka/pull/875) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
-- [fix(acp): keep Codex Tasks running on out-of-policy MCP calls and agent warnings out of results](https://github.com/orka-agents/orka/pull/874) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [feat(cli): deploy and re-pin wrapped kagent Agents from a bundle](https://github.com/orka-agents/orka/pull/886) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [feat: bind v0 sends to the pinned pod and refuse unverified kagent installs](https://github.com/orka-agents/orka-runtime-kagent/pull/3) on [orka-agents/orka-runtime-kagent](https://github.com/orka-agents/orka-runtime-kagent) (1 day ago)
+- [fix(harness): accept prompt lease renewals that arrive after their issue time](https://github.com/orka-agents/orka/pull/884) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [ci: add test, lint, vulnerability, and image checks](https://github.com/orka-agents/orka-runtime-kagent/pull/2) on [orka-agents/orka-runtime-kagent](https://github.com/orka-agents/orka-runtime-kagent) (1 day ago)
+- [fix(runtime): recognize Orka's tool_failed_without_effect outcome](https://github.com/orka-agents/agentkit/pull/74) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (1 day ago)
+- [fix(memory): reject review and apply outcomes on proposal create](https://github.com/orka-agents/orka/pull/882) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(deploy): keep workers and runtimes connected to a draining controller](https://github.com/orka-agents/orka/pull/881) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [refactor(render): port brokered-tools and Foundry renderers to Go](https://github.com/orka-agents/agentkit/pull/72) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (2 days ago)
+- [feat(build): build Orka toolbox images with kind: Toolbox](https://github.com/orka-agents/agentkit/pull/70) on [orka-agents/agentkit](https://github.com/orka-agents/agentkit) (2 days ago)
+- [chore(cla): require CLA for all pull request sizes](https://github.com/orka-agents/.github/pull/7) on [orka-agents/.github](https://github.com/orka-agents/.github) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [hyperlight-dev/hyperlight-unikraft](https://github.com/hyperlight-dev/hyperlight-unikraft) ([v0.18.0](https://github.com/hyperlight-dev/hyperlight-unikraft/releases/tag/v0.18.0), 2 days ago) - Run ordinary Linux programs (e.g., Python, Node.js, .NET, Go, Bash) inside Hyperlight micro-VMs
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ([v0.65.2](https://github.com/manaflow-ai/cmux/releases/tag/v0.65.2), 2 days ago) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.13](https://github.com/sozercan/vekil/releases/tag/v0.14.13), 5 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [hyperlight-dev/hyperlight-unikraft](https://github.com/hyperlight-dev/hyperlight-unikraft) ([v0.18.0](https://github.com/hyperlight-dev/hyperlight-unikraft/releases/tag/v0.18.0), 3 days ago) - Run ordinary Linux programs (e.g., Python, Node.js, .NET, Go, Bash) inside Hyperlight micro-VMs
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ([v0.65.2](https://github.com/manaflow-ai/cmux/releases/tag/v0.65.2), 3 days ago) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.13](https://github.com/sozercan/vekil/releases/tag/v0.14.13), 6 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 1 week ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) ([v0.23.2](https://github.com/kaito-project/aikit/releases/tag/v0.23.2), 1 week ago) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [orka-agents/agentkit](https://github.com/orka-agents/agentkit) ([v0.1.0](https://github.com/orka-agents/agentkit/releases/tag/v0.1.0), 3 weeks ago) - 👷 Docker-for-agents: build agents into runnable container images
-- [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.2.0](https://github.com/orka-agents/orka/releases/tag/v0.2.0), 3 weeks ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
+- [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.2.0](https://github.com/orka-agents/orka/releases/tag/v0.2.0), 4 weeks ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
 - [sozercan/dalec-homebrew](https://github.com/sozercan/dalec-homebrew) ([v0.2.9](https://github.com/sozercan/dalec-homebrew/releases/tag/v0.2.9), 2 months ago) - 🍺 Dalec BuildKit frontend that turns verified Homebrew bottles into minimal, non-root Linux images
 
 #### ⭐ Recent Stars
 
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (2 days ago)
-- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. (4 days ago)
-- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS (5 days ago)
-- [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov) - A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries. (5 days ago)
-- [onurceri/family-os](https://github.com/onurceri/family-os) - A self-hosted, open-source family organizer: shared calendar, lists, chores, meals, a kitchen-wall display, and AI that suggests while people approve. (5 days ago)
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed. (5 days ago)
-- [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME) (6 days ago)
-- [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc) (6 days ago)
+- [google-research/harness2](https://github.com/google-research/harness2) (1 day ago)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (3 days ago)
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. (5 days ago)
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS (6 days ago)
+- [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov) - A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries. (6 days ago)
+- [onurceri/family-os](https://github.com/onurceri/family-os) - A self-hosted, open-source family organizer: shared calendar, lists, chores, meals, a kitchen-wall display, and AI that suggests while people approve. (6 days ago)
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed. (6 days ago)
+- [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME) (1 week ago)
+- [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc) (1 week ago)
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. (1 week ago)
-- [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) - Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder (1 week ago)
 
 ---
 
