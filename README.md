@@ -26,39 +26,39 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
-- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (1 day ago)
-- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (3 days ago)
-- [sozercan/arin](https://github.com/sozercan/arin) - 💾 Agentic disk cleaner for developer Macs (4 days ago)
-- [sozercan/helio](https://github.com/sozercan/helio) - 👽 A beautiful and native Reddit client for iOS, iPadOS and macOS (5 days ago)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (today)
+- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (today)
+- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (2 days ago)
+- [sozercan/arin](https://github.com/sozercan/arin) - 💾 Agentic disk cleaner for developer Macs (5 days ago)
+- [sozercan/helio](https://github.com/sozercan/helio) - 👽 A beautiful and native Reddit client for iOS, iPadOS and macOS (6 days ago)
 - [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (1 week ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
 - [orka-agents/orka-eval-fixtures](https://github.com/orka-agents/orka-eval-fixtures) (1 week ago)
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (1 week ago)
 - [sozercan/copacabana](https://github.com/sozercan/copacabana) - 🪡 In-cluster Copa patching controller prototype (1 week ago)
 - [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 week ago)
-- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (1 week ago)
-- [TuiLaHieu1/kaset-custom](https://github.com/TuiLaHieu1/kaset-custom) - App youtube cho macbook. Personalization. (1 week ago)
-- [junaidanjum/cantil](https://github.com/junaidanjum/cantil) - A native YouTube Music client for macOS. (1 week ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 week ago)
+- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (2 weeks ago)
+- [TuiLaHieu1/kaset-custom](https://github.com/TuiLaHieu1/kaset-custom) - App youtube cho macbook. Personalization. (2 weeks ago)
+- [junaidanjum/cantil](https://github.com/junaidanjum/cantil) - A native YouTube Music client for macOS. (2 weeks ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [refactor(runtime): default AgentRuntime contractVersion and drop redundant selectors](https://github.com/orka-agents/orka/pull/1105) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
-- [fix: refuse attach to controller Pods and drop groups on the session child's thread](https://github.com/orka-agents/orka/pull/1099) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [style: tune SwiftFormat, reformat once, and enforce it in CI](https://github.com/sozercan/ayna/pull/126) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
-- [feat(ui): follow-scroll by position, wire haptics, adopt and prune design tokens](https://github.com/sozercan/ayna/pull/125) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
-- [ci: harden CI and release, compile the icon, run iOS tests, add Watch complication](https://github.com/sozercan/ayna/pull/124) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
-- [perf: stream off the main actor, publish once per chunk, keep logs private](https://github.com/sozercan/ayna/pull/123) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
-- [feat(agent): git and project context tools, task list, hotkey recorder](https://github.com/sozercan/ayna/pull/122) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
-- [feat(memory): keep summaries current, extract facts, clean up after deletes](https://github.com/sozercan/ayna/pull/121) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
-- [fix(ai): retry transient HTTP statuses and give Claude room to answer](https://github.com/sozercan/ayna/pull/120) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
-- [fix(agent): make every Agent setting take effect](https://github.com/sozercan/ayna/pull/119) on [sozercan/ayna](https://github.com/sozercan/ayna) (2 days ago)
+- [build: give make test a 20-minute per-package timeout](https://github.com/orka-agents/orka/pull/1112) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [refactor(runtime): default AgentRuntime contractVersion and drop redundant selectors](https://github.com/orka-agents/orka/pull/1105) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix: refuse attach to controller Pods and drop groups on the session child's thread](https://github.com/orka-agents/orka/pull/1099) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [style: tune SwiftFormat, reformat once, and enforce it in CI](https://github.com/sozercan/ayna/pull/126) on [sozercan/ayna](https://github.com/sozercan/ayna) (3 days ago)
+- [feat(ui): follow-scroll by position, wire haptics, adopt and prune design tokens](https://github.com/sozercan/ayna/pull/125) on [sozercan/ayna](https://github.com/sozercan/ayna) (3 days ago)
+- [ci: harden CI and release, compile the icon, run iOS tests, add Watch complication](https://github.com/sozercan/ayna/pull/124) on [sozercan/ayna](https://github.com/sozercan/ayna) (3 days ago)
+- [perf: stream off the main actor, publish once per chunk, keep logs private](https://github.com/sozercan/ayna/pull/123) on [sozercan/ayna](https://github.com/sozercan/ayna) (3 days ago)
+- [feat(agent): git and project context tools, task list, hotkey recorder](https://github.com/sozercan/ayna/pull/122) on [sozercan/ayna](https://github.com/sozercan/ayna) (3 days ago)
+- [feat(memory): keep summaries current, extract facts, clean up after deletes](https://github.com/sozercan/ayna/pull/121) on [sozercan/ayna](https://github.com/sozercan/ayna) (3 days ago)
+- [fix(ai): retry transient HTTP statuses and give Claude room to answer](https://github.com/sozercan/ayna/pull/120) on [sozercan/ayna](https://github.com/sozercan/ayna) (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/arin](https://github.com/sozercan/arin) ([v0.2.0](https://github.com/sozercan/arin/releases/tag/v0.2.0), 4 days ago) - 💾 Agentic disk cleaner for developer Macs
-- [sozercan/helio](https://github.com/sozercan/helio) ([v0.1.0](https://github.com/sozercan/helio/releases/tag/v0.1.0), 6 days ago) - 👽 A beautiful and native Reddit client for iOS, iPadOS and macOS
+- [sozercan/arin](https://github.com/sozercan/arin) ([v0.2.0](https://github.com/sozercan/arin/releases/tag/v0.2.0), 5 days ago) - 💾 Agentic disk cleaner for developer Macs
+- [sozercan/helio](https://github.com/sozercan/helio) ([v0.1.0](https://github.com/sozercan/helio/releases/tag/v0.1.0), 1 week ago) - 👽 A beautiful and native Reddit client for iOS, iPadOS and macOS
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) ([v0.3.4](https://github.com/sozercan/a365cli/releases/tag/v0.3.4), 1 week ago) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365
 - [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.14](https://github.com/sozercan/vekil/releases/tag/v0.14.14), 2 weeks ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
 - [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.3.0](https://github.com/orka-agents/orka/releases/tag/v0.3.0), 3 weeks ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
@@ -69,16 +69,16 @@
 
 #### ⭐ Recent Stars
 
-- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter (today)
-- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration (1 day ago)
-- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane (1 day ago)
-- [sansri61/fake-sglang](https://github.com/sansri61/fake-sglang) - A lightweight SGLang fake that can run on CPUs. (2 days ago)
-- [tylertms/Stela](https://github.com/tylertms/Stela) - A general purpose Apple Silicon layer for x86-64 PCs (2 days ago)
-- [orka-agents/orka-bridge](https://github.com/orka-agents/orka-bridge) (2 days ago)
-- [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs. (2 days ago)
-- [OrchardLinux/orchard](https://github.com/OrchardLinux/orchard) - Linux on Apple devices: hardware support, kernel patches, recipes and the orchard tool (2 days ago)
-- [lxe/phoneuse](https://github.com/lxe/phoneuse) - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents. (2 days ago)
-- [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) - Enable Hermès Watch Faces on any Apple Watch devices (3 days ago)
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter (1 day ago)
+- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration (2 days ago)
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane (2 days ago)
+- [sansri61/fake-sglang](https://github.com/sansri61/fake-sglang) - A lightweight SGLang fake that can run on CPUs. (3 days ago)
+- [tylertms/Stela](https://github.com/tylertms/Stela) - A translation-based Apple Silicon layer for x86-64 PCs (3 days ago)
+- [orka-agents/orka-bridge](https://github.com/orka-agents/orka-bridge) (3 days ago)
+- [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs. (3 days ago)
+- [OrchardLinux/orchard](https://github.com/OrchardLinux/orchard) - Linux on Apple devices: hardware support, kernel patches, recipes and the orchard tool (3 days ago)
+- [lxe/phoneuse](https://github.com/lxe/phoneuse) - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents. (3 days ago)
+- [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) - Enable Hermès Watch Faces on any Apple Watch devices (4 days ago)
 
 ---
 
