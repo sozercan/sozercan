@@ -26,42 +26,42 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (today)
 - [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (today)
-- [sozercan/arin](https://github.com/sozercan/arin) - 💾 Agentic disk cleaner for developer Macs (1 day ago)
-- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 day ago)
-- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (3 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 day ago)
+- [sozercan/arin](https://github.com/sozercan/arin) - 💾 Agentic disk cleaner for developer Macs (2 days ago)
+- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (2 days ago)
+- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (4 days ago)
 - [sozercan/helio](https://github.com/sozercan/helio) - 👽 A beautiful and native Reddit client for iOS, iPadOS and macOS (1 week ago)
 - [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (1 week ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (1 week ago)
 - [orka-agents/orka-eval-fixtures](https://github.com/orka-agents/orka-eval-fixtures) (1 week ago)
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (1 week ago)
 - [sozercan/copacabana](https://github.com/sozercan/copacabana) - 🪡 In-cluster Copa patching controller prototype (1 week ago)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 week ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (2 weeks ago)
 - [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (2 weeks ago)
 - [rakha0x/kaset](https://github.com/rakha0x/kaset) - 📼 The missing YouTube and YouTube Music macOS app (2 weeks ago)
 - [TuiLaHieu1/kaset-custom](https://github.com/TuiLaHieu1/kaset-custom) - App youtube cho macbook. Personalization. (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: sign people in to Orka with GitHub and invite them to an agent host](https://github.com/orka-agents/orka/pull/1121) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
-- [fix(extensions): require permission consent](https://github.com/sozercan/kaset/pull/589) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
-- [fix(e2e): Core proof credential injection, startup 503 retry and cleanup ordering](https://github.com/orka-agents/orka-workspace/pull/18) on [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 day ago)
-- [chore: add t3.json project config for T3 Code](https://github.com/orka-agents/orka/pull/1120) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [ci: run the live Agent Substrate v1 Data and Core proofs, with injection, tracing and eviction](https://github.com/orka-agents/orka-workspace/pull/17) on [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 day ago)
-- [test(substrate): cover Agent Substrate v1 direct, checkpoint, credential injection, tracing and ACP in CI](https://github.com/orka-agents/orka/pull/1118) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [fix(runtime): fit supervisor telemetry into the native 32-entry environment](https://github.com/orka-agents/orka/pull/1117) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [chore: add t3.json with project scripts](https://github.com/sozercan/kaset/pull/588) on [sozercan/kaset](https://github.com/sozercan/kaset) (1 day ago)
-- [docs(adr): renumber the Agent Substrate v1.0.0 ADR to 0049](https://github.com/orka-agents/orka/pull/1114) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [build: give make test a 20-minute per-package timeout](https://github.com/orka-agents/orka/pull/1112) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [feat(memory): pin consolidation proposals to memory generations](https://github.com/orka-agents/orka/pull/1129) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [feat(memory): count agent recalls of durable memories](https://github.com/orka-agents/orka/pull/1128) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [docs(adr): consolidate memory offline into reviewed proposals (ADR 0051)](https://github.com/orka-agents/orka/pull/1127) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [ci: sweep open Dependabot PRs so auto-merge cannot miss them](https://github.com/orka-agents/orka/pull/1122) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [feat: sign people in to Orka with GitHub and invite them to an agent host](https://github.com/orka-agents/orka/pull/1121) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
+- [fix(extensions): require permission consent](https://github.com/sozercan/kaset/pull/589) on [sozercan/kaset](https://github.com/sozercan/kaset) (2 days ago)
+- [fix(e2e): Core proof credential injection, startup 503 retry and cleanup ordering](https://github.com/orka-agents/orka-workspace/pull/18) on [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (2 days ago)
+- [chore: add t3.json project config for T3 Code](https://github.com/orka-agents/orka/pull/1120) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
+- [ci: run the live Agent Substrate v1 Data and Core proofs, with injection, tracing and eviction](https://github.com/orka-agents/orka-workspace/pull/17) on [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (2 days ago)
+- [test(substrate): cover Agent Substrate v1 direct, checkpoint, credential injection, tracing and ACP in CI](https://github.com/orka-agents/orka/pull/1118) on [orka-agents/orka](https://github.com/orka-agents/orka) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [sozercan/arin](https://github.com/sozercan/arin) ([v0.2.0](https://github.com/sozercan/arin/releases/tag/v0.2.0), 6 days ago) - 💾 Agentic disk cleaner for developer Macs
+- [sozercan/arin](https://github.com/sozercan/arin) ([v0.2.0](https://github.com/sozercan/arin/releases/tag/v0.2.0), 1 week ago) - 💾 Agentic disk cleaner for developer Macs
 - [sozercan/helio](https://github.com/sozercan/helio) ([v0.1.0](https://github.com/sozercan/helio/releases/tag/v0.1.0), 1 week ago) - 👽 A beautiful and native Reddit client for iOS, iPadOS and macOS
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) ([v0.3.4](https://github.com/sozercan/a365cli/releases/tag/v0.3.4), 1 week ago) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365
 - [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.14.14](https://github.com/sozercan/vekil/releases/tag/v0.14.14), 2 weeks ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
-- [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.3.0](https://github.com/orka-agents/orka/releases/tag/v0.3.0), 3 weeks ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
+- [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.3.0](https://github.com/orka-agents/orka/releases/tag/v0.3.0), 4 weeks ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
 - [sozercan/kaset](https://github.com/sozercan/kaset) ([v0.14.2](https://github.com/sozercan/kaset/releases/tag/v0.14.2), 1 month ago) - 📼 The missing YouTube and YouTube Music macOS app
 - [ai-runway/airunway](https://github.com/ai-runway/airunway) ([v0.8.0](https://github.com/ai-runway/airunway/releases/tag/v0.8.0), 2 months ago) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) ([v0.15.0](https://github.com/project-copacetic/copacetic/releases/tag/v0.15.0), 2 months ago) - 🧵 CLI tool for directly patching container images!
@@ -69,16 +69,16 @@
 
 #### ⭐ Recent Stars
 
-- [hydro-project/hydro](https://github.com/hydro-project/hydro) - A Rust framework for correct and performant distributed systems (1 day ago)
-- [fazxes/rex-durable](https://github.com/fazxes/rex-durable) - Keep the programs in your Rex tabs across server restarts and reboots. fx, Claude Code, and Codex chats reopen on their own conversation. (1 day ago)
-- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter (2 days ago)
-- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration (3 days ago)
-- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane (3 days ago)
-- [sansri61/fake-sglang](https://github.com/sansri61/fake-sglang) - A lightweight SGLang fake that can run on CPUs. (4 days ago)
-- [tylertms/Stela](https://github.com/tylertms/Stela) - A translation-based Apple Silicon layer for x86-64 PCs (4 days ago)
-- [orka-agents/orka-bridge](https://github.com/orka-agents/orka-bridge) (4 days ago)
-- [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs. (4 days ago)
-- [OrchardLinux/orchard](https://github.com/OrchardLinux/orchard) - Linux on Apple devices: hardware support, kernel patches, recipes and the orchard tool (4 days ago)
+- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife (1 day ago)
+- [34306/ForceDuoApp](https://github.com/34306/ForceDuoApp) - Force iPhone Duo's application use latest SDK to adaptive and supports iPhone Duo, normally it just fall back to iPad UI (1 day ago)
+- [hydro-project/hydro](https://github.com/hydro-project/hydro) - A Rust framework for correct and performant distributed systems (2 days ago)
+- [fazxes/rex-durable](https://github.com/fazxes/rex-durable) - Keep the programs in your Rex tabs across server restarts and reboots. fx, Claude Code, and Codex chats reopen on their own conversation. (2 days ago)
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter (3 days ago)
+- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration (4 days ago)
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane (4 days ago)
+- [sansri61/fake-sglang](https://github.com/sansri61/fake-sglang) - A lightweight SGLang fake that can run on CPUs. (5 days ago)
+- [tylertms/Stela](https://github.com/tylertms/Stela) - A translation-based Apple Silicon layer for x86-64 PCs (5 days ago)
+- [orka-agents/orka-bridge](https://github.com/orka-agents/orka-bridge) (5 days ago)
 
 ---
 
