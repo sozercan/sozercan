@@ -26,15 +26,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (today)
-- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (1 day ago)
-- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (1 day ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (1 day ago)
-- [sozercan/arin](https://github.com/sozercan/arin) - 💾 Agentic disk cleaner for developer Macs (4 days ago)
-- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 week ago)
-- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (2 weeks ago)
-- [sozercan/helio](https://github.com/sozercan/helio) - 👽 A beautiful and native Reddit client for iOS, iPadOS and macOS (2 weeks ago)
-- [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (2 weeks ago)
+- [sozercan/helio](https://github.com/sozercan/helio) - 👽 A beautiful and native Reddit client for iOS, iPadOS and macOS (today)
+- [orka-agents/orka](https://github.com/orka-agents/orka) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes (today)
+- [sozercan/ayna](https://github.com/sozercan/ayna) - 🪞 Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI (1 day ago)
+- [orka-agents/orka-workspace](https://github.com/orka-agents/orka-workspace) (1 day ago)
+- [sozercan/skills](https://github.com/sozercan/skills) - 👨‍🏫 Personal collection of agent skills (1 day ago)
+- [sozercan/vekil](https://github.com/sozercan/vekil) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers (2 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app (2 days ago)
+- [sozercan/arin](https://github.com/sozercan/arin) - 💾 Agentic disk cleaner for developer Macs (5 days ago)
+- [ai-runway/airunway](https://github.com/ai-runway/airunway) - ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers (3 weeks ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (3 weeks ago)
 - [orka-agents/orka-eval-fixtures](https://github.com/orka-agents/orka-eval-fixtures) (3 weeks ago)
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365 (3 weeks ago)
@@ -44,21 +44,21 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(autoreview): sync upstream d6438c2 and update downstream defaults](https://github.com/sozercan/skills/pull/13) on [sozercan/skills](https://github.com/sozercan/skills) (today)
-- [fix(proxy): translate Gemini functionResponse.parts text and image attachments](https://github.com/sozercan/vekil/pull/481) on [sozercan/vekil](https://github.com/sozercan/vekil) (1 day ago)
-- [feat(cli,api): improve Agent Identity UX, audit lookup, OIDC login, and connector linking](https://github.com/orka-agents/orka/pull/1390) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat(monitor): add review webhooks, Actions job logs, and clean-room rebase](https://github.com/orka-agents/orka/pull/1385) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat(monitor): fix update_branch, add SSH commit signing/DCO, and handle external review comments](https://github.com/orka-agents/orka/pull/1384) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
-- [feat(launch): add vekil launch agy for Antigravity CLI](https://github.com/sozercan/vekil/pull/480) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
-- [fix(proxy): reject overlapping Gemini tool-call batches](https://github.com/sozercan/vekil/pull/478) on [sozercan/vekil](https://github.com/sozercan/vekil) (2 days ago)
-- [feat: clean up idle agent sessions with each agent's own command](https://github.com/sozercan/arin/pull/17) on [sozercan/arin](https://github.com/sozercan/arin) (3 days ago)
-- [chore: delete every remaining code comment](https://github.com/orka-agents/orka/pull/1365) on [orka-agents/orka](https://github.com/orka-agents/orka) (4 days ago)
-- [chore: finish removing source comments](https://github.com/sozercan/kaset/pull/627) on [sozercan/kaset](https://github.com/sozercan/kaset) (4 days ago)
+- [feat(security): add controller-executed fail-before-pass patch verification](https://github.com/orka-agents/orka/pull/1431) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [fix: load web-session comments with session cookies and smooth comment collapse](https://github.com/sozercan/helio/pull/73) on [sozercan/helio](https://github.com/sozercan/helio) (today)
+- [feat(k8s): add cluster capability detection and K8s 1.33-1.37 workload features](https://github.com/orka-agents/orka/pull/1430) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [fix(security): reject failing patch test runs and clarify PR verification status](https://github.com/orka-agents/orka/pull/1429) on [orka-agents/orka](https://github.com/orka-agents/orka) (today)
+- [refactor(persistence): replace Core Data fatalError with safe recovery and migrate heavy UserDefaults](https://github.com/sozercan/helio/pull/72) on [sozercan/helio](https://github.com/sozercan/helio) (today)
+- [fix: repair Safari extension redirect, load subreddit flair emojis, and use CHHapticPattern sequence](https://github.com/sozercan/helio/pull/71) on [sozercan/helio](https://github.com/sozercan/helio) (today)
+- [fix(tests): make UI/unit test waits deterministic and decouple perf harness from SmokeUITests](https://github.com/sozercan/helio/pull/70) on [sozercan/helio](https://github.com/sozercan/helio) (today)
+- [refactor: remove RedditAPI.me shim, replace BaseCache with NSCache, and pass feed column width](https://github.com/sozercan/helio/pull/69) on [sozercan/helio](https://github.com/sozercan/helio) (today)
+- [fix(ui): scope lightbox zoom per page, fix double-tap zoom math, and clean up search/share/theme](https://github.com/sozercan/helio/pull/68) on [sozercan/helio](https://github.com/sozercan/helio) (today)
+- [feat(security): add validationAgentRef, threat-model finding fields, and shared-sink dedup guard](https://github.com/orka-agents/orka/pull/1427) on [orka-agents/orka](https://github.com/orka-agents/orka) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.4.0](https://github.com/orka-agents/orka/releases/tag/v0.4.0), 1 day ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
-- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.16.0](https://github.com/sozercan/vekil/releases/tag/v0.16.0), 2 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
+- [orka-agents/orka](https://github.com/orka-agents/orka) ([v0.4.0](https://github.com/orka-agents/orka/releases/tag/v0.4.0), 2 days ago) - 🐋 Cloud and AI-native multi-agent orchestration platform for Kubernetes
+- [sozercan/vekil](https://github.com/sozercan/vekil) ([v0.16.0](https://github.com/sozercan/vekil/releases/tag/v0.16.0), 3 days ago) - 🧑‍💼 AI gateway exposing Anthropic, Gemini, and OpenAI-compatible APIs, backed by GitHub Copilot, OpenAI Codex, Microsoft Foundry, and compatible model servers
 - [sozercan/arin](https://github.com/sozercan/arin) ([v0.3.0](https://github.com/sozercan/arin/releases/tag/v0.3.0), 1 week ago) - 💾 Agentic disk cleaner for developer Macs
 - [sozercan/helio](https://github.com/sozercan/helio) ([v0.1.0](https://github.com/sozercan/helio/releases/tag/v0.1.0), 2 weeks ago) - 👽 A beautiful and native Reddit client for iOS, iPadOS and macOS
 - [sozercan/a365cli](https://github.com/sozercan/a365cli) ([v0.3.4](https://github.com/sozercan/a365cli/releases/tag/v0.3.4), 3 weeks ago) - 🕵 Standalone CLI for Microsoft 365 services via Agent 365
@@ -69,16 +69,16 @@
 
 #### ⭐ Recent Stars
 
-- [whitecircle/halo](https://github.com/whitecircle/halo) - Halo is an open-source framework built by White Circle for training large language and multimodal models (1 day ago)
-- [google-gemini/gemini-api-cli](https://github.com/google-gemini/gemini-api-cli) - An (experimental) CLI for the Gemini API (2 days ago)
-- [anthropics/formal-math](https://github.com/anthropics/formal-math) (2 days ago)
-- [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo) - eBPF-based security platform (2 days ago)
-- [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux) (3 days ago)
-- [markrussinovich/agent-session-insights](https://github.com/markrussinovich/agent-session-insights) - Evidence-linked reports, insights, cost analysis, and offline replays of coding-agent sessions. (3 days ago)
-- [os6/nospeaker](https://github.com/os6/nospeaker) - make your macbook's trackpad talk using its haptic motor (4 days ago)
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that spreads models across your GPU, RAM, and SSD so they run on everyday Macs and PCs. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU. (4 days ago)
-- [baseguard/hangar](https://github.com/baseguard/hangar) - Run AI coding agents in a macOS, Linux or Windows virtual machine on your Mac. (4 days ago)
-- [govijr/fix-storage](https://github.com/govijr/fix-storage) - A CLI to fix your mac's & linux machine's storage problems, just run fix-storage. (4 days ago)
+- [gabrielkoerich/git-cow](https://github.com/gabrielkoerich/git-cow) - Git worktrees that share files through copy-on-write clones (APFS, XFS, btrfs). A git subcommand and a Rust crate (1 day ago)
+- [whitecircle/halo](https://github.com/whitecircle/halo) - Halo is an open-source framework built by White Circle for training large language and multimodal models (2 days ago)
+- [google-gemini/gemini-api-cli](https://github.com/google-gemini/gemini-api-cli) - An (experimental) CLI for the Gemini API (3 days ago)
+- [anthropics/formal-math](https://github.com/anthropics/formal-math) (3 days ago)
+- [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo) - eBPF-based security platform (3 days ago)
+- [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux) (4 days ago)
+- [markrussinovich/agent-session-insights](https://github.com/markrussinovich/agent-session-insights) - Evidence-linked reports, insights, cost analysis, and offline replays of coding-agent sessions. (4 days ago)
+- [os6/nospeaker](https://github.com/os6/nospeaker) - make your macbook's trackpad talk using its haptic motor (5 days ago)
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that spreads models across your GPU, RAM, and SSD so they run on everyday Macs and PCs. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU. (5 days ago)
+- [baseguard/hangar](https://github.com/baseguard/hangar) - Run AI coding agents in a macOS, Linux or Windows virtual machine on your Mac. (5 days ago)
 
 ---
 
